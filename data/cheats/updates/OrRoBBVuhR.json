@@ -1,0 +1,382 @@
+{
+ "Name": "Velocity",
+ "Identifier": "OrRoBBVuhR",
+ "Update": {
+  "Metadata": [
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-d34359a5577645e2",
+     "Software": "0.5.2"
+    },
+    "Changelog": "[!] Disable full screen optimization to fix blackscreening\n[*] Updated for the latest Roblox client\n[!] if the auto update fails, redownload from our website: getvelocity.lol\n[!] Sorry we took so long, had to update bypasses n such :3\n[!] New injector coming soon kings & queens\nplease join discord.gg/velocityide",
+    "Timestamp": "2025-10-11T06:54:58.554Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-d34359a5577645e2",
+     "Software": "0.5.3"
+    },
+    "Changelog": "[!] Disable full screen optimization to fix blackscreening\n[!] Official website: getvelocity.lol\n[+] New Injector (if you have issues make sure to dm me as it's experimental)\nplease join discord.gg/velocityide",
+    "Timestamp": "2025-10-11T18:56:06.822Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-889d2588b25a43d1",
+     "Software": "0.5.5"
+    },
+    "Changelog": "[!] Disable full screen optimization to fix blackscreening\n[!] Official website: getvelocity.lol\n[!] Man we thought to ourselfs and said hey lets come back for this halloween\n[*] Chance of getting banned is high, please only use alts and do not have multiple Roblox clients open at once as we're not using our standard injection with it's bypasses\nplease join discord.gg/velocityide",
+    "Timestamp": "2025-11-01T00:14:40.446Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-889d2588b25a43d1",
+     "Software": "0.5.6"
+    },
+    "Changelog": "[!] Disable full screen optimization to fix blackscreening\n[!] Official website: getvelocity.lol\n[+] Rewrote websocket library\n[+] Fixed getscripthash\n[*] Fixed yara detections\nplease join discord.gg/velocityide",
+    "Timestamp": "2025-11-04T19:24:32.978Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-f6dd34ecac7b4642",
+     "Software": "0.5.7"
+    },
+    "Changelog": "[!] Disable full screen optimization to fix blackscreening\n[!] Official website: getvelocity.lol\n[!] Expect some sort of random crash as this update uses some absolutely diabolical methods to get velocity working\nplease join discord.gg/velocityide",
+    "Timestamp": "2025-11-06T06:30:16.791Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-5b077c09380f4fe6",
+     "Software": "0.5.8"
+    },
+    "Changelog": "[!] Disable full screen optimization to fix blackscreening\n[!] Official website: getvelocity.lol\n[!] This is the last update for the Velocity internal for awhile, some functions will appear broken on sunc because of some bugs on their end and mine. Enjoy!\nplease join discord.gg/velocityide",
+    "Timestamp": "2025-12-28T19:28:14.588Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-5b077c09380f4fe6",
+     "Software": "0.5.9"
+    },
+    "Changelog": "[!] Disable full screen optimization to fix blackscreening\n[!] Official website: getvelocity.lol\n[!] This is the last update for the Velocity internal for awhile, some functions will appear broken on sunc because of some bugs on their end and mine. Enjoy!\n[*] Sorry Roblox told me to leave a detection in on the last update, I'm being nice and removed it on this one <3\nplease join discord.gg/velocityide",
+    "Timestamp": "2025-12-28T19:50:37.093Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-5b077c09380f4fe6",
+     "Software": "0.6.0"
+    },
+    "Changelog": "[!] Disable full screen optimization to fix blackscreening\n[!] Official website: getvelocity.lol\n[!] This is the last update for the Velocity internal for awhile, some functions will appear broken on sunc because of some bugs on their end and mine. Enjoy!\n[*] Fixed multi-instance injection not working, you can now select and inject into multiple Roblox instances through the UI and API\nplease join discord.gg/velocityide",
+    "Timestamp": "2025-12-30T03:18:12.095Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-5b077c09380f4fe6",
+     "Software": "0.6.1"
+    },
+    "Changelog": "[!] Disable full screen optimization to fix blackscreening\n[!] Official website: getvelocity.lol\n[!] This is the last update for the Velocity internal for awhile, some functions will appear broken on sunc because of some bugs on their end and mine. Enjoy!\n[+] Raknet.desync (this function accepts 1 arg which is a boolean to toggle on and off, rejoining a game will toggle it off!)\n[!] Patched some new vulnerabilities\nplease join discord.gg/velocityide",
+    "Timestamp": "2025-12-31T14:03:52.214Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-f8f53a67efca4c34",
+     "Software": "0.6.2"
+    },
+    "Changelog": "[!] Updated for the latest Roblox client\n[!] Disable full screen optimization to fix blackscreening\n[!] Official website: getvelocity.lol\n[!] This is the last update for the Velocity internal for awhile, some functions will appear broken on sunc because of some bugs on their end and mine. Enjoy!\nplease join discord.gg/velocityide",
+    "Timestamp": "2025-12-31T19:56:47.979Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-f8f53a67efca4c34",
+     "Software": "0.6.3"
+    },
+    "Changelog": "[!] Official website: getvelocity.lol\n[+] Optimized drawing library\n[+] Fixed lag issues\n[!] This is the last update for the Velocity internal for awhile, some functions will appear broken on sunc because of some bugs on their end and mine. Enjoy!\nplease join discord.gg/velocityide",
+    "Timestamp": "2026-01-01T03:06:51.215Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-f8f53a67efca4c34",
+     "Software": "0.6.4"
+    },
+    "Changelog": "[!] Official website: realvelocity.xyz\n[!] Our old website 'getvelocity.lol' was taken down by cloudflare and our old APIs no longer work, if you have issues with the auto updater not working etc you'll need to grab the new file from our website or dc server or you can redownload velocity entirely from the site\n[*] Rewrote security check functions to be faster and more efficient\n[*] Tweaked getconnections to be more reliable\nplease join discord.gg/velocityide",
+    "Timestamp": "2026-01-03T03:55:57.984Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-f8f53a67efca4c34",
+     "Software": "0.6.5"
+    },
+    "Changelog": "[!] Official website: realvelocity.xyz\n[!] Our old website 'getvelocity.lol' was taken down by cloudflare and our old APIs no longer work, if you have issues with the auto updater not working etc you'll need to grab the new file from our website or dc server or you can redownload velocity entirely from the site\n\n[*] getconnections signal indexing lagging randomly fixed\n[*] TP Handler rewrote\n[*] debug.getinfo stack level passing and function passing fixed\n[*] Code optimizations\nplease join discord.gg/velocityide",
+    "Timestamp": "2026-01-04T01:15:35.594Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-89d89cb2d6b649be",
+     "Software": "0.6.6"
+    },
+    "Changelog": "[!] Official website: realvelocity.xyz\n[!] Our old website 'getvelocity.lol' was taken down by cloudflare and our old APIs no longer work, if you have issues with the auto updater not working etc you'll need to grab the new file from our website or dc server or you can redownload velocity entirely from the site\n\n[*] Fixed the horrible implementation of getactors & getactorthreads\n[*] Rewrote yielding implementation for httpget, request, http_post (experimental lmk if it crashes out)\n\nplease join discord.gg/velocityide",
+    "Timestamp": "2026-01-08T09:20:11.258Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-89d89cb2d6b649be",
+     "Software": "0.6.7"
+    },
+    "Changelog": "[!] Official website: realvelocity.xyz\n[!] Our old website 'getvelocity.lol' was taken down by cloudflare and our old APIs no longer work, if you have issues with the auto updater not working etc you'll need to grab the new file from our website or dc server or you can redownload velocity entirely from the site\n\n[+] Rewrote environment setup\n[+] Fixed stack detection on firesignal & defersignal also :Fire and :Defer methods on getconnections\n[+] Fixed request & firesignal failing on sunc\n\nplease join discord.gg/velocityide",
+    "Timestamp": "2026-01-11T08:15:44.024Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-89d89cb2d6b649be",
+     "Software": "0.6.8"
+    },
+    "Changelog": "[!] Official website: realvelocity.xyz\n[!] Our old website 'getvelocity.lol' was taken down by cloudflare and our old APIs no longer work, if you have issues with the auto updater not working etc you'll need to grab the new file from our website or dc server or you can redownload velocity entirely from the site\n\n[!] Rewrote isparallel / checkparallel / inparallel\n[!] Fixed isscriptable\n[!] Fixed setscriptable\n[!] Fixed gethiddenproperty\n[!] Fixed sethiddenproperty\n[!] Bypassed detection on getscriptclosure causing users to get banned on Roblox if used #UDFromTheCheck\n[+] Added filtergc\n[!] Fixed auto-execute (will only load .txt & .lua files)\n[!] isscriptable & setscriptable & filtergc now pass on sunc test, 96% sunc (technically 98% but sunc gethidden and sethidden tests are broke)\n\nplease join discord.gg/velocityide",
+    "Timestamp": "2026-01-11T13:39:08.417Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-89d89cb2d6b649be",
+     "Software": "0.6.9"
+    },
+    "Changelog": "[!] Official website: realvelocity.xyz\n[!] Our old website 'getvelocity.lol' was taken down by cloudflare and our old APIs no longer work, if you have issues with the auto updater not working etc you'll need to grab the new file from our website or dc server or you can redownload velocity entirely from the site\n\n[+] added getcallstack\n[!] Patched an RCE in function hooking\n\nplease join discord.gg/velocityide",
+    "Timestamp": "2026-01-12T23:27:16.962Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-1588a9c58c674e38",
+     "Software": "0.7.0 Experimental"
+    },
+    "Changelog": "[!] Official website: realvelocity.xyz\n[!] Our old website 'getvelocity.lol' was taken down by cloudflare and our old APIs no longer work, if you have issues with the auto updater not working etc you'll need to grab the new file from our website or dc server or you can redownload velocity entirely from the site\n\n[*] Updated to the latest Roblox version\n[!] THIS VERSION IS EXPERIMENTAL, EXPECT CRASHES AND BUGS\n\nplease join discord.gg/velocityide",
+    "Timestamp": "2026-01-15T04:52:12.556Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-1588a9c58c674e38",
+     "Software": "0.7.1"
+    },
+    "Changelog": "[!] Official website: realvelocity.xyz\n[!] Our old website 'getvelocity.lol' was taken down by cloudflare and our old APIs no longer work, if you have issues with the auto updater not working etc you'll need to grab the new file from our website or dc server or you can redownload velocity entirely from the site\n\n[*] Slightly fixed the crash with replicatesignal (not 100% but better than before)\n[*] Rewrote script execution\n\nplease join discord.gg/velocityide",
+    "Timestamp": "2026-01-17T07:41:24.831Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-1588a9c58c674e38",
+     "Software": "0.7.2"
+    },
+    "Changelog": "[!] Official website: realvelocity.xyz\n[!] Our old website 'getvelocity.lol' was taken down by cloudflare and our old APIs no longer work, if you have issues with the auto updater not working etc you'll need to grab the new file from our website or dc server or you can redownload velocity entirely from the site\n\n[*] Reverted back to the old execution method\n[*] Updated our internal lua library to be more up-to date with Roblox's\n[*] Malice can you turn your auto link reporter bot off for the next hour thanks\n[*] Redone newcclosure\n[+] wrapclosure\n[+] newlclosure\n\nplease join discord.gg/velocityide",
+    "Timestamp": "2026-01-18T10:19:56.997Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-0f5223fb6e7e4955",
+     "Software": "0.7.3"
+    },
+    "Changelog": "[!] Official website: realvelocity.xyz\n[!] Our old website 'getvelocity.lol' was taken down by cloudflare and our old APIs no longer work, if you have issues with the auto updater not working etc you'll need to grab the new file from our website or dc server or you can redownload velocity entirely from the site\n\n[*] Updated to the latest version of Roblox\n[!] Please do not use your main account unless you want to get banned like a dumbass\n[!] Running sunc will now crash you instantly so don't even bother to try\n\nplease join discord.gg/velocityide",
+    "Timestamp": "2026-01-23T11:51:07.713Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-0f5223fb6e7e4955",
+     "Software": "0.7.4"
+    },
+    "Changelog": "[!] Official website: realvelocity.xyz\n[!] Our old website 'getvelocity.lol' was taken down by cloudflare and our old APIs no longer work, if you have issues with the auto updater not working etc you'll need to grab the new file from our website or dc server or you can redownload velocity entirely from the site\n\n[*] Updated to the latest version of Roblox\n[!] Please do not use your main account unless you want to get banned like a dumbass\n[!] Running sunc will now crash you instantly so don't even bother to try\n[*] Fixed filesystem blocking .json extensions for no reason\n[*] Also there's a banwave going on, they last for about a day or two\n\nplease join discord.gg/velocityide",
+    "Timestamp": "2026-01-23T12:24:28.494Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-8b8c34790f814a73",
+     "Software": "0.7.5"
+    },
+    "Changelog": "[!] Official website: realvelocity.xyz\n[!] Our old website 'getvelocity.lol' was taken down by cloudflare and our old APIs no longer work, if you have issues with the auto updater not working etc you'll need to grab the new file from our website or dc server or you can redownload velocity entirely from the site\n\n[*] Updated to the latest version of Roblox\n\nplease join discord.gg/velocityide",
+    "Timestamp": "2026-01-23T19:35:51.749Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-8b8c34790f814a73",
+     "Software": "0.7.6"
+    },
+    "Changelog": "[!] Official website: realvelocity.xyz\n[!] Our old website 'getvelocity.lol' was taken down by cloudflare and our old APIs no longer work, if you have issues with the auto updater not working etc you'll need to grab the new file from our website or dc server or you can redownload velocity entirely from the site\n\n[+] Patched basic debug.info stack detection on hooks made by hookfunction\n[+] Patched stack overflow detection in newcclosure\n[+] Fixed dex crashing\n[+] Fixed gethiddenproperty & sethiddenproperty\n\n\nplease join discord.gg/velocityide",
+    "Timestamp": "2026-01-24T15:47:56.964Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-f8734e043e1e40a2",
+     "Software": "0.7.6"
+    },
+    "Changelog": "[!] Official website: realvelocity.xyz\n[!] Our old website 'getvelocity.lol' was taken down by cloudflare and our old APIs no longer work, if you have issues with the auto updater not working etc you'll need to grab the new file from our website or dc server or you can redownload velocity entirely from the site\n\n[!] Updated for the latest Roblox version\n[!] Sorry they updated at 1am for me while I was sleeping\n\n\nplease join discord.gg/velocityide",
+    "Timestamp": "2026-01-27T09:51:21.187Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-db4634f0e27d4d36",
+     "Software": "0.7.7"
+    },
+    "Changelog": "[!] Official website: realvelocity.xyz\n[!] Our old website 'getvelocity.lol' was taken down by cloudflare and our old APIs no longer work, if you have issues with the auto updater not working etc you'll need to grab the new file from our website or dc server or you can redownload velocity entirely from the site\n\n[!] Updated for the latest Roblox version\n[!] Son I'm crine\n\n\nplease join discord.gg/velocityide",
+    "Timestamp": "2026-01-31T16:14:44.460Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-80c7b8e578f241ff",
+     "Software": "0.7.8"
+    },
+    "Changelog": "[!] Official website: realvelocity.xyz\n[!] Our old website 'getvelocity.lol' was taken down by cloudflare and our old APIs no longer work, if you have issues with the auto updater not working etc you'll need to grab the new file from our website or dc server or you can redownload velocity entirely from the site\n\n[!] Updated for the latest Roblox version\n[!] Son I'm crine\n\n\nplease join discord.gg/velocityide",
+    "Timestamp": "2026-02-06T23:38:56.479Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-bd08027bb04e4045",
+     "Software": "0.7.9"
+    },
+    "Changelog": "[!] Official website: realvelocity.xyz\n[!] Our old website 'getvelocity.lol' was taken down by cloudflare and our old APIs no longer work, if you have issues with the auto updater not working etc you'll need to grab the new file from our website or dc server or you can redownload velocity entirely from the site\n\n[!] Updated for the latest Roblox version\n[*] Fixed 10 minute crash\n[*] Rewrote tp handler\n[*] Fixed a random error with injection\n[!] Son I'm crine\n\n\nplease join discord.gg/velocityide",
+    "Timestamp": "2026-02-13T01:33:32.676Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-bd08027bb04e4045",
+     "Software": "0.8.0"
+    },
+    "Changelog": "[!] Official website: realvelocity.xyz\n[!] Our old website 'getvelocity.lol' was taken down by cloudflare and our old APIs no longer work, if you have issues with the auto updater not working etc you'll need to grab the new file from our website or dc server or you can redownload velocity entirely from the site\n\n[+] Fixed injector crashing aka it was being a bad boy 😠\n\nplease join discord.gg/velocityide",
+    "Timestamp": "2026-02-13T08:29:46.265Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-df7528517c6849f7",
+     "Software": "0.8.1"
+    },
+    "Changelog": "[!] Updated for the latest Roblox version\n\nplease join discord.gg/velocityide",
+    "Timestamp": "2026-02-18T22:23:06.416Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-760d064d05424689",
+     "Software": "0.8.2"
+    },
+    "Changelog": "[!] Updated for the latest Roblox version\n\nplease join discord.gg/velocityide",
+    "Timestamp": "2026-02-26T21:20:01.873Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-d599f7fc52a8404c",
+     "Software": "0.8.3"
+    },
+    "Changelog": "[!] Updated for the latest Roblox version\n\nplease join discord.gg/velocityide",
+    "Timestamp": "2026-03-05T16:57:00.883Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-b130242ed064436f",
+     "Software": "0.8.4"
+    },
+    "Changelog": "[!] Updated for the latest Roblox version\n[!] Velocity V3 Soon\n\nplease join discord.gg/velocityide",
+    "Timestamp": "2026-03-12T20:58:14.070Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-ae421f0582e54718",
+     "Software": "0.8.5"
+    },
+    "Changelog": "[!] Updated for the latest Roblox version\n[!] Velocity V3 Soon\n\nplease join discord.gg/velocityide",
+    "Timestamp": "2026-03-18T18:11:26.149Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-ae421f0582e54718",
+     "Software": "0.8.6"
+    },
+    "Changelog": "[*] Fixed multi-injection & multi-execution\n[*] Fixed an issue with proto based functions and error line information being incorrect\n[!] Velocity V3 Soon\n\nplease join discord.gg/velocityide",
+    "Timestamp": "2026-03-21T18:16:22.068Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-6776addb8fbc4d17",
+     "Software": "0.8.7"
+    },
+    "Changelog": "[*] Updated for the latest Roblox\n[!] Velocity V3 Soon\n\nplease join discord.gg/velocityide",
+    "Timestamp": "2026-03-27T12:04:43.678Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-689e359b09ad43b0",
+     "Software": "0.8.8"
+    },
+    "Changelog": "[*] Updated for the latest Roblox\n[!] Velocity V3 Soon\n\nplease join discord.gg/velocityide",
+    "Timestamp": "2026-04-03T08:59:48.197Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-689e359b09ad43b0",
+     "Software": "0.8.9"
+    },
+    "Changelog": "[*] Updated for the latest Roblox\n[*] Fixed execution (this does not fix the 10m / 20m crash)\n[!] Velocity V3 Soon\n\nplease join discord.gg/velocityide",
+    "Timestamp": "2026-04-05T06:27:14.884Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-689e359b09ad43b0",
+     "Software": "0.9.0"
+    },
+    "Changelog": "[!] Fixed the 10minute and 20 minute crash\n[!] Velocity V3 Soon\n\nplease join discord.gg/velocityide",
+    "Timestamp": "2026-04-06T01:39:27.198Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-689e359b09ad43b0",
+     "Software": "0.9.1"
+    },
+    "Changelog": "[!] Forgot to fix the rat my bad gang\n[!] Velocity V3 Soon\n\nplease join discord.gg/velocityide",
+    "Timestamp": "2026-04-06T02:04:45.451Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-9d412f44a6fe4081",
+     "Software": "0.9.2"
+    },
+    "Changelog": "[!] Updated for the latest Roblox version, if crashing try restarting your pc\\n[!] Velocity V3 Soon\\n\\nplease join discord.gg/velocityide",
+    "Timestamp": "2026-04-19T11:24:08.355Z"
+   }
+  ],
+  "Platforms": {
+   "Windows": {
+    "Timestamp": "2026-05-23T07:37:00.182Z"
+   }
+  }
+ }
+}

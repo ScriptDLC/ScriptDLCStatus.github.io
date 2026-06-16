@@ -1,0 +1,427 @@
+{
+ "Name": "Real",
+ "Identifier": "tPfdD9E4DL",
+ "Update": {
+  "Metadata": [
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-9377ee10133e4be3",
+     "Software": "0.2.61"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-05-19T23:34:28.065Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "0.722.0.7221024",
+     "Software": "0.2.61"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-05-21T19:56:28.328Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-4b6315bf1f0a4dbb",
+     "Software": "0.2.7"
+    },
+    "Changelog": "* Updated for version-4b6315bf1f0a4dbb\r\nAwesome updates are coming soon",
+    "Timestamp": "2026-05-21T20:49:23.264Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-4b6315bf1f0a4dbb",
+     "Software": "0.2.71"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-05-21T21:01:22.393Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-4b6315bf1f0a4dbb",
+     "Software": "0.2.72"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-05-21T23:07:29.881Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-4b6315bf1f0a4dbb",
+     "Software": "0.2.73"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-05-21T23:34:59.586Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-4b6315bf1f0a4dbb",
+     "Software": "0.2.74"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-05-22T00:24:56.836Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-4b6315bf1f0a4dbb",
+     "Software": "0.2.75"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-05-22T00:45:27.420Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-4b6315bf1f0a4dbb",
+     "Software": "0.2.8"
+    },
+    "Changelog": "- Replaced manually Login with Browser login\r\n- Added VS Code style diagnostics display, severity colors, counts, and clickable Luau error codes\r\n- Added Problems tree/table view toggle\r\n- Improved Problems tab performance to prevent freezes on scripts with diagnostics\r\n- Reduced unnecessary LSP syncs when switching between script tabs\r\n- Optimized Monaco/LSP startup so the app no longer preloads editor systems on launch\r\n- Added lazy mounting for Editor, Script Hub, and Settings to improve startup smoothness\r\n- Improved Monaco editor startup reliability with loader retry and cache recovery\r\n- Added smart scroll behavior for Terminal and Roblox Output\r\n- Added inline search bars for Problems, Roblox Output, and Terminal\r\n- Fixed Always on top behavior when saving Problems output\r\n- Fixed F11 fullscreen \r\n- Fixed maximized window behavior so rounded corners are removed\r\n- Improved LSP diagnostic stability and race handling",
+    "Timestamp": "2026-05-22T12:40:02.492Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-4b6315bf1f0a4dbb",
+     "Software": "0.2.81"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-05-22T14:40:17.479Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-4b6315bf1f0a4dbb",
+     "Software": "0.2.82"
+    },
+    "Changelog": "- Fixed login\r\n- Fixed installer\r\n- Fixed auto Update",
+    "Timestamp": "2026-05-22T20:37:38.070Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-4b6315bf1f0a4dbb",
+     "Software": "0.2.83"
+    },
+    "Changelog": "- Patched sharing Installation file",
+    "Timestamp": "2026-05-22T21:22:00.191Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-4b6315bf1f0a4dbb",
+     "Software": "0.2.84"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-05-22T23:37:04.062Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-4b6315bf1f0a4dbb",
+     "Software": "0.2.85"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-05-23T00:57:39.448Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-4b6315bf1f0a4dbb",
+     "Software": "0.2.9"
+    },
+    "Changelog": "- Luau 0.721 -> 0.722\r\n- Removed roblox's require warning\r\n- Fixed ALL reflection functions (gethiddenproperty, sethiddenproperty, setscriptable, isscriptable)\r\n- Added getfflag, setfflag, getfflagtype\r\n- Added multi instance support\r\n- Added sethiddenstack/setstackhidden\r\n- Fixed a debug.getupvalue/debug.getupvalues crash issue\r\n- Hopefully fixed injection crashes\r\n\r\nScripts that have been fixed with this update:\r\n- VexHub, Unnamed Enhancements, BK Hub, Atlas BSS and more\r\n- A LOT of SAB/Bloxstrike scripts\r\n- We're waiting for Banana Cat Hub to whitelist us. This is not an issue on our side.\r\n- Added downgrade detection (STOP BLAMING BANS ON REAL, IT'S BECAUSE YOU'RE DOWNGRADING)",
+    "Timestamp": "2026-05-23T18:22:24.633Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "0.721.0.7211109",
+     "Software": "0.2.85"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-05-23T20:13:43.981Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-2b1721d47abf49aa",
+     "Software": "0.3.0"
+    },
+    "Changelog": "* Updated for version-2b1721d47abf49aa\r\n* Fixed an issue in the setfenv hook",
+    "Timestamp": "2026-05-23T22:26:56.614Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-2b1721d47abf49aa",
+     "Software": "0.3.01"
+    },
+    "Changelog": "fix fflags",
+    "Timestamp": "2026-05-23T22:52:14.553Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-2b1721d47abf49aa",
+     "Software": "0.3.02"
+    },
+    "Changelog": "- Fixed installer and Update issues",
+    "Timestamp": "2026-05-24T11:55:18.613Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-2b1721d47abf49aa",
+     "Software": "0.3.1"
+    },
+    "Changelog": "- Reverted Luau 0.722 -> 0.721 (roblox did it too)\r\n- Fixed an issue with setrawmetatable\r\n- Fixed SAB detection\r\n\r\nUI:\r\n- Fixed Multi Roblox open delay\r\n- Added multiple executor test result reports in the Home Overview modal\r\n- Fixed Auto Execute folder path mismatch\r\n- Improved protocol handling for browser login\r\n- Fixed freezes and lag issues on the UI\r\n- Added color slider for colorful icons setting",
+    "Timestamp": "2026-05-24T19:52:45.046Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-2b1721d47abf49aa",
+     "Software": "0.3.11"
+    },
+    "Changelog": "- Fixed execute not working in Script Hub\r\n- Made Script Hub search more reliable",
+    "Timestamp": "2026-05-24T22:44:16.241Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-2b1721d47abf49aa",
+     "Software": "0.3.12"
+    },
+    "Changelog": "- fixed kiciahook v3",
+    "Timestamp": "2026-05-25T03:22:53.748Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-2b1721d47abf49aa",
+     "Software": "0.3.13"
+    },
+    "Changelog": "don't upload no twerk video, i'm just gon' beat my meat to it",
+    "Timestamp": "2026-05-25T03:44:14.912Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-2b1721d47abf49aa",
+     "Software": "0.3.14"
+    },
+    "Changelog": "- Fixed installation issues",
+    "Timestamp": "2026-05-25T13:19:06.539Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-2b1721d47abf49aa",
+     "Software": "0.3.2"
+    },
+    "Changelog": "- Fixed fflags crashing for specific scripts\r\n- Rewrote getscriptthread, getmenv and getloadedmodules\r\n- Added an optional argument for getloadedmodules(excludeCore)\r\n- Fixed a rare crash on inject\r\n- Fixed a gethui issue (fixed orion and prolly other scripts)",
+    "Timestamp": "2026-05-25T16:03:07.060Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-2b1721d47abf49aa",
+     "Software": "0.3.21"
+    },
+    "Changelog": "don't upload no twerk video, i'm just gon' beat my meat to it",
+    "Timestamp": "2026-05-25T16:46:34.197Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-460909c4fe904aae",
+     "Software": "0.3.4"
+    },
+    "Changelog": "- Updated for version-460909c4fe904aae\r\n- Luau 0.721 -> 0.722\r\n- Added `ishiddenstack`/`isstackhidden`\r\n- Added alias for checkcaller `isourthread`\r\n- Fixed fireclickdetector\r\n- Fixed firetouchinterest slowing down\r\n- Made checkcaller accurate\r\n- Fixed possible lua detection vectors",
+    "Timestamp": "2026-05-27T18:19:02.143Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-460909c4fe904aae",
+     "Software": "0.3.41"
+    },
+    "Changelog": "don't upload no twerk video, i'm just gon' beat my meat to it",
+    "Timestamp": "2026-05-27T21:12:02.178Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-460909c4fe904aae",
+     "Software": "0.3.42"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-05-29T17:48:29.321Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-460909c4fe904aae",
+     "Software": "0.3.43"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-05-29T19:06:00.314Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-460909c4fe904aae",
+     "Software": "0.3.5"
+    },
+    "Changelog": "* Rewrote whole Injector\r\n* Added new setting: Exclude Real from Windows Defender\r\n* Redesigned Script Tabs UI\r\n* Updated loading screen animation\r\n* Added installer/updater animation\r\n* Added new Welcome Script Tab when opening Real\r\n* Added keybind shortcuts: New Script Tab, Close Current Script Tab, Search in Files, Zoom Editor\r\n* Fixed Clients Manager opening from Account Profile\r\n* Changed UI text from \"Attach\" to \"Inject\"\r\n* Updated some UI icons\r\n* Added new setting for sequential injection\r\n* Updated Script Tab appearance\r\n* Reduced window corner border size\r\n* Old PID folder is now cleared when not in use\r\n* Fixed file paths for custom installation directories\r\n* Various minor adjustments\r\n* Reworked Clients Modal; you can now view injection time, uptime, and RAM usage\r\n* Updated some icons\r\n* Added Game Tab: Automatically detects your current game and lists matching scripts\r\n",
+    "Timestamp": "2026-05-31T20:07:27.889Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-460909c4fe904aae",
+     "Software": "0.3.51"
+    },
+    "Changelog": "- Reverted injector",
+    "Timestamp": "2026-05-31T20:19:10.567Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-460909c4fe904aae",
+     "Software": "0.3.52"
+    },
+    "Changelog": "- Fixed flottie animation",
+    "Timestamp": "2026-05-31T21:33:27.877Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-460909c4fe904aae",
+     "Software": "0.3.6"
+    },
+    "Changelog": "- Luau 0.722 -> 0.723\r\n- Fixed reflection functions crashing (roblox enabled a flag)\r\n- Fixed IB1 scripts not executing (malformed string)\r\n- Made gethui return RobloxGui instead of CoreGui\r\n- Redesigned context menus\r\n- Added GitHub Gist integration\r\n- Added dynamic script tab size\r\n- Added search for script tabs\r\n- Changed explorer icons\r\n- Redesigned some settings buttons\r\n- Added script tab preview\r\n- Added new explorer setting to hide specific folders\r\n- Fixed theme editor crash\r\n- Redesigned popup modals",
+    "Timestamp": "2026-06-03T19:05:10.496Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-460909c4fe904aae",
+     "Software": "0.3.61"
+    },
+    "Changelog": "w",
+    "Timestamp": "2026-06-03T19:24:39.888Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-ad5d3e2906444472",
+     "Software": "0.3.62"
+    },
+    "Changelog": "- Updated for version-ad5d3e2906444472\r\n- Fixed a filesystem vulnerability",
+    "Timestamp": "2026-06-04T13:19:36.189Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-ad5d3e2906444472",
+     "Software": "0.3.63"
+    },
+    "Changelog": "don't upload no twerk video, i'm just gon' beat my meat to it",
+    "Timestamp": "2026-06-04T17:48:15.000Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-ad5d3e2906444472",
+     "Software": "0.3.7"
+    },
+    "Changelog": "- Luau 0.723 -> 0.724\r\n- Optimized hooks (fixed ink game freezing)\r\n- Added isnetworkowner\r\n- Fixed all injection issues and delay crashes hopefully\r\n\r\nUI:\r\n- Added `Connections` settings tab\r\n- Added Discord Account section in Connections\r\n- Moved VS Code Integration section to Connections\r\n- Added `Duplicate` script tab context menu option\r\n- Added `Set Auto-Execute` script tab context menu option\r\n- Added `Read Only` script tab context menu option\r\n- Added `Undock` script tab context menu option\r\n- Added read-only mode for script tabs\r\n- Added script tab docking and undocking\r\n- Added new local icon mappings\r\n- Added `Segoe UI Variable` font option\r\n- Added `Segoe UI` font option\r\n- Added login subtitle `The best way to use Roblox`\r\n- Changed some Icons",
+    "Timestamp": "2026-06-06T16:08:59.832Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-ad5d3e2906444472",
+     "Software": "0.3.71"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-06-06T23:01:04.859Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-ad5d3e2906444472",
+     "Software": "0.3.72"
+    },
+    "Changelog": "- disabled hyperion <3",
+    "Timestamp": "2026-06-07T15:43:02.965Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-76173e47a79145c7",
+     "Software": "0.3.8"
+    },
+    "Changelog": "- Updated for version-76173e47a79145c7\r\n- Fixed an alias bug (functions with aliases would not point to the original function)\r\n- Fixed turtlespy not working\r\n- Added aliases `set_thread_context`, `get_thread_context`, `get_signal_cons`, `get_fps_cap`, `set_fps_cap`, `get_namecall_method`, `set_namecall_method`, `getstateenv`, `getregistry`, `restoreclosure`\r\n- Blacklisted .sys file extension\r\n- Fixed an issue with setscriptable, gethiddenproperty and sethiddenproperty\r\n- Fixed setfflag not working correctly in edge cases",
+    "Timestamp": "2026-06-10T08:37:10.638Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-76173e47a79145c7",
+     "Software": "0.3.9"
+    },
+    "Changelog": "- Fixed login issues",
+    "Timestamp": "2026-06-11T13:02:00.800Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-76173e47a79145c7",
+     "Software": "0.4.0"
+    },
+    "Changelog": "* Fixed multi instance not working (error -107..)\r\n* Fixed possible crash on injection\r\n* Fixed an issue with pushinstance object lifetime",
+    "Timestamp": "2026-06-11T17:03:25.741Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-76173e47a79145c7",
+     "Software": "0.4.1"
+    },
+    "Changelog": "- Changed endpoints",
+    "Timestamp": "2026-06-12T10:00:15.900Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-76173e47a79145c7",
+     "Software": "0.4.15"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-06-12T10:52:07.223Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-76173e47a79145c7",
+     "Software": "0.3.95"
+    },
+    "Changelog": "* Fixed 5-30s delay crashes\r\n* Fixed another delay crash for windows 11\r\n* ALL injection issues are FIXED",
+    "Timestamp": "2026-06-13T02:57:01.158Z"
+   }
+  ],
+  "Platforms": {
+   "Windows": {
+    "Timestamp": "2026-06-13T02:57:01.158Z"
+   }
+  }
+ }
+}

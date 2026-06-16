@@ -1,0 +1,101 @@
+{
+ "Name": "Cryptic",
+ "Identifier": "YZ9ncaKBvr",
+ "Update": {
+  "Metadata": [
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-1588a9c58c674e38",
+     "Software": "dihh"
+    },
+    "Changelog": "KEY_15b8bae9a2c8209da81e404456e9d214"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-1588a9c58c674e38",
+     "Software": "Version-1.2.5"
+    },
+    "Changelog": "User Interface:\n[+] Added Full Monaco Customizability\n[+] Added Full Syntax Highlighting Customizability\n\n[+] Fixed Saving Issues\n[+] Fixed Key Status Information\n[+] Fixed Searched Scripts Images\n\n[+] Made Minor Adjustments & Fixes Across Entire Interface"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-8b8c34790f814a73",
+     "Software": "Version-1.2.6"
+    },
+    "Changelog": "Core:\n[+] Updated To Latest Roblox Version\n\n[+] Added Error Redirection\n\nUser Interface:\n[+] Added Kill Roblox\n[+] Added Streamproof\n[+] Added Always On Top\n[+] Added Page Animations\n[+] Added Workspace Shortcut\n[+] Added Explorer Scripts Dragging & Dropping\n[+] Added Full Roblox API To Editor Autocompletion\n\n[+] Fixed Multi-Instance\n[+] Fixed Command Palette\n[+] Fixed Automatic Required Binary Download\n\n[+] Improved State Saving Persistence\n\n[+] Made Minor Adjustments & Fixes Across Entire Interface",
+    "Timestamp": "2026-01-24T17:43:17.421Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-8b8c34790f814a73",
+     "Software": "Version-1.2.7"
+    },
+    "Changelog": "Environment:\n[+] Fixed writefile()",
+    "Timestamp": "2026-01-25T18:35:54.226Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-8b8c34790f814a73",
+     "Software": "Version-1.2.8"
+    },
+    "Changelog": "User Interface:\n[+] Added Auto Attach Delay\n[+] Added Language Selection\n[+] Added Editor Tabs & Scripts Panel Context Menu\n[+] Added Scripts Tab Copy & Execute Buttons",
+    "Timestamp": "2026-01-26T22:56:02.348Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-f8734e043e1e40a2",
+     "Software": "Version-1.2.8"
+    },
+    "Changelog": "No necessary changes were made, BigBlox must be trolling. 💔",
+    "Timestamp": "2026-01-27T14:41:16.461Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-f8734e043e1e40a2",
+     "Software": "Version-1.2.9"
+    },
+    "Changelog": "User Interface:\n[+] Added Scripts Panel Resizing\n[+] Added Editor Tabs Reordering Support",
+    "Timestamp": "2026-01-27T21:22:55.819Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-acc4b74f79e743b9",
+     "Software": "Unknown"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-05-05T22:30:29.647Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-ec412128eba3476e",
+     "Software": "Unknown"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-05-14T10:07:30.230Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-2b1721d47abf49aa",
+     "Software": "Unknown"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-05-26T03:08:43.510Z"
+   }
+  ],
+  "Platforms": {
+   "Windows": {
+    "Timestamp": "2026-05-26T03:08:43.510Z"
+   }
+  }
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "Name": "Luna",
+ "Identifier": "ix2WvxNGpe",
+ "Update": {
+  "Metadata": [
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-d34359a5577645e2",
+     "Software": "Luna"
+    },
+    "Changelog": "Fixs to checkcaller, added isnetworkowner, overall code changes.",
+    "Timestamp": "2025-10-13T01:28:53.111Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-d34359a5577645e2",
+     "Software": "v1.5.2"
+    },
+    "Changelog": "fixed checkcaller failing within task.spawn functions, added isnetworkowner, overall code changes.",
+    "Timestamp": "2025-10-13T01:31:37.670Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "Windows",
+     "Software": "Luna"
+    },
+    "Changelog": "v1.5.2b",
+    "Timestamp": "2025-12-03T02:45:04.317Z"
+   }
+  ],
+  "Platforms": {
+   "Windows": {
+    "Timestamp": "2026-05-10T19:31:22.687Z"
+   }
+  }
+ }
+}

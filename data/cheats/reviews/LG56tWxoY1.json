@@ -1,0 +1,443 @@
+{
+ "Name": "Synapse Z",
+ "Identifier": "LG56tWxoY1",
+ "Reviews": [
+  {
+   "Author": "17blqeudjq",
+   "Parent": "Synapse Z",
+   "Rating": 5,
+   "Comment": "Just released yesterday, its a decent executor with basic functionality. This has been named as Synapse X's V3's full implementation. The UI brings back some memories from Krampus & the old Synapse Z, gave all users 90 days for a 2 year downtime as compensation.\r\n\r\nCould use a UI update, yet it does the job as well as any other paid executor. Would purchase if my subscription expired.",
+   "Summary": "Decent",
+   "Platform": "Windows",
+   "Timestamp": 1772956014886,
+   "Categories": [
+    {
+     "Rating": 5,
+     "Comment": "Just released yesterday, its a decent executor with basic functionality. This has been named as Synapse X's V3's full implementation. The UI brings back some memories from Krampus & the old Synapse Z, gave all users 90 days for a 2 year downtime as compensation.\r\n\r\nCould use a UI update, yet it does the job as well as any other paid executor. Would purchase if my subscription expired.",
+     "Summary": "Decent",
+     "Category": "Overall"
+    }
+   ],
+   "Identifier": "3LUVWG",
+   "CategoryReplies": {
+    "Overall": [
+     {
+      "Author": "1377879190061322251",
+      "Comment": "goat",
+      "Replies": [
+       {
+        "Author": "643425335924490260",
+        "Comment": "tuff",
+        "Replies": [
+         {
+          "Author": "1377879190061322251",
+          "Comment": "So goodddddddddddddddd",
+          "Timestamp": 1779164778857,
+          "Identifier": "3PJYL4",
+          "ParentReplyId": "3O6OC4"
+         }
+        ],
+        "Timestamp": 1778544966625,
+        "Identifier": "3O6OC4",
+        "ParentReplyId": "3O6DKP"
+       },
+       {
+        "Author": "643425335924490260",
+        "Comment": "goat",
+        "Timestamp": 1779164711865,
+        "Identifier": "3PJYJ9",
+        "ParentReplyId": "3O6DKP"
+       }
+      ],
+      "Timestamp": 1778530983527,
+      "Identifier": "3O6DKP"
+     }
+    ]
+   }
+  },
+  {
+   "Author": "2cu0bhbx6g",
+   "Parent": "Synapse Z",
+   "Rating": 5,
+   "Comment": "Best executor I've used, doesn't crash good compatibility.",
+   "Summary": "Good",
+   "Platform": "Windows",
+   "Timestamp": 1772998454811,
+   "Categories": [
+    {
+     "Rating": 5,
+     "Comment": "👍",
+     "Summary": "Good",
+     "Category": "Script Support"
+    },
+    {
+     "Rating": 5,
+     "Comment": "👍",
+     "Summary": "",
+     "Category": "Optimization"
+    },
+    {
+     "Rating": 5,
+     "Comment": "👍",
+     "Summary": "",
+     "Category": "Reliability"
+    },
+    {
+     "Rating": 5,
+     "Comment": "👍",
+     "Summary": "",
+     "Category": "User Experience"
+    },
+    {
+     "Rating": 5,
+     "Comment": "👍",
+     "Summary": "",
+     "Category": "Updates"
+    }
+   ],
+   "Identifier": "3LVSNC",
+   "CategoryReplies": {
+    "Overall": [
+     {
+      "Author": "643425335924490260",
+      "Comment": "so good",
+      "Timestamp": 1778498098327,
+      "Identifier": "3O5N68"
+     }
+    ]
+   }
+  },
+  {
+   "Author": "2e2idpfibg",
+   "Parent": "Synapse Z",
+   "Rating": 4.4,
+   "Comment": "! Synapse Z in public beta !\r\nUndetected for 13.03(13 march)\r\n",
+   "Summary": "",
+   "Platform": "Windows",
+   "Timestamp": 1773396197193,
+   "Categories": [
+    {
+     "Rating": 5,
+     "Comment": "Almost all script support\r\nAll my script got executed, and no errors with unc and env occured",
+     "Summary": "Good",
+     "Category": "Script Support"
+    },
+    {
+     "Rating": 5,
+     "Comment": "Very good, no fps dropping\r\nInternal UI - good choice, you dont need to download any uis!",
+     "Summary": "Good",
+     "Category": "Optimization"
+    },
+    {
+     "Rating": 4,
+     "Comment": "No script crashes expected\r\nBut update from 12 march brokes hwid and some users have error like \"your hwid is linked to another pc\"",
+     "Summary": "Good",
+     "Category": "Reliability"
+    },
+    {
+     "Rating": 3,
+     "Comment": "Installer very bad\r\nThe worst loader\r\nBut you need to run it once",
+     "Summary": "Decent",
+     "Category": "User Experience"
+    },
+    {
+     "Rating": 5,
+     "Comment": "Updates almost every hour! (some updates gives you extra days)",
+     "Summary": "Good",
+     "Category": "Updates"
+    }
+   ],
+   "Identifier": "3L4BJR"
+  },
+  {
+   "Author": "1mh31o1afl",
+   "Parent": "Synapse Z",
+   "Rating": 4.4,
+   "Comment": "Good public beta release, decently cheaper than the competition, has a RakNet library, which is a positive unlike other executors, and custom UIs. Krampus release but more stable.",
+   "Summary": "Good",
+   "Platform": "Windows",
+   "Timestamp": 1773529206632,
+   "Categories": [
+    {
+     "Rating": 4,
+     "Comment": "Pretty good; it doesn't fail often anymore with scripts as prior to the patch (3/12/2026 8:52 PM) unless it itself doesn't support it—a dev issue, then.",
+     "Summary": "Good",
+     "Category": "Script Support"
+    },
+    {
+     "Rating": 5,
+     "Comment": "Marginal performance gains/decreases, unnoticeable for the most part.",
+     "Summary": "Good",
+     "Category": "Optimization"
+    },
+    {
+     "Media": "bb5c-1a43-7319-6ace.png",
+     "Rating": 4,
+     "Comment": "Stability used to be extremely ass; the issue has been resolved as of recently, though it's still in beta, which is acceptable.",
+     "Summary": "Good",
+     "Category": "Reliability"
+    },
+    {
+     "Media": "cd16-eec2-6faf-2569.png",
+     "Rating": 5,
+     "Comment": "Interal Imgui is pretty nice despite mixed feedback from other users. Also a cool concept with the monopoly of custom UIs like Krampus, it's pretty creative, but the current implementation of such does create vulnerability issues on the end of the user downloading said UIs, as there are no current restrictions blocking any user from implementing malicious code and potentially ratting a user with a custom UI.\r\n\r\n",
+     "Summary": "Good",
+     "Category": "User Experience"
+    },
+    {
+     "Rating": 4,
+     "Comment": "Updates are consistent and obviously good considering the current state of the executor being in beta at the moment.",
+     "Summary": "Good",
+     "Category": "Updates"
+    }
+   ],
+   "Identifier": "3L656G"
+  },
+  {
+   "Author": "1fy5zt70gs",
+   "Parent": "Synapse Z",
+   "Rating": 4,
+   "Comment": "alrg",
+   "Summary": "Decent",
+   "Platform": "Windows",
+   "Timestamp": 1773706945000,
+   "Categories": [
+    {
+     "Rating": 4,
+     "Comment": "alrg",
+     "Summary": "Decent",
+     "Category": "Overall"
+    }
+   ],
+   "Identifier": "3MAZBN"
+  },
+  {
+   "Author": "1rfx4e9wu0",
+   "Parent": "Synapse Z",
+   "Rating": 4.8,
+   "Comment": "this cheat is so fucking good bro Ws",
+   "Summary": "",
+   "Platform": "Windows",
+   "Timestamp": 1773720402135,
+   "Categories": [
+    {
+     "Rating": 4,
+     "Comment": "almost every script support and raknet for desync but some scripts have little support or none like ERX ",
+     "Summary": "Decent",
+     "Category": "Script Support"
+    },
+    {
+     "Rating": 5,
+     "Comment": "VERY fast",
+     "Summary": "Good",
+     "Category": "Optimization"
+    },
+    {
+     "Rating": 5,
+     "Comment": "very nice ",
+     "Summary": "Good",
+     "Category": "Reliability"
+    },
+    {
+     "Rating": 5,
+     "Comment": "easy to use easy to set up and easy to set up custom ui if u dont like the internal ui",
+     "Summary": "Good",
+     "Category": "User Experience"
+    },
+    {
+     "Rating": 5,
+     "Comment": "insta update anti ban 👅",
+     "Summary": "Good",
+     "Category": "Updates"
+    }
+   ],
+   "Identifier": "3MA9PG"
+  },
+  {
+   "Author": "er0g4hv9x",
+   "Parent": "Synapse Z",
+   "Rating": 5,
+   "Comment": "amazing, fast, no crashes, easy to use. 1 bad thing is they're exited before.",
+   "Summary": "Good",
+   "Platform": "Windows",
+   "Timestamp": 1773761363902,
+   "Categories": [
+    {
+     "Rating": 5,
+     "Comment": "amazing, fast, no crashes, easy to use. 1 bad thing is they're exited before.",
+     "Summary": "Good",
+     "Category": "Overall"
+    }
+   ],
+   "Identifier": "3MB5A9"
+  },
+  {
+   "Author": "2f1flzun7c",
+   "Parent": "Synapse Z",
+   "Rating": 4,
+   "Comment": "barley any crashes pretty good i guess",
+   "Summary": "Good",
+   "Platform": "Windows",
+   "Timestamp": 1773798883819,
+   "Categories": [
+    {
+     "Rating": 4,
+     "Comment": "barley any crashes pretty good i guess",
+     "Summary": "Good",
+     "Category": "Overall"
+    }
+   ],
+   "Identifier": "3MCX9H"
+  },
+  {
+   "Author": "f92821mij",
+   "Parent": "Synapse Z",
+   "Rating": 5,
+   "Comment": "BEST EXECUTOR JKWGFJAHGHWAGFHFAWG. this executor never crashes and supports every script i recommend buying",
+   "Summary": "Good",
+   "Platform": "Windows",
+   "Timestamp": 1773818444502,
+   "Categories": [
+    {
+     "Rating": 5,
+     "Comment": "BEST EXECUTOR JKWGFJAHGHWAGFHFAWG. this executor never crashes and supports every script i recommend buying",
+     "Summary": "Good",
+     "Category": "Overall"
+    }
+   ],
+   "Identifier": "3MDDCU"
+  },
+  {
+   "Author": "gx1me932s",
+   "Parent": "Synapse Z",
+   "Rating": 5,
+   "Comment": "W grh",
+   "Summary": "Good",
+   "Platform": "Windows",
+   "Timestamp": 1773889884291,
+   "Categories": [
+    {
+     "Rating": 5,
+     "Comment": "S",
+     "Summary": "Good",
+     "Category": "Script Support"
+    },
+    {
+     "Rating": 5,
+     "Comment": "A",
+     "Summary": "Good",
+     "Category": "Optimization"
+    },
+    {
+     "Rating": 5,
+     "Comment": "A",
+     "Summary": "Good",
+     "Category": "Reliability"
+    },
+    {
+     "Rating": 5,
+     "Comment": "A",
+     "Summary": "Good",
+     "Category": "User Experience"
+    },
+    {
+     "Rating": 5,
+     "Comment": "A",
+     "Summary": "Good",
+     "Category": "Updates"
+    }
+   ],
+   "Identifier": "3MEWHA"
+  },
+  {
+   "Author": "wufdgbk4y",
+   "Parent": "Synapse Z",
+   "Rating": 5,
+   "Comment": "Overall its a really good experience Updates can be a bit slow at times but the developer makes up for it with generous compensation Ive already received around 90 days added to my account just from compensation alone which definitely makes the wait more tolerable",
+   "Summary": "Good",
+   "Platform": "Windows",
+   "Timestamp": 1777485619299,
+   "Categories": [
+    {
+     "Rating": 5,
+     "Comment": "Overall its a really good experience Updates can be a bit slow at times but the developer makes up for it with generous compensation Ive already received around 90 days added to my account just from compensation alone which definitely makes the wait more tolerable",
+     "Summary": "Good",
+     "Category": "Overall"
+    }
+   ],
+   "Identifier": "3OJYYT"
+  },
+  {
+   "Author": "2ba2o9800q",
+   "Parent": "Synapse Z",
+   "Rating": 4,
+   "Comment": "has raknet, no official ui, cheap price, 98% sunc, deserves the 4$.",
+   "Summary": "Good",
+   "Platform": "Windows",
+   "Timestamp": 1778941525460,
+   "Categories": [
+    {
+     "Rating": 4,
+     "Comment": "has raknet, no official ui, cheap price, 98% sunc, deserves the 4$.",
+     "Summary": "Good",
+     "Category": "Overall"
+    }
+   ],
+   "Identifier": "3PE6CN"
+  },
+  {
+   "Author": "1sk3x3mw16",
+   "Parent": "Synapse Z",
+   "Rating": 5,
+   "Comment": "Theyre very generous by giving over 6 months of free access to past users",
+   "Summary": "Good",
+   "Platform": "Windows",
+   "Timestamp": 1779839033510,
+   "Categories": [
+    {
+     "Rating": 5,
+     "Comment": "Theyre very generous by giving over 6 months of free access to past users",
+     "Summary": "Good",
+     "Category": "Overall"
+    }
+   ],
+   "Identifier": "3PYEVF"
+  },
+  {
+   "Author": "2i0is1ljs6",
+   "Parent": "Synapse Z",
+   "Rating": 5,
+   "Comment": "best exec available rn, synx is back.",
+   "Summary": "Good",
+   "Platform": "Windows",
+   "Timestamp": 1779840188006,
+   "Categories": [
+    {
+     "Rating": 5,
+     "Comment": "best exec available rn, synx is back.",
+     "Summary": "Good",
+     "Category": "Overall"
+    }
+   ],
+   "Identifier": "3PYFRI"
+  },
+  {
+   "Author": "29z2l3iil8",
+   "Parent": "Synapse Z",
+   "Rating": 4,
+   "Comment": "very good executor and cheap",
+   "Summary": "Good",
+   "Platform": "Windows",
+   "Timestamp": 1779854753059,
+   "Categories": [
+    {
+     "Rating": 4,
+     "Comment": "very good executor and cheap",
+     "Summary": "Good",
+     "Category": "Overall"
+    }
+   ],
+   "Identifier": "3PYQZ3"
+  }
+ ]
+}

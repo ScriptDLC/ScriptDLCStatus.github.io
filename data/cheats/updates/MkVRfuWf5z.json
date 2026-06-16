@@ -1,0 +1,526 @@
+{
+ "Name": "Matcha",
+ "Identifier": "MkVRfuWf5z",
+ "Update": {
+  "Metadata": [
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-d34359a5577645e2",
+     "Software": "1.7.4"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-10-10T23:32:51.888Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-7a4a5d7d1fb3449f",
+     "Software": "1.7.5"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-10-16T17:43:51.368Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-7a4a5d7d1fb3449f",
+     "Software": "1.7.6"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-10-22T20:36:10.213Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-4aeb17bd13994560",
+     "Software": "1.7.7"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-10-22T20:51:33.863Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-7a4a5d7d1fb3449f",
+     "Software": "1.7.6"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-10-22T20:51:36.642Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-4aeb17bd13994560",
+     "Software": "1.7.7"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-10-22T20:51:51.708Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-889d2588b25a43d1",
+     "Software": "1.7.8"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-10-29T20:13:58.700Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-4aeb17bd13994560",
+     "Software": "1.7.7"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-10-29T20:16:38.439Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-889d2588b25a43d1",
+     "Software": "1.7.8"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-10-29T20:16:44.705Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-f6dd34ecac7b4642",
+     "Software": "1.7.9"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-11-05T21:09:13.315Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-b7e223555d904550",
+     "Software": "1.8.0"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-11-12T21:13:49.748Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-8e6e698468a04d3f",
+     "Software": "1.8.1"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-11-14T21:55:52.207Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-b7e223555d904550",
+     "Software": "1.8.0"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-11-14T21:56:00.464Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-8e6e698468a04d3f",
+     "Software": "1.8.1"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-11-14T21:56:18.882Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-fdda949d95e447e3",
+     "Software": "1.8.2"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-11-19T21:13:19.552Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-e380c8edc8f6477c",
+     "Software": "1.8.4"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-11-22T09:54:36.169Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-1849ecbff0824113",
+     "Software": "1.8.5"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-12-03T21:24:11.765Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-5aed1822f52c4b03",
+     "Software": "1.8.6"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-12-08T22:11:28.102Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-eaebe135b3ec446b",
+     "Software": "1.8.6"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-12-12T02:50:41.098Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-5b077c09380f4fe6",
+     "Software": "1.8.6.1"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-12-18T18:50:03.090Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-f8f53a67efca4c34",
+     "Software": "1.8.6.2"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-12-31T18:42:56.199Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-89d89cb2d6b649be",
+     "Software": "1.8.6.3"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-01-08T09:52:59.724Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-1588a9c58c674e38",
+     "Software": "1.8.6.4"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-01-14T22:23:14.908Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-0f5223fb6e7e4955",
+     "Software": "1.8.6.5"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-01-21T21:22:15.011Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-8b8c34790f814a73",
+     "Software": "1.8.6.6"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-01-23T18:49:58.778Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-f8734e043e1e40a2",
+     "Software": "1.8.6.7"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-01-27T18:04:12.102Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-4464ba36ceea461e",
+     "Software": "1.8.6.8"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-01-29T21:00:46.764Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-db4634f0e27d4d36",
+     "Software": "1.8.6.9"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-01-31T08:22:39.717Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-3e7a57d7e53b4881",
+     "Software": "1.8.7.0"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-02-04T19:56:57.340Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-4464ba36ceea461e",
+     "Software": "1.8.7.1"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-02-05T11:37:21.925Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-80c7b8e578f241ff",
+     "Software": "1.8.7.2"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-02-05T18:00:31.686Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-bd08027bb04e4045",
+     "Software": "1.8.7.3"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-02-11T21:59:31.633Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-df7528517c6849f7",
+     "Software": "v2"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-02-18T20:21:38.070Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-760d064d05424689",
+     "Software": "v2"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-02-26T21:00:19.243Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-d599f7fc52a8404c",
+     "Software": "v2"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-03-04T19:34:59.963Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-b130242ed064436f",
+     "Software": "v2"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-03-12T18:32:05.489Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-ae421f0582e54718",
+     "Software": "v2"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-03-18T18:17:44.840Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-6776addb8fbc4d17",
+     "Software": "v2"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-03-26T18:10:47.547Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-689e359b09ad43b0",
+     "Software": "v2"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-04-02T23:31:11.824Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-695a88dd8425491f",
+     "Software": "v2"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-04-08T19:32:31.582Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-26c90be22e0d4758",
+     "Software": "v2"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-04-09T21:43:11.907Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-9d412f44a6fe4081",
+     "Software": "v2"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-04-15T21:07:33.042Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-2e6461290a3541f5",
+     "Software": "v2"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-04-22T19:33:27.478Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-2e6461290a3541f5",
+     "Software": "v2.0.1"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-04-22T19:49:02.448Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-390ba09e7e944154",
+     "Software": "v2.0.1"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-04-26T20:34:13.604Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-390ba09e7e944154",
+     "Software": "v2"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-04-26T20:40:11.490Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-acc4b74f79e743b9",
+     "Software": "v2"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-04-29T18:24:04.459Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-bf6344c9c23446bf",
+     "Software": "v2"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-05-07T06:52:47.508Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-ec412128eba3476e",
+     "Software": "v2"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-05-13T19:11:19.661Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-9377ee10133e4be3",
+     "Software": "v2"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-05-18T16:53:51.100Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-3b42a15a305e47ec",
+     "Software": "v2"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-05-20T21:50:53.169Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-4b6315bf1f0a4dbb",
+     "Software": "v2"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-05-21T20:02:30.228Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-2b1721d47abf49aa",
+     "Software": "v2"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-05-23T20:39:40.178Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-460909c4fe904aae",
+     "Software": "v2"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-05-27T18:12:56.562Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-a182ba0d4c6f483b",
+     "Software": "v2"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-06-02T22:26:04.962Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-ad5d3e2906444472",
+     "Software": "v2"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-06-03T21:06:53.027Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-76173e47a79145c7",
+     "Software": "v2"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-06-09T23:38:14.241Z"
+   }
+  ],
+  "Platforms": {
+   "Windows": {
+    "Timestamp": "2026-06-09T23:38:14.241Z"
+   }
+  }
+ }
+}

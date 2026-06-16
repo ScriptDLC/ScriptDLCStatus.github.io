@@ -1,0 +1,84 @@
+{
+ "Name": "Blueberry",
+ "Identifier": "UdfCYb5qPZ",
+ "Reviews": [
+  {
+   "Author": "1lpbjhtqcq",
+   "Parent": "Blueberry",
+   "Rating": 3,
+   "Comment": "bsod on hop for me ",
+   "Summary": "Bad",
+   "Platform": "Windows",
+   "Timestamp": 1773363151668,
+   "Categories": [
+    {
+     "Rating": 3,
+     "Comment": "bsod on hop for me ",
+     "Summary": "Bad",
+     "Category": "Overall"
+    }
+   ],
+   "Identifier": "3L3L1T"
+  },
+  {
+   "Author": "k03zh5qzk",
+   "Parent": "Blueberry",
+   "Rating": 1,
+   "Comment": "shit skidded hack that were exposed millions of times + cracked, dont deserve costing 11$ and being on 3 stars here",
+   "Summary": "Bad",
+   "Platform": "Windows",
+   "Timestamp": 1777213002630,
+   "Categories": [
+    {
+     "Rating": 1,
+     "Comment": "idk",
+     "Summary": "Bad",
+     "Category": "Combat"
+    },
+    {
+     "Rating": 1,
+     "Comment": "shit visuals, bounding is ass",
+     "Summary": "Bad",
+     "Category": "Visuals"
+    },
+    {
+     "Rating": 1,
+     "Comment": "Davidhook skid",
+     "Summary": "Bad",
+     "Category": "Interface"
+    },
+    {
+     "Rating": 1,
+     "Comment": "it either crash after 1-2 game change or cache fucks up",
+     "Summary": "Bad",
+     "Category": "Uptime"
+    },
+    {
+     "Rating": 1,
+     "Comment": "all skidded",
+     "Summary": "Bad",
+     "Category": "Features"
+    }
+   ],
+   "Identifier": "3OD4L4"
+  },
+  {
+   "Author": "6foy3mbxv",
+   "Parent": "Blueberry",
+   "Rating": 5,
+   "Comment": "could be better",
+   "Summary": "Bad",
+   "Platform": "Windows",
+   "Timestamp": 1778316025092,
+   "Categories": [
+    {
+     "Rating": 5,
+     "Comment": "could be better",
+     "Summary": "Bad",
+     "Category": "Overall"
+    }
+   ],
+   "Identifier": "3O1RPN"
+  }
+ ]
+}

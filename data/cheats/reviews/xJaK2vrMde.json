@@ -1,0 +1,836 @@
+{
+ "Name": "Severe",
+ "Identifier": "xJaK2vrMde",
+ "Reviews": [
+  {
+   "Author": "26u9avvo35",
+   "Parent": "Severe",
+   "Rating": 4.6,
+   "Comment": "Overall this cheat is amazing, good customizability, great lua environment. It also has good stability and amazing optimizations, for being lifetime, something I’d recommend to new comers.\n.",
+   "Platform": "Windows",
+   "Timestamp": 1760840521864,
+   "Categories": [
+    {
+     "Rating": 5,
+     "Comment": "Amazing aimbot, a heap amount of customizability from rage to legit. Has good hitbox selection, was first to do “silent aim” externally and has unique aimbot features like aim meter.",
+     "Category": "Combat"
+    },
+    {
+     "Rating": 4.5,
+     "Comment": "Very unique visuals, not seen anywhere else. However me personally, I’m not a fan of these visuals. I however do love the off screen visuals, text visuals (with the backplate) and how you can customize fonts, half color. The local visuals are amazing too like proximity, health reminder. However, I’m not a fan of how there’s no outlines used in the boxes, skeletons, just like something missing. But the 3d radar is immaculate, doesn’t eat up  of performance and is perfect (first ext to do so)",
+     "Category": "Visuals"
+    },
+    {
+     "Rating": 4.8,
+     "Comment": "Clean user face, love the player list and dex and script editor. The majority of it is sorted well, one thing I don’t like is how trigger rot, vision sense, and other features are hidden away in a random section hard to find as you have to scroll down a lot.",
+     "Category": "Interface"
+    },
+    {
+     "Rating": 4,
+     "Comment": "I get that it’s lifetime, but due to conflicts with scheduling, severe experiences more significant downtime then other externals. However, stability wise, it’s extremely good. It rarely has crashes, however, recently there has been some issues but I know it’ll be fixed very shortly.",
+     "Category": "Uptime"
+    },
+    {
+     "Rating": 4.3,
+     "Comment": "It has the basic necessity features, however, most of the “cool” features and game supports aren’t native. A lot of stuff is done through their lua environment, which isn’t necessarily a bad thing. It has great aimbot customizability, good visual customizability, fly, speed, vision sense (from x11) but not a lot of other features like lighting, velocity fly/speed, fov modifier, that type stuff. However, lua environment is great, a lot of time has been spent on it and it is amazing.",
+     "Category": "Features"
+    }
+   ],
+   "Identifier": "3EM6DI"
+  },
+  {
+   "Author": "1qvtbgo5cg",
+   "Parent": "Severe",
+   "Rating": 4.5,
+   "Comment": "This cheat is overall the best and one of the longest lasting",
+   "Platform": "Windows",
+   "Timestamp": 1760935385257,
+   "Categories": [
+    {
+     "Rating": 5,
+     "Comment": "best visuals not laggy no stuttering unique and very customizable",
+     "Category": "Visuals"
+    },
+    {
+     "Rating": 5,
+     "Comment": "has the best aimbot i've seen and wins hvh's",
+     "Category": "Combat"
+    },
+    {
+     "Rating": 4.5,
+     "Comment": "the ui is good not really too customizable easy to use and not cluttered",
+     "Category": "Interface"
+    },
+    {
+     "Rating": 3.5,
+     "Comment": "others may say the downtimes are long and annoying but it personally doesn't affect me since I can do other things",
+     "Category": "Uptime"
+    },
+    {
+     "Rating": 4,
+     "Comment": "could add some more features but has all the necessities and there are wanted features in the lua vm",
+     "Category": "Features"
+    }
+   ],
+   "Identifier": "3EO8P3"
+  },
+  {
+   "Author": "105bwiuany",
+   "Parent": "Severe",
+   "Rating": 4.6,
+   "Comment": "best external ive used, long lasting, efficient, gets everything done. friendly community which provides lots of luas,",
+   "Platform": "Windows",
+   "Timestamp": 1760935511433,
+   "Categories": [
+    {
+     "Rating": 4.7,
+     "Comment": "tons of features, customizable in each one, clean visuals, each one works well, (except for silent gun, bring it back 🙏). silent aim, health visuals, cframe, waypoints, its limitless.",
+     "Category": "Features"
+    },
+    {
+     "Rating": 4,
+     "Comment": "fast updates, with occassional lapses that vary from a day to a week. but these lapses happen very rarily and usually updates are in a few hours",
+     "Category": "Uptime"
+    },
+    {
+     "Rating": 5,
+     "Comment": "might the best on the market, hella aimbot features that range from legit to rage. cframe and fly with rage also enhance the experience.",
+     "Category": "Combat"
+    },
+    {
+     "Rating": 5,
+     "Comment": "where do i start, customizable as hell, many ways to customize it, from colors and esp styles. theres hella combinations which can be augmented through custom visuals in lua, making it even better. These custom visuals can be applied to certain npcs, locations, or items in games.",
+     "Category": "Visuals"
+    },
+    {
+     "Rating": 4,
+     "Comment": "Quite confusing at first with the barrage of features, but after a day of using it, it will become extremely easy to navigate. The UI is customizable in color, theme, and font and is extremely sleek",
+     "Category": "Interface"
+    }
+   ],
+   "Identifier": "3EO8TL"
+  },
+  {
+   "Author": "1pvrzrkplt",
+   "Parent": "Severe",
+   "Rating": 4.7,
+   "Comment": "goated ass cheat, lifetime for only 20$ is criminal. rivals scripts most of the time in how good it is.",
+   "Platform": "Windows",
+   "Timestamp": 1762316275984,
+   "Categories": [
+    {
+     "Rating": 4.8,
+     "Comment": "literally 0 lag on esp, only issue i have is the ugly backgrounds on nametags but otherwise beautiful esp w/o lag",
+     "Category": "Visuals"
+    },
+    {
+     "Rating": 4.2,
+     "Comment": "updates semi-fast only issue is backwoods going to \"smoke a blunt\" before updating (i seriously will not get over this even if it happens less)",
+     "Category": "Uptime"
+    },
+    {
+     "Rating": 4.6,
+     "Comment": "pretty decent ui, features are mostly where you expect them to be with only a couple pretty annoying exceptions",
+     "Category": "Interface"
+    },
+    {
+     "Rating": 5,
+     "Comment": "easily most customizable feature of this cheat, actual top of the line shit for legit and rage. want to go full blatant? turn on aggressive camera. want to go legit asf? turn on linear and set it low and you could beam people easy w/o other people even knowing your cheating even while streaming to them <3",
+     "Category": "Combat"
+    },
+    {
+     "Rating": 5,
+     "Comment": "many da hood features (i dont play da hood) but very useful rage features as well as movement and waypoint stuff, also has friends kinda okay but at least it exists. main reason its 5 star is because its literally stream proof on LAUNCH not while only injected.",
+     "Category": "Features"
+    }
+   ],
+   "Identifier": "3FIT75"
+  },
+  {
+   "Author": "1vnbhoshnp",
+   "Parent": "Severe",
+   "Rating": 4.6,
+   "Comment": "Undefeated. Undetected.",
+   "Platform": "Windows",
+   "Timestamp": 1763097077482,
+   "Categories": [
+    {
+     "Rating": 5,
+     "Comment": "THE BEST FUCKING AIMBOT EVER, SO SMOOTH, SO ACCURATE, SO CUSTOMIZABLE!",
+     "Category": "Combat"
+    },
+    {
+     "Rating": 5,
+     "Comment": "BEAUTIFUL.",
+     "Category": "Visuals"
+    },
+    {
+     "Rating": 5,
+     "Comment": "BEAUTIFUL. BEST EXTERNAL UI ON THE MARKET.",
+     "Category": "Interface"
+    },
+    {
+     "Rating": 3,
+     "Comment": "backwoods come on man :(",
+     "Category": "Uptime"
+    },
+    {
+     "Rating": 5,
+     "Comment": "Has a LOT of features and many more with the LuaVM.",
+     "Category": "Features"
+    }
+   ],
+   "Identifier": "3FZKO3"
+  },
+  {
+   "Author": "2aobb6o9jr",
+   "Parent": "Severe",
+   "Rating": 3.6,
+   "Comment": "cheat is good only missing fucking wallcheck and faster updates, dogshit ui thats not fw loader look, cartoony visuals.",
+   "Platform": "Windows",
+   "Timestamp": 1763172870446,
+   "Categories": [
+    {
+     "Rating": 4,
+     "Comment": "alot of aimbot modes, only lacking wallcheck but thats matter of time",
+     "Category": "Combat"
+    },
+    {
+     "Rating": 3,
+     "Comment": "i dont like how visuals look tbh, they have weird look, weird default font also",
+     "Category": "Visuals"
+    },
+    {
+     "Rating": 2,
+     "Comment": "ui is dogshit (because made by pastowl and all of his uis are bullshit), loader is mid and not fw ui tho",
+     "Category": "Interface"
+    },
+    {
+     "Rating": 3,
+     "Comment": "before, updates was slow asf with wait time around week (backwoods will update after 100th blunt), nowadays they taking 3-4 days still fucking slow",
+     "Category": "Uptime"
+    },
+    {
+     "Rating": 5,
+     "Comment": "neat waypoints, fly speed etc. theres alot of useless features for me but its imo",
+     "Category": "Features"
+    }
+   ],
+   "Identifier": "3F066G",
+   "LastModified": 1763183843239
+  },
+  {
+   "Author": "2gi3kw6kpx",
+   "Parent": "Severe",
+   "Rating": 3.9,
+   "Comment": "Overall a good cheat for a 20$ LIFETIME i don't expect nothing less, this cheat is fire perfect for semi legit users",
+   "Platform": "Windows",
+   "Timestamp": 1763292940821,
+   "Categories": [
+    {
+     "Rating": 4,
+     "Comment": "Very good with multiple  types of styles for aimbot which you can make account for bullet drop etc",
+     "Category": "Combat"
+    },
+    {
+     "Rating": 4,
+     "Comment": "one of the smoothest visuals i have seen in a while, very clean and can modify everything",
+     "Category": "Visuals"
+    },
+    {
+     "Rating": 5,
+     "Comment": "custom ui with nice animation, you can talk to other severe users that are using the external which is nice if you need help with something.",
+     "Category": "Interface"
+    },
+    {
+     "Rating": 2,
+     "Comment": "The uptime is questionable it can take a  1 - 2 hours to 1 - 2 days depending on backwoods availability.",
+     "Category": "Uptime"
+    },
+    {
+     "Rating": 4,
+     "Comment": "has a good amount of features (ones that are needed) it has many things like a WORKING luavm, chat to other users, multiple modes for aimbot and overall nice features for a external thats lifetime",
+     "Category": "Features"
+    }
+   ],
+   "Identifier": "3F3RTQ",
+   "LastModified": 1763293109464
+  },
+  {
+   "Author": "kjjfwqcrg",
+   "Parent": "Severe",
+   "Rating": 4.8,
+   "Comment": "The best Lifetime external for me it have all the things we need and even more",
+   "Summary": "Good",
+   "Platform": "Windows",
+   "Timestamp": 1763332032770,
+   "Categories": [
+    {
+     "Media": "2e35-9059-19f5-47f2.png",
+     "Rating": 5,
+     "Comment": "Very good aimbot silent and triggerbot plus very customisable",
+     "Summary": "Good",
+     "Category": "Combat"
+    },
+    {
+     "Media": "7598-3d47-7632-0f83.png",
+     "Rating": 5,
+     "Comment": "Very customisable and have a so many visuals features ",
+     "Summary": "Good",
+     "Category": "Visuals"
+    },
+    {
+     "Media": "62f7-1555-07b0-6476.png",
+     "Rating": 4,
+     "Comment": "I really like the UI but not very customisable new ui soon",
+     "Summary": "Good",
+     "Category": "Interface"
+    },
+    {
+     "Rating": 5,
+     "Comment": "Work even if not updated for the roblox version and is very optimized ",
+     "Summary": "Good",
+     "Category": "Uptime"
+    },
+    {
+     "Media": "35fa-170e-1ee0-2f3e.png",
+     "Rating": 5,
+     "Comment": "it have a lot of unique features like bullet drop compensation and chat with other severe user directly in the UI and the Lua VM is so so good",
+     "Summary": "Good",
+     "Category": "Features"
+    }
+   ],
+   "Identifier": "3F4LZM",
+   "LastModified": 1774301502274
+  },
+  {
+   "Author": "1f7ocdi5s1",
+   "Parent": "Severe",
+   "Rating": 4.6,
+   "Comment": "good ig?",
+   "Platform": "Windows",
+   "Timestamp": 1763617211765,
+   "Categories": [
+    {
+     "Rating": 5,
+     "Comment": "very nice and clean rblx external -avs <3",
+     "Category": "Combat"
+    },
+    {
+     "Rating": 5,
+     "Comment": "yeah pretty good visuals",
+     "Category": "Visuals"
+    },
+    {
+     "Rating": 4,
+     "Comment": "yeah pretty good ui",
+     "Category": "Interface"
+    },
+    {
+     "Rating": 4,
+     "Comment": "idfk i bought it a day ago and roblox updated today",
+     "Category": "Uptime"
+    },
+    {
+     "Rating": 5,
+     "Comment": "eh",
+     "Category": "Features"
+    }
+   ],
+   "Identifier": "3GAP09"
+  },
+  {
+   "Author": "c687pcx48",
+   "Parent": "Severe",
+   "Rating": 4.6,
+   "Comment": "Really good cheat overall product but uptime isnt the best",
+   "Platform": "Windows",
+   "Timestamp": 1763617403154,
+   "Categories": [
+    {
+     "Rating": 4.5,
+     "Comment": "Good product has a lot of rage features unlike some other products released.",
+     "Category": "Combat"
+    },
+    {
+     "Rating": 5,
+     "Comment": "The visuals are great espically the 3d radar and its unique.",
+     "Category": "Visuals"
+    },
+    {
+     "Rating": 4.5,
+     "Comment": "Great interface but can be hard to find stuff ur looking for sometimes. q",
+     "Category": "Interface"
+    },
+    {
+     "Rating": 4,
+     "Comment": "Sometimes it doesnt update fast usually because backwoods isnt home or is working on a big update.",
+     "Category": "Uptime"
+    },
+    {
+     "Rating": 5,
+     "Comment": "Stacked with features many useful and some useless",
+     "Category": "Features"
+    }
+   ],
+   "Identifier": "3GAP6L"
+  },
+  {
+   "Author": "1slf9n89fi",
+   "Parent": "Severe",
+   "Rating": 4.8,
+   "Comment": "One of the best cheats imo",
+   "Platform": "Windows",
+   "Timestamp": 1763670158654,
+   "Categories": [
+    {
+     "Rating": 5,
+     "Comment": "great combat cheats, the aimbot works perfect",
+     "Category": "Combat"
+    },
+    {
+     "Rating": 5,
+     "Comment": "i feel like the visuals are great",
+     "Category": "Visuals"
+    },
+    {
+     "Rating": 5,
+     "Comment": "The interface is clean and visually appearing",
+     "Category": "Interface"
+    },
+    {
+     "Rating": 4,
+     "Comment": "sometimes it is offline, but rarely",
+     "Category": "Uptime"
+    },
+    {
+     "Rating": 5,
+     "Comment": "Lots of features by default, and with lua you can basically make whatever you want",
+     "Category": "Features"
+    }
+   ],
+   "Identifier": "3GBUV0"
+  },
+  {
+   "Author": "17qb2vj1g4",
+   "Parent": "Severe",
+   "Rating": 4.5,
+   "Comment": "It's my favorite because it does what it's supposed to do best. Combat.",
+   "Platform": "Windows",
+   "Timestamp": 1764278023495,
+   "Categories": [
+    {
+     "Media": "7e65-58f5-6547-3448.png",
+     "Rating": 5,
+     "Comment": "I locked on directly to the enemy's head. The configuration is key. When set up properly, it works like a charm. It's even better than Ronin or Matcha, but those have other benefits too.",
+     "Category": "Combat"
+    },
+    {
+     "Media": "d321-141c-8888-de36.png",
+     "Rating": 5,
+     "Comment": "The ESP is great, the view is clear, and the lighting features are nice. You can also use these features to force shadows and make other adjustments.",
+     "Category": "Visuals"
+    },
+    {
+     "Media": "502d-0acd-c154-d138.png",
+     "Rating": 4,
+     "Comment": "It has a nice, simple UI. It could have more customization, but it's fine by default. Sometimes the scrolling is really bad. It's like Backwoods wants to ragebait me.",
+     "Category": "Interface"
+    },
+    {
+     "Media": "49c4-8d7a-c785-eaed.png",
+     "Rating": 4,
+     "Comment": "It's fine. I'll take those updates when they're available, but sadly, they're not often on the newest version of Roblox. The detailed changelogs include the Roblox version if it's not the newest one. However, since the cheat is extremely stable and barely affects performance on low-end hardware, I'll give it four stars.",
+     "Category": "Uptime"
+    },
+    {
+     "Media": "6d58-ba86-258e-5f72.png",
+     "Rating": 4,
+     "Comment": "These are some of the most advanced aimbot settings. The ESP settings are good. There are not many miscellaneous features. The speed does not use velocity, which causes a first-person player body bug, and most of the time you get rubberbanded.",
+     "Category": "Features"
+    }
+   ],
+   "Identifier": "3GOVW5"
+  },
+  {
+   "Author": "2852cd9p1l",
+   "Parent": "Severe",
+   "Rating": 5,
+   "Comment": "its great and sometimes even if roblox updates, you can just run it and it will work. ",
+   "Platform": "Windows",
+   "Timestamp": 1764325852604,
+   "Categories": [
+    {
+     "Rating": 5,
+     "Comment": "its very great with visuals and features",
+     "Category": "Combat"
+    },
+    {
+     "Rating": 5,
+     "Comment": "it has unique visuals unlike all of the other externals which litreally look the same not the complete but still tho. \r\nsevere for me has the best visual on the market right now its unique",
+     "Category": "Visuals"
+    },
+    {
+     "Rating": 5,
+     "Comment": "the interface is great it looks good, but new users in the exploiting comm might find it a bit hard to navigate through. ",
+     "Category": "Interface"
+    },
+    {
+     "Rating": 5,
+     "Comment": "its great these days especially with adding new features and such",
+     "Category": "Uptime"
+    },
+    {
+     "Rating": 5,
+     "Comment": "it did not have much of the feautres that other externals have, but now its great and packed and still adding new features. ",
+     "Category": "Features"
+    }
+   ],
+   "Identifier": "3GPWTQ"
+  },
+  {
+   "Author": "22nthihase",
+   "Parent": "Severe",
+   "Rating": 4.5,
+   "Comment": "Quite literally the best external for any game other than dahood.",
+   "Platform": "Windows",
+   "Timestamp": 1764394049510,
+   "Categories": [
+    {
+     "Rating": 5,
+     "Comment": "Using this on phantom forces and bad business is a really smooth experience, even for low end pc.",
+     "Category": "Combat"
+    },
+    {
+     "Rating": 5,
+     "Comment": "nothing to say it works fine for me",
+     "Category": "Visuals"
+    },
+    {
+     "Rating": 3,
+     "Comment": "not a real fan of the menu it takes some times to get use to.",
+     "Category": "Interface"
+    },
+    {
+     "Rating": 4,
+     "Comment": "I would say it's pretty consistent but sometimes it takes more than 2 days to get updated.",
+     "Category": "Uptime"
+    },
+    {
+     "Rating": 5,
+     "Comment": "nothing to say i mostly use aimbot and esp.",
+     "Category": "Features"
+    }
+   ],
+   "Identifier": "3GRDF3"
+  },
+  {
+   "Author": "2i2mg94liz",
+   "Parent": "Severe",
+   "Rating": 4.5,
+   "Comment": "Been using severe for 2 years now and Ive never seen anything better, so user friendly, easy to use allat 10/10 external",
+   "Platform": "Windows",
+   "Timestamp": 1765677364463,
+   "Categories": [
+    {
+     "Rating": 5,
+     "Comment": "10/10 aimbot easy to configure",
+     "Category": "Combat"
+    },
+    {
+     "Rating": 4,
+     "Comment": "could be better ",
+     "Category": "Visuals"
+    },
+    {
+     "Rating": 5,
+     "Comment": "This ui compared to the last one way more better",
+     "Category": "Interface"
+    },
+    {
+     "Rating": 3,
+     "Comment": "backwoods takes sum time but he tries to get to it asap",
+     "Category": "Uptime"
+    },
+    {
+     "Rating": 5,
+     "Comment": "I mean it has desync thats all it needs",
+     "Category": "Features"
+    }
+   ],
+   "Identifier": "3HIVNQ"
+  },
+  {
+   "Author": "b5newwja0",
+   "Parent": "Severe",
+   "Rating": 3.7,
+   "Comment": "The cheat itself is good but will be a lot better if it ever fixes crashing, unstability & downtime in recent months. I hope all my frustrated issues will be fixed soon.",
+   "Platform": "Windows",
+   "Timestamp": 1766033953112,
+   "Categories": [
+    {
+     "Rating": 5,
+     "Comment": "Truely most customizable aimbot that I can play as closest or rage, talking about rage, severe's rage bot is good for hvh out of all other products I've used.",
+     "Category": "Combat"
+    },
+    {
+     "Rating": 4.9,
+     "Comment": "Dev spent most time on this enhancing & sharping every visuals elements. They lowk looks beautiful, good, customizable & has soft of animations i personally love animation on off-screen esps.",
+     "Category": "Visuals"
+    },
+    {
+     "Media": "1174-57f4-ac89-53bc.png",
+     "Rating": 3,
+     "Comment": "Not easy to navigate even hardly memorize what feature you want to use locacted at. All I can say is it is functional, it looks mediocre I neither like it nor hate it, its just too small for such features-rich external.",
+     "Category": "Interface"
+    },
+    {
+     "Rating": 2,
+     "Comment": "Longest downtime out of all exts in my opinion, one of the best external takes time to update but it frustrated me and all users sometimes. Recent months, severe is unstable and crash more frequently I legit crashing every 5 mins (My friend told me he got BSOD instead).",
+     "Category": "Uptime"
+    },
+    {
+     "Rating": 3,
+     "Comment": "Features-rich external (Miscellaneous) they are fun to use and some actually benefits if you play Dahood, need a whole day to navigate through all features.",
+     "Category": "Features"
+    }
+   ],
+   "Identifier": "3HQISZ"
+  },
+  {
+   "Author": "1sc3ywhc2n",
+   "Parent": "Severe",
+   "Rating": 3.2,
+   "Comment": "tuff",
+   "Platform": "Windows",
+   "Timestamp": 1766200666597,
+   "Categories": [
+    {
+     "Rating": 5,
+     "Comment": "works really good in combat",
+     "Category": "Combat"
+    },
+    {
+     "Rating": 3,
+     "Comment": "mid",
+     "Category": "Visuals"
+    },
+    {
+     "Rating": 1,
+     "Comment": "dogshit, its a shitty pastowl ui",
+     "Category": "Interface"
+    },
+    {
+     "Rating": 3,
+     "Comment": "backwoods takes like 2 buisness days to even touch the src",
+     "Category": "Uptime"
+    },
+    {
+     "Rating": 3,
+     "Comment": "doesnt have many features, many externals like photon or serotonin would beat severe",
+     "Category": "Features"
+    }
+   ],
+   "Identifier": "3HT3FW"
+  },
+  {
+   "Author": "cpaogpptj",
+   "Parent": "Severe",
+   "Rating": 4.3,
+   "Comment": "in overall is definitely the best external tied with serotonin and has a really smooth lua support ",
+   "Platform": "Windows",
+   "Timestamp": 1766375660087,
+   "Categories": [
+    {
+     "Rating": 5,
+     "Comment": "has so many aimbot options and all are very good ",
+     "Category": "Combat"
+    },
+    {
+     "Rating": 3,
+     "Comment": "esp is very decent but in some games its doesn't perform well",
+     "Category": "Visuals"
+    },
+    {
+     "Rating": 5,
+     "Comment": "nice ui and very user friendly ",
+     "Category": "Interface"
+    },
+    {
+     "Rating": 4,
+     "Comment": "its not that fast the updates ",
+     "Category": "Uptime"
+    },
+    {
+     "Rating": 4,
+     "Comment": "good options like, desync, lag switch, fly, speed walk, rage but it's should have more ",
+     "Category": "Features"
+    }
+   ],
+   "Identifier": "3HXUGU"
+  },
+  {
+   "Author": "22a8ar0rjs",
+   "Parent": "Severe",
+   "Rating": 4.2,
+   "Comment": "severe is undetected very good highly recommend just be aware its downtime is scary",
+   "Summary": "Good",
+   "Platform": "Windows",
+   "Timestamp": 1769058851118,
+   "Categories": [
+    {
+     "Rating": 5,
+     "Comment": "good combat just needs wall check",
+     "Summary": "Good",
+     "Category": "Combat"
+    },
+    {
+     "Rating": 5,
+     "Comment": "amazing visuals highly customisable would be nice if it had material chams tho",
+     "Summary": "Good",
+     "Category": "Visuals"
+    },
+    {
+     "Rating": 5,
+     "Comment": "ui is super clean and easy to use",
+     "Summary": "Good",
+     "Category": "Interface"
+    },
+    {
+     "Rating": 2,
+     "Comment": "takes very long to update auth goes down alot",
+     "Summary": "Bad",
+     "Category": "Uptime"
+    },
+    {
+     "Rating": 4,
+     "Comment": "needs wall check and a couple other things but for the most part is has basically everything",
+     "Summary": "Good",
+     "Category": "Features"
+    }
+   ],
+   "Identifier": "3JJCTX"
+  },
+  {
+   "Author": "1rpm9as3e",
+   "Parent": "Severe",
+   "Rating": 3,
+   "Comment": "heres my personal opinion about severe\r\n\r\nsevere is a really good choice if you want great combat features and has decent visuals. the UI isnt good at all in my opinion because of its non user-friendliness and because of how difficult it is to read text and further customize the features. severe also has pretty bad downtime with an average of 1 - 5 days for the external to update to the latest roblox version and a big misconception about severe is that it is lifetime, which it isnt. as the owner once stated that he never explicitly said it was lifetime, but that it was a one time purchase (meaning severe will go sub-based in the future).\r\n\r\nwould i recommend severe?  probably not because of its downtime and that it might go subscription based within the near future but if it came down to combat features, it definitely is the best with the best external silent aim ive ever seen.",
+   "Summary": "Decent",
+   "Platform": "Windows",
+   "Timestamp": 1769346577166,
+   "Categories": [
+    {
+     "Rating": 5,
+     "Comment": "Very well with amazing combat features and the best external silent aims ive seen.",
+     "Summary": "Good",
+     "Category": "Combat"
+    },
+    {
+     "Rating": 3,
+     "Comment": "Decent visuals, could be better.",
+     "Summary": "Decent",
+     "Category": "Visuals"
+    },
+    {
+     "Rating": 1,
+     "Comment": "Very complex, difficult to read text if in dark mode, not user friendly at all.",
+     "Summary": "Good",
+     "Category": "Interface"
+    },
+    {
+     "Rating": 1,
+     "Comment": "Very bad uptime. Sometimes takes around 1 - 4 days to update to the latest version of roblox.",
+     "Summary": "Bad",
+     "Category": "Uptime"
+    },
+    {
+     "Rating": 5,
+     "Comment": "Amazing features. Very good combat ones and decent visual ones.",
+     "Summary": "Good",
+     "Category": "Features"
+    }
+   ],
+   "Identifier": "3JPIUB"
+  },
+  {
+   "Author": "149ezd75jg",
+   "Parent": "Severe",
+   "Rating": 5,
+   "Comment": "Genuinely the best external to buy, 20$ for lifetime, pretty good if you wanna legit - semi legit",
+   "Summary": "Good",
+   "Platform": "Windows",
+   "Timestamp": 1773958719076,
+   "Categories": [
+    {
+     "Rating": 5,
+     "Comment": "Genuinely the best external to buy, 20$ for lifetime, pretty good if you wanna legit - semi legit",
+     "Summary": "Good",
+     "Category": "Overall"
+    }
+   ],
+   "Identifier": "3MGDLD"
+  },
+  {
+   "Author": "2voor8zwl",
+   "Parent": "Severe",
+   "Rating": 4.5,
+   "Comment": "best out there for 20 dollars lifetime missing few features but best external visuals",
+   "Summary": "Good",
+   "Platform": "Windows",
+   "Timestamp": 1774535816484,
+   "Categories": [
+    {
+     "Rating": 4.5,
+     "Comment": "best out there for 20 dollars lifetime missing few features but best external visuals",
+     "Summary": "Good",
+     "Category": "Overall"
+    }
+   ],
+   "Identifier": "3MSQVU"
+  },
+  {
+   "Author": "1nlf1ykjnb",
+   "Parent": "Severe",
+   "Rating": 4.2,
+   "Comment": "This cheat is literally the best on the market. Has the smoothest visuals and the best working features.",
+   "Summary": "Good",
+   "Platform": "Windows",
+   "Timestamp": 1780248709222,
+   "Categories": [
+    {
+     "Rating": 5,
+     "Comment": "Best functioning rage and aimbot on the market. Never fails.",
+     "Summary": "Good",
+     "Category": "Combat"
+    },
+    {
+     "Rating": 4,
+     "Comment": "Smoothest feeling visuals with no noticeable delay. Very customizable as well.",
+     "Summary": "Good",
+     "Category": "Visuals"
+    },
+    {
+     "Media": "a7e4-e0a2-43f3-1976.png",
+     "Rating": 4,
+     "Comment": "I find the UI quite easy to use but newer users do tend to say its difficult to navigate. My advice is learn how to use right click.",
+     "Summary": "Good",
+     "Category": "Interface"
+    },
+    {
+     "Rating": 3,
+     "Comment": "Updating time hasn't been the best of late but in the past was quite good and will probably improve in the future. Each update will tend to last at least 3-4 so it's not the biggest issue.",
+     "Summary": "Good",
+     "Category": "Uptime"
+    },
+    {
+     "Rating": 5,
+     "Comment": "Most feature rich on the market with the best luavm. Blows things like matcha and photon out the water.",
+     "Summary": "Good",
+     "Category": "Features"
+    }
+   ],
+   "Identifier": "3P66ZB"
+  }
+ ]
+}

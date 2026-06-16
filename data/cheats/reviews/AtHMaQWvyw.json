@@ -1,0 +1,154 @@
+{
+ "Name": "Ethereal",
+ "Identifier": "AtHMaQWvyw",
+ "Reviews": [
+  {
+   "Author": "lr6aoq9pm",
+   "Parent": "Ethereal",
+   "Rating": 4.8,
+   "Comment": "its great but it needs a bit of polishing",
+   "Platform": "Windows",
+   "Timestamp": 1766228743661,
+   "Categories": [
+    {
+     "Rating": 4,
+     "Comment": "it is nice but could be a bit better",
+     "Category": "Combat"
+    },
+    {
+     "Rating": 5,
+     "Comment": "visuals are insanely customizable and good",
+     "Category": "Visuals"
+    },
+    {
+     "Rating": 5,
+     "Comment": "nice ui and nice animations",
+     "Category": "Interface"
+    },
+    {
+     "Rating": 5,
+     "Comment": "even while beta testing. it was always up",
+     "Category": "Uptime"
+    },
+    {
+     "Rating": 5,
+     "Comment": "used to have desync, hopefully back soon",
+     "Category": "Features"
+    }
+   ],
+   "Identifier": "3HUO3T"
+  },
+  {
+   "Author": "pz46do4t9",
+   "Parent": "Ethereal",
+   "Rating": 4.3,
+   "Comment": "Its pretty good, once it has some more features it will be 100% worth it.\r\nIt's nice it lets you have a 1 day free trial",
+   "Platform": "Windows",
+   "Timestamp": 1766245252190,
+   "Categories": [
+    {
+     "Rating": 4,
+     "Comment": "Aimbot is very smooth and works well",
+     "Category": "Combat"
+    },
+    {
+     "Rating": 5,
+     "Comment": "Visuals are very clean, but chams can have some more options",
+     "Category": "Visuals"
+    },
+    {
+     "Rating": 3,
+     "Comment": "Could do with some work, they use a free menu",
+     "Category": "Interface"
+    },
+    {
+     "Rating": 5,
+     "Comment": "Very fast updates",
+     "Category": "Uptime"
+    },
+    {
+     "Rating": 4,
+     "Comment": "Has some nice visual features like lighting & skybox changer",
+     "Category": "Features"
+    }
+   ],
+   "Identifier": "3HU1UE"
+  },
+  {
+   "Author": "1gfn4xiz1a",
+   "Parent": "Ethereal",
+   "Rating": 4.3,
+   "Comment": "It’s good for the money.",
+   "Platform": "Windows",
+   "Timestamp": 1766450629991,
+   "Categories": [
+    {
+     "Rating": 5,
+     "Comment": "The aimbot is very good, works for every game, and can be set to look very legit or very rage, depending on what you want.",
+     "Category": "Combat"
+    },
+    {
+     "Rating": 4,
+     "Comment": "The visuals are good and very customizable, but they could add more visual features.",
+     "Category": "Visuals"
+    },
+    {
+     "Rating": 3,
+     "Comment": "The interface isn’t the best, but you can still find what you’re looking for.",
+     "Category": "Interface"
+    },
+    {
+     "Rating": 5,
+     "Comment": "The cheat is always up to date ",
+     "Category": "Uptime"
+    },
+    {
+     "Rating": 4,
+     "Comment": "It needs more features, but the ones it has are good",
+     "Category": "Features"
+    }
+   ],
+   "Identifier": "3HZGBB"
+  },
+  {
+   "Author": "283czm4nyi",
+   "Parent": "Ethereal",
+   "Rating": 4.3,
+   "Comment": "Overall, it's worth for the price of just $8.99 (w/Free 1 Day Trial). Stable, Reliable, Legit Features Packed, and good performance when toggling many features. Never had any significant stutters/FPS drops. ",
+   "Platform": "Windows",
+   "Timestamp": 1767031531871,
+   "Categories": [
+    {
+     "Media": "1242-0815-b15b-dee6.png",
+     "Rating": 5,
+     "Comment": "The best part of this External. Aimbot is stable, doesn't tank performance, packed with legit features (Prediction/Aim Randomization), stable Visible/Wall Check, Toggleable Auto Aim, Wall Bang check, and especially no unwanted mouse flickers/jittering unlike other Externals with a higher price tag/subscription model.\r\n",
+     "Category": "Combat"
+    },
+    {
+     "Media": "914b-4877-0ec0-5e10.png",
+     "Rating": 4.2,
+     "Comment": "Player ESP, Radar, and World Visuals are pretty average and simple, just like other Externals, with stable player caching. However the Weapon/Melee Skin Changer (Currently only for Arsenal) makes up for it.",
+     "Category": "Visuals"
+    },
+    {
+     "Rating": 3,
+     "Comment": "As of writing, it uses a Public ImGui Menu (Pandora) as a placeholder. A simple, not too flashy, but average UI.\r\nTheir 'new' and original Menu is still in the works as they focus on features.",
+     "Category": "Interface"
+    },
+    {
+     "Rating": 5,
+     "Comment": "Fast Updates, they use their own Public Offset Dumper, that has consistent preupdates.\r\nStability wise; never had crashes/major bugs while playing other than messing with the current UI so far. They actively work on/take feedback on bugs and suggestions.",
+     "Category": "Uptime"
+    },
+    {
+     "Media": "7770-1cad-9988-8d57.png",
+     "Rating": 4.5,
+     "Comment": "Featurewise, it's really good for Legit Cheating. (Decent Aimbot, ESP, FOV Customization)  There is Character Manipulation, but they're pretty basic/average that you could find in other externals. The LuaU VM is still a work in progress as of writing this, just a base.\r\n\r\nCustom Models support, is still in progress, currently only Phantom Forces and Bloxstrike, however the PF support is better than certain externals, non-buggy Teamcheck and Wallcheck, and the performance doesn't drop as much than other externals.",
+     "Category": "Features"
+    }
+   ],
+   "Identifier": "3IBWJH",
+   "LastModified": 1767094265882
+  }
+ ]
+}

@@ -1,0 +1,121 @@
+{
+ "Name": "Hydrogen",
+ "Identifier": "6fgSQKLRCH",
+ "Update": {
+  "Metadata": [
+   {
+    "Platform": "Macintosh",
+    "Versions": {
+     "Roblox": "version-707cf2ddcf024b32",
+     "Software": "694.0982"
+    },
+    "Changelog": "Updated to v694",
+    "Timestamp": "2025-10-13T01:09:08.760Z"
+   },
+   {
+    "Platform": "Macintosh",
+    "Versions": {
+     "Roblox": "version-e0126463331444db",
+     "Software": "695.0982"
+    },
+    "Changelog": "Updated to v695",
+    "Timestamp": "2025-10-16T18:16:11.428Z"
+   },
+   {
+    "Platform": "Macintosh",
+    "Versions": {
+     "Roblox": "version-ef39ea5216314689",
+     "Software": "695.0982"
+    },
+    "Changelog": "Updated to v695",
+    "Timestamp": "2025-10-19T10:31:12.404Z"
+   },
+   {
+    "Platform": "Macintosh",
+    "Versions": {
+     "Roblox": "version-df9924f3990d4a6a",
+     "Software": "696.0982"
+    },
+    "Changelog": "Updated to v696",
+    "Timestamp": "2025-10-22T20:15:52.449Z"
+   },
+   {
+    "Platform": "Macintosh",
+    "Versions": {
+     "Roblox": "version-6e8186c3f6ce4303",
+     "Software": "697.0925"
+    },
+    "Changelog": "Updated to 697",
+    "Timestamp": "2025-10-29T20:01:55.890Z"
+   },
+   {
+    "Platform": "Macintosh",
+    "Versions": {
+     "Roblox": "version-2063d5e630ec4e98",
+     "Software": "702.0614"
+    },
+    "Changelog": "Updated to 702",
+    "Timestamp": "2025-12-10T05:55:51.998Z"
+   },
+   {
+    "Platform": "Macintosh",
+    "Versions": {
+     "Roblox": "version-d0722e371e604117",
+     "Software": "703.1352"
+    },
+    "Changelog": "Updated to 703",
+    "Timestamp": "2026-01-08T00:22:43.732Z"
+   },
+   {
+    "Platform": "Macintosh",
+    "Versions": {
+     "Roblox": "version-c843808e9ead4657",
+     "Software": "705.1352"
+    },
+    "Changelog": "Updated to 705",
+    "Timestamp": "2026-01-21T21:14:20.779Z"
+   },
+   {
+    "Platform": "Macintosh",
+    "Versions": {
+     "Roblox": "version-ddc7047376c34905",
+     "Software": "706.0750"
+    },
+    "Changelog": "Updated to 706",
+    "Timestamp": "2026-01-29T20:35:44.048Z"
+   },
+   {
+    "Platform": "Macintosh",
+    "Versions": {
+     "Roblox": "version-6298eb58de444612",
+     "Software": "707.0750"
+    },
+    "Changelog": "Updated to 707",
+    "Timestamp": "2026-02-05T17:08:00.823Z"
+   },
+   {
+    "Platform": "Macintosh",
+    "Versions": {
+     "Roblox": "version-82324853106949ff",
+     "Software": "708.0750"
+    },
+    "Changelog": "Updated to 708",
+    "Timestamp": "2026-02-11T20:04:00.062Z"
+   },
+   {
+    "Platform": "Macintosh",
+    "Versions": {
+     "Roblox": "version-b29f0194bebd445b",
+     "Software": "709.0870"
+    },
+    "Changelog": "Updated to 709",
+    "Timestamp": "2026-02-18T20:15:06.978Z"
+   }
+  ],
+  "Platforms": {
+   "Macintosh": {
+    "Timestamp": "2026-04-15T04:13:17.737Z"
+   }
+  }
+ }
+}
