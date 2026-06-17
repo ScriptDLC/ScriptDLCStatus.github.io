@@ -1,0 +1,184 @@
+{
+ "Name": "Isaeva",
+ "Identifier": "4zHCoH1ahT",
+ "Update": {
+  "Metadata": [
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-df7528517c6849f7",
+     "Software": "1.1.3"
+    },
+    "Changelog": "## Module\r\n**Updated**\r\n• Updated to `version-df7528517c6849f7`\r\n\r\n**Fixed**\r\n• `gethiddenproperty` crash\r\n• Game leave crash\r\n• `run_on_actor` crash\r\n• Memory leak in `hookfunction`\r\n\r\n**Changed**\r\n• `getactorthreads`, `getluastate`, `getgamestate` now return `LuaStateProxy` instead of `thread`\r\n\r\n**New: `LuaStateProxy`**\r\n• `LuaStateProxy.new(): LuaStateProxy`\r\n     Constructs a new `LuaStateProxy` based on the current Lua state\r\n• `LuaStateProxy.Id: number`\r\n     Unique identifier for this Lua state\r\n• `LuaStateProxy.IsActorState: boolean` \r\n     Whether this state was created for use by Actors\r\n• `LuaStateProxy.Event: RBXScriptSignal`\r\n     Generic event for communication between Lua states\r\n• `LuaStateProxy:GetActors(): { Actor }` \r\n     Returns all `Actor` instances associated with this Lua state\r\n• `LuaStateProxy:Execute(source: string, ...): ()`\r\n     Schedules code execution on this Lua state\r\n\r\n**Added**\r\n• `isnetworkowner`\r\n• `getmodules`\r\n• `protectfunction`\r\n• `isfunctionprotected`\r\n\r\n## UI\r\n**Fixed**\r\n• Auto Attach not working\r\n• Additional performance issues and stability improvements",
+    "Timestamp": "2026-02-20T21:02:45.895Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-df7528517c6849f7",
+     "Software": "1.1.4"
+    },
+    "Changelog": "# Module\r\n**New: `Console Redirection`**\r\n- Routes `print`, `warn`, and `error` to the ISAEVA console for real-time debugging.\r\n**Fixed**\r\n- `hookfunction`, `newcclosure` improved\r\n- `LuaStateProxy` improved\r\n- Performance & stability improvements\r\n**Added**\r\n- `DrawingImmediate` library (faster alternative to Drawing)\r\n- `isprotected`\r\n- `isuntouched`\r\n- `setuntouched`\r\n- `checkcallstack`\r\n- `isexecutorthread`\r\n- `setwindowtitle`\r\n- `setwindowicon`\r\n- `unlockmodulescript`\r\n# UI\r\n**Fixed**\r\n- More performance & stability improvements\r\n- Tabs polished (animations and close behavior)\r\n- Sidebar splitter UX improved\r\n- Clients doesnt fetch directly on Inject (injecting in homepage results in roblox avatar now, because of an small error in user id (will be fixed tmrw)\r\n**Added:**\r\n- Added Docked Console",
+    "Timestamp": "2026-02-21T21:02:45.895Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-df7528517c6849f7",
+     "Software": "1.1.5"
+    },
+    "Changelog": "## Module\r\n\r\n**Fixed**\r\n• Crash within `restorefunction` \r\n• Crash within `getfflag`\r\n• Issue within `setfflag`\r\n• Issue within `newcclosure` when teleporting across games\r\n• Crash on game leave related to `Drawing`\r\n• Crash on game leave related to `DrawingImmediate`\r\n• Memleak within `Drawing`\r\n• Issue within `Auto-Execute`\r\n• Issue within `debug.getinfo`\r\n• Additional Performance & stability improvements\r\n\r\n## UI\r\n**Added**\r\n• File renaming in TreeView (Local tab)  \r\n• Auto-clear output when line limit is reached  \r\n• Manual “Clear Console” option  \r\n**Fixed**\r\n• Monaco Editor now correctly selects only the intended word (no full-line selection)  \r\n• Animation issues when switching between Local / Clients / Hub  \r\n• Selection flickering when changing files in TreeView  \r\n• Scrolling issues in the Font dropdown  \r\n• Text reverting in tabs when \"*\" indicator was present",
+    "Timestamp": "2026-02-22T21:02:45.824Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-df7528517c6849f7",
+     "Software": "1.1.6"
+    },
+    "Changelog": "# Module\r\n**Fixed**\r\n- Fix `getfpscap` crash\r\n- Fix `Auto-Execute` not working\r\n- Fix `Unlock-Fps` not working\r\n- Fix `crypt.encrypt`and `crypt.decrypt` to match UNC standard\r\n- Fix `getcustomasset` detection\r\n**Added**\r\n- `getsignalwhitelist`",
+    "Timestamp": "2026-02-23T19:49:25.054Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-df7528517c6849f7",
+     "Software": "1.1.7"
+    },
+    "Changelog": "# Module\r\n**Added**\r\n- `Internal UI`\r\n- `getrendersteppedlist`\r\n- `and more stuff...`\r\n\r\n# Module\r\n**Fixed**\r\n- `more stuff...`",
+    "Timestamp": "2026-02-24T20:54:39.424Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-df7528517c6849f7",
+     "Software": "1.1.8"
+    },
+    "Changelog": "## UI\r\n**Fixed**\r\n• Styling issues in Launcher & Roblox Account Manager\r\n• Settings input fields (numbers/text validation corrected)\r\n• Scripts in Hub are now forced to use a single-line description  \r\n• Resizing issues in Settings & Launcher when shrinking to minimum window size  \r\n**Added**\r\n• Settings toggle inside dropdown  \r\n• Repair Files function (restores missing/broken files properly)  \r\n• Auto Exec: enable/disable option + “Open Folder”  \r\n• Auto-fix on long “Authenticating” timeout\r\n• Luau LSP to Monaco\r\n**Improved**\r\n• General code cleanup and improvements",
+    "Timestamp": "2026-02-26T20:08:19.180Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-760d064d05424689",
+     "Software": "1.1.9"
+    },
+    "Changelog": "Added:\r\n- Custom Monaco Background Setting\r\n- Docking External Console\r\n- Bug Fixes & Improvements on UI",
+    "Timestamp": "2026-02-27T17:47:40.077Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-760d064d05424689",
+     "Software": "1.2.0"
+    },
+    "Changelog": "## UI\r\n**Fixed**\r\n- Dropdown now properly syncs with its animation\r\n- Startup animation cleaned up (correct sizing, no window resize on load)\r\n- Improved stability for auto-update / authentication flow\r\n- Monaco Editor stabilized (color fixes + proper Luau LSP integration)\r\n- Docking issues\r\n- Docked Console no longer appears before startup loading completes\r\n- Pinned state of Docked/External Console now persists correctly\r\n- Right-clicking a file no longer automatically opens it in a tab\r\n- Monaco no longer flashes darker when switching tabs\r\n- Monaco background no longer flickers when switching tabs\r\n- Monaco theme/background image flicker when switching themes fixed\r\n- Fixed border radius on Launcher\r\n- Fixed padding issues and improvements on Suggest Widget\r\n- Fixed line numbers being cut off at 100+\r\n- Fixed highlighted line overlapping the Monaco background\r\n- Fixed Monaco right-side padding (aligned correctly to the edge)\r\n- Fixed Monaco left-side padding (no more gap)\r\n**Improved**\r\n- Docked Console fade-in/fade-out animations (no leftover frame)\r\n- Settings dropdown arrow animation sync, position stability, and color consistency\r\n- External Console “Clear” button restyled to match gray button style\r\n- Scrollbar slightly more transparent to better match ISAEVA style\r\n**Changed**\r\n- Added clear + copy button to docked console\r\n- Removed standalone console (docked console = external console)\r\n**Added**\r\n- HWID can now be reset once per week via the web dashboard",
+    "Timestamp": "2026-02-28T07:43:05.418Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-760d064d05424689",
+     "Software": "1.2.1"
+    },
+    "Changelog": "## Fixed\r\n### fixed WebView2 to use a Composition Control.\r\n### fixed notifications.\r\n\r\n~ Immune Was Here (That's Why It's A Bad Changelog)",
+    "Timestamp": "2026-03-01T18:50:27.352Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-760d064d05424689",
+     "Software": "1.2.2"
+    },
+    "Changelog": "## New\r\n### Docked Console Icons\r\nReplaced text buttons with icons in the Docked Console.\r\n\r\n### Docked Console Animation\r\nAdded new animation for the Docked Console.\r\n\r\n## Improved\r\n### UI Styling\r\nImproved styling consistency across almost the entire interface.\r\n\r\n### Rename UX\r\nArrow key navigation added during file renaming.\r\n\r\n### ScriptHub Tab Handling\r\nNow checks for existing tabs to prevent duplicates.\r\n\r\n## Fixed\r\n### Account Manager Actions\r\n\"Clear all Accounts\" and \"Clear all Games\" now work correctly.\r\nJoining with \"All Accounts\" no longer fails silently.\r\n\r\n### Monaco Editor\r\nFixed widespread red line rendering issue.\r\n\r\n### Settings Changelog\r\n\"Open\" no longer shows \"Unable to load changelog\".\r\n\r\n### Console Toggle Sync\r\nExternal Console and Dock Console states now properly sync in Settings.\r\n\r\n### Dock Console\r\nFixed border issues in Client Selection view.\r\nError filter no longer classifies normal prints as errors.\r\n\r\n### Unsaved Star Indicator\r\nNew files no longer show `*` without actual changes.\r\n\r\n### Tab Drag Glitch\r\nDragging the first tab from the icon no longer causes visual glitches.\r\n\r\n### Visual Bugs\r\nFixed random black border artifact and overlay inconsistencies.",
+    "Timestamp": "2026-03-02T14:00:07.812Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-d599f7fc52a8404c",
+     "Software": "1.2.3"
+    },
+    "Changelog": "## Updated \r\n### Updated to version-d599f7fc52a8404c\r\n\r\n## Fixed \r\nunnamed enhancements\r\nteleport handler freeze case\r\ninternal ui toggles not working\r\ninternal input redirection error.",
+    "Timestamp": "2026-03-04T19:17:35.596Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-d599f7fc52a8404c",
+     "Software": "1.2.4"
+    },
+    "Changelog": "## New\r\n### What's New Overlay\r\nAdded persistent \"What's New\" overlay with state tracking.\r\n\r\n### Disable What's New\r\nAdded setting to disable the \"What's New\" screen after updates.\r\n\r\n### GameCard Scrolling\r\nAdded scrolling support to GameCard for user accounts.\r\n\r\n### New Icons\r\nIntroduced new icon set and removed legacy icons.\r\n\r\n## Improved\r\n### UI Animations\r\nSmooth mouse-over color transitions in XAML styles.\r\nUnified button animations (Run, Clear, Open, Save, etc.).\r\n\r\n### Docked Console\r\nRefined dropdown coloring and general visual polish.\r\n\r\n### Account Manager\r\nUpdated button colors and styling consistency.\r\n\r\n### Login & Loading\r\nLogin and loading screens now follow the active theme color.\r\n\r\n### App Styling Consistency\r\nUnified styling across the entire application for consistent appearance.\r\n\r\n## Fixed\r\n### GameCard Hover\r\nFixed hover state being visually clipped in user account GameCards.\r\n\r\n### External Console\r\nUpdated external console styling to match the new design system.\r\n\r\n### Visual & Stability\r\nVarious color fixes and minor stability improvements.",
+    "Timestamp": "2026-03-07T03:51:16.130Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-d599f7fc52a8404c",
+     "Software": "1.2.5"
+    },
+    "Changelog": "## New\r\n### debug.setinfo\r\nAdded debug.setinfo.\r\n\r\n## Improved\r\n### Execute Stability\r\nImproved execute stability.\r\n\r\n### Injection Stability\r\nImproved injection stability.\r\n\r\n### Client Session Stability\r\nImproved client session stability.\r\n\r\n### debug.isvalidlevel\r\nImproved debug.isvalidlevel.\r\n\r\n### debug.getcallstack\r\nImproved debug.getcallstack.\r\n\r\n### getcallbackvalue\r\nImproved getcallbackvalue.\r\n\r\n## Fixed\r\n### setfpscap / getfpscap\r\nFixed setfpscap / getfpscap.\r\n\r\n### getsignalwhitelist Crash\r\nFixed a crash related to getsignalwhitelist.\r\n\r\n### listfiles Issue\r\nFixed an issue with listfiles.\r\n\r\n### Typechecking\r\nFixed typechecking on several functions.",
+    "Timestamp": "2026-03-07T22:22:22.082Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-d599f7fc52a8404c",
+     "Software": "1.2.6"
+    },
+    "Changelog": "## New\r\n### raknet Library\r\nAdded `raknet` library with send/receive hooks and packet send/receive support.\r\n\r\n### Safe Mode\r\nAdded Safe Mode feature.\r\n\r\n### Roblox Install Manager\r\nAdded Roblox Install Manager with downgrade support.\r\n\r\n### ISAEVA Styled MessageBoxes\r\nAdded ISAEVA styled message boxes instead of default Windows message boxes.\r\n\r\n### Error Notification\r\nAdded an error notification if an account in auto reconnect cannot join Roblox.\r\n\r\n### Auto Dependency Install\r\nAdded automatic install for module or injector if a required dependency is missing.\r\n\r\n## Improved\r\n### UI and Parsing\r\nImproved UI and parsing.\r\n\r\n### Tab Spacing\r\nImproved tab spacing.\r\n\r\n### Multi-Instance Support\r\nUpdated Roblox mutex for multi-instance support.\r\n\r\n### ModuleInstances Safety\r\nImproved `ModuleInstances` add/update logic for better safety.\r\n\r\n### Login Window\r\nReduced noise on the login window for better performance.\r\n\r\n### Session & Injection Handling\r\nImproved \"No attached session found\" and \"Process Already Injected\" handling so these issues should happen less often.\r\n\r\n### Auto Reconnect\r\nImproved auto reconnect to always join a different server than other accounts.\r\n\r\n## Fixed\r\n### listfiles\r\nFixed `listfiles` causing issues with configs and nested paths.\r\n\r\n### setclipboard\r\nFixed `setclipboard` not supporting non-string values.\r\n\r\n### run_on_actor\r\nFixed `run_on_actor` not supporting some datatypes.\r\n\r\n### MonacoBackgroundCache\r\nFixed a performance issue in `MonacoBackgroundCache`.\r\n\r\n### TargetProcess\r\nFixed a memory leak in `TargetProcess`.\r\n\r\n### MessageBoxes\r\nFixed MessageBox issues.\r\n\r\n### Window Frame\r\nFixed window frame bugs for smoother resizing.\r\n\r\n### Console Filter\r\nFixed console filter issues.\r\n\r\n### App Stability\r\nFixed various app-related bugs.\r\n\r\n### Multi-Account Same Server\r\nFixed multiple accounts being able to join the same server through auto reconnect.\r\n\r\n## Removed\r\n### Performance Overlay\r\nRemoved the performance overlay.\r\n\r\n### Split View\r\nRemoved split view from editor and tabs.",
+    "Timestamp": "2026-03-09T21:10:31.345Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-d599f7fc52a8404c",
+     "Software": "1.2.7"
+    },
+    "Changelog": "## Improved\r\n### Tab Dragging\r\nImproved tab dragging when clicking tabs.\r\n\r\n## Fixed\r\n### Opening Selected Scripts\r\nFixed opening selected scripts.\r\n\r\n### Install Button Styling\r\nFixed install button using the correct styling.\r\n\r\n### Session Timed Out Error\r\nFixed session timed out error.\r\n\r\n## New\r\n### Client Close Button\r\nAdded a close button (`X`) for clients.\r\n\r\n### File Renaming\r\nAdded file renaming with double click, also in tabs.",
+    "Timestamp": "2026-03-11T08:00:04.299Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-b130242ed064436f",
+     "Software": "1.2.8"
+    },
+    "Changelog": "## Updated\r\n### Module Version\r\nUpdated module to `version-b130242ed064436f`.\r\n\r\n## New\r\n### getsignalarguments\r\nAdded `getsignalarguments`.\r\n\r\n### getsignalargumentsinfo\r\nAdded `getsignalargumentsinfo`.\r\n\r\n## Improved\r\n### run_on_actor\r\nImproved `run_on_actor` table argument support.\r\n\r\n## Fixed\r\n### debug.getproto\r\nFixed `debug.getproto` not containing the same debug info as the original.\r\n\r\n### compareinstances\r\nFixed `compareinstances` not erroring on non-instances.\r\n\r\n### debug.getinfo\r\nFixed `debug.getinfo` bug.\r\n\r\n### getconnections\r\nFixed huge `getconnections` issue.\r\n\r\n### Stability\r\nFixed stability issues caused by the previous update.",
+    "Timestamp": "2026-03-13T16:11:48.654Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-ae421f0582e54718",
+     "Software": "1.2.9"
+    },
+    "Changelog": "## Updated\r\n### Module Version\r\nUpdated module to `version-ae421f0582e54718`.\r\n\r\n### Auto Reconnect\r\nUpdated to be more reliant and track dead processes more reliably.\r\n\r\n### Installer\r\nUpdated Deployment handling to install and launch on the live channel.",
+    "Timestamp": "2026-03-18T20:35:05.512Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-ae421f0582e54718",
+     "Software": "1.3.0"
+    },
+    "Changelog": "## Updated\r\n### Module\r\n- Fixed Freezing issues with `run_on_actor`\r\n- Fixed issues with getsignalargumentsinfo & getsignalarguments\r\n\r\n### Interface\r\n- Updated Selection, and Caret color to follow accent color.\r\n- Rename context menu will open an input dialog for both Files and Tabs\r\n- game launcher now supports Private Servers and Job Id's\r\n- VC++ 2015-2019/2022 Check on runtime\r\n- Added Impl. or Clear Games/Accounts\r\n- Danger Zone sections have an extra caution message\r\n- custom dialog and messageboxs are standard when applicable\r\n\r\n## New \r\n### Module\r\n- Added `getpid`/`get_process_identifier` returns process id.",
+    "Timestamp": "2026-03-20T19:57:55.227Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-ae421f0582e54718",
+     "Software": "1.3.1"
+    },
+    "Changelog": "## Update\r\n### Updated\r\n- Application Bug Fixes.",
+    "Timestamp": "2026-03-22T21:33:13.065Z"
+   }
+  ],
+  "Platforms": {
+   "Windows": {
+    "Timestamp": "2026-03-22T21:33:13.065Z"
+   }
+  }
+ }
+}

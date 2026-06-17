@@ -1,0 +1,842 @@
+{
+ "Name": "Wave",
+ "Identifier": "PSnycmfsGC",
+ "Reviews": [
+  {
+   "Author": "c687pcx48",
+   "Parent": "Wave",
+   "Rating": 4.5,
+   "Comment": "Great executor but the devs dont care about the smaller issues their ui has been released for months and some of there ui bugs haven't been fixed",
+   "Platform": "Windows",
+   "Timestamp": 1760846114597,
+   "Categories": [
+    {
+     "Rating": 5,
+     "Comment": "This executor supports every single script on the market currently with great stability.",
+     "Category": "Script Support"
+    },
+    {
+     "Rating": 5,
+     "Comment": "Doesnt use alot of cpu usage and while having multiple roblox instances they have a option to limit the cpu usage",
+     "Category": "Optimization"
+    },
+    {
+     "Rating": 4.5,
+     "Comment": "It was the first executor to have a working multi instance bypass and fast fflag bypass and is UD",
+     "Category": "Reliability"
+    },
+    {
+     "Rating": 3,
+     "Comment": "The devs don't care about the small bugs and only work on making the executor functional when they make changes to the ui they make a brand new ui for it and ever since the new uis release there have been several bugs that the devs dont care to fix.",
+     "Category": "User Experience"
+    },
+    {
+     "Rating": 4.5,
+     "Comment": "Preupdates most of the time but recently they had issues with ddoses which caused downtime and can take a while for it to be back up",
+     "Category": "Updates"
+    }
+   ],
+   "Identifier": "3ENBUC"
+  },
+  {
+   "Author": "27j8har5ld",
+   "Parent": "Wave",
+   "Rating": 4.5,
+   "Comment": "Wave would be 5 out of 5 stars if they didnt replace their masterpiece vsc fork for this dogshit external internal ass ui, anyways good exploit behind the absolutely fucking ass ui, stable and good script compatability aight thx bye acevincente wrote this thanks",
+   "Platform": "Windows",
+   "Timestamp": 1763095737217,
+   "Categories": [
+    {
+     "Rating": 5,
+     "Comment": "98 sUNC or something which is very good",
+     "Category": "Script Support"
+    },
+    {
+     "Rating": 4,
+     "Comment": "Pretty well optimised",
+     "Category": "Optimization"
+    },
+    {
+     "Rating": 5,
+     "Comment": "Does not crash frequently",
+     "Category": "Reliability"
+    },
+    {
+     "Rating": 3,
+     "Comment": "Not a fan personally of the ui",
+     "Category": "User Experience"
+    },
+    {
+     "Rating": 5,
+     "Comment": "EXTREMELY fast updates",
+     "Category": "Updates"
+    }
+   ],
+   "Identifier": "3FZJNV"
+  },
+  {
+   "Author": "1vnbhoshnp",
+   "Parent": "Wave",
+   "Rating": 4.8,
+   "Comment": "Most expensive executor on the market though, it's cool.",
+   "Platform": "Windows",
+   "Timestamp": 1763096966131,
+   "Categories": [
+    {
+     "Rating": 5,
+     "Comment": "Supports every good script and recommended by many scripts",
+     "Category": "Script Support"
+    },
+    {
+     "Rating": 5,
+     "Comment": "Zero performance impact. Perfect.",
+     "Category": "Optimization"
+    },
+    {
+     "Rating": 5,
+     "Comment": "The first executor after the big Client Modification Integrity Checks update to actually bypass and become, dare I say, UD.",
+     "Category": "Reliability"
+    },
+    {
+     "Rating": 4,
+     "Comment": "New UI is alright, Old UI was better tho.",
+     "Category": "User Experience"
+    },
+    {
+     "Rating": 5,
+     "Comment": "Pre-updates most of the time, cool!",
+     "Category": "Updates"
+    }
+   ],
+   "Identifier": "3FZKL0"
+  },
+  {
+   "Author": "t08hvy0i5",
+   "Parent": "Wave",
+   "Rating": 4.8,
+   "Comment": "good optimization for multi acc use and never had problems loading any script",
+   "Platform": "Windows",
+   "Timestamp": 1763696836023,
+   "Categories": [
+    {
+     "Rating": 5,
+     "Comment": "never had issues running scripts",
+     "Category": "Script Support"
+    },
+    {
+     "Rating": 5,
+     "Comment": "can get alts to 0.1% cpu when multi acc",
+     "Category": "Optimization"
+    },
+    {
+     "Rating": 5,
+     "Comment": "one of the longest running executors been using it over awp when everyone went to them",
+     "Category": "Reliability"
+    },
+    {
+     "Rating": 5,
+     "Comment": "the anime girl mascot is ahh but its easy to use good sideloading bar",
+     "Category": "User Experience"
+    },
+    {
+     "Rating": 4,
+     "Comment": "lots of bug fixes and frequent updates but not always very fast",
+     "Category": "Updates"
+    }
+   ],
+   "Identifier": "3GCFG2"
+  },
+  {
+   "Author": "3igyhv7lp",
+   "Parent": "Wave",
+   "Rating": 3.6,
+   "Comment": "It's a somewhat expensive product for its price, it has many flaws and causes problems when farming. However, there isn't much competition, so they can afford to keep those prices.",
+   "Platform": "Windows",
+   "Timestamp": 1763786676967,
+   "Categories": [
+    {
+     "Rating": 5,
+     "Comment": "It works well in terms of code execution.\r\n",
+     "Category": "Script Support"
+    },
+    {
+     "Rating": 3,
+     "Comment": "Sometimes it uses too much RAM, they seem to be memory leaks.",
+     "Category": "Optimization"
+    },
+    {
+     "Rating": 3,
+     "Comment": "The application suffers from frequent crashes and fails to detect all instances. During a test with 100 instances, only 54 were successfully attached to Wave",
+     "Category": "Reliability"
+    },
+    {
+     "Rating": 3,
+     "Comment": "The UI looks fine, but it's awkward to use",
+     "Category": "User Experience"
+    },
+    {
+     "Rating": 3,
+     "Comment": "mid",
+     "Category": "Updates"
+    }
+   ],
+   "Identifier": "3GECSM"
+  },
+  {
+   "Author": "1ve2izfmjl",
+   "Parent": "Wave",
+   "Rating": 2.8,
+   "Comment": "shade Siri those who know 💀\r\nui is buns \r\ngood if u wanna cop a overpriced product",
+   "Platform": "Windows",
+   "Timestamp": 1763934339477,
+   "Categories": [
+    {
+     "Rating": 3,
+     "Comment": "meh",
+     "Category": "Script Support"
+    },
+    {
+     "Rating": 2,
+     "Comment": "Mid",
+     "Category": "Optimization"
+    },
+    {
+     "Rating": 3,
+     "Comment": "I guess good",
+     "Category": "Reliability"
+    },
+    {
+     "Rating": 2,
+     "Comment": "Ui some BULLSHIIIIIT",
+     "Category": "User Experience"
+    },
+    {
+     "Rating": 3,
+     "Comment": "kinda fast ig",
+     "Category": "Updates"
+    }
+   ],
+   "Identifier": "3GHIQD"
+  },
+  {
+   "Author": "4xid0p6z7",
+   "Parent": "Wave",
+   "Rating": 4.3,
+   "Comment": "overall this is really good and u should t ry it",
+   "Platform": "Windows",
+   "Timestamp": 1763992284081,
+   "Categories": [
+    {
+     "Rating": 4,
+     "Comment": "has some bugs but its rly good",
+     "Category": "Script Support"
+    },
+    {
+     "Rating": 5,
+     "Comment": "not bad",
+     "Category": "Optimization"
+    },
+    {
+     "Rating": 5,
+     "Comment": "i got a free key from the devs/owners",
+     "Category": "Reliability"
+    },
+    {
+     "Rating": 4,
+     "Comment": "anime mode is funny",
+     "Category": "User Experience"
+    },
+    {
+     "Rating": 3,
+     "Comment": "slow updates but u can wait",
+     "Category": "Updates"
+    }
+   ],
+   "Identifier": "3GIRFY"
+  },
+  {
+   "Author": "qnk4moao6",
+   "Parent": "Wave",
+   "Rating": 4.5,
+   "Comment": "I love wave and Bud from wave administration",
+   "Platform": "Windows",
+   "Timestamp": 1764115899729,
+   "Categories": [
+    {
+     "Rating": 5,
+     "Comment": "wave is goated",
+     "Category": "Script Support"
+    },
+    {
+     "Rating": 5,
+     "Comment": "low cpu/ram usage, very goated",
+     "Category": "Optimization"
+    },
+    {
+     "Rating": 5,
+     "Comment": "Really safe and UD (undetected)",
+     "Category": "Reliability"
+    },
+    {
+     "Rating": 3,
+     "Comment": "New ui kinda buns, old one was better imo, but it is what it is",
+     "Category": "User Experience"
+    },
+    {
+     "Rating": 4,
+     "Comment": "Sometimes it takes a week to update, sometimes a day, ig decent",
+     "Category": "Updates"
+    }
+   ],
+   "Identifier": "3GLETP"
+  },
+  {
+   "Author": "y4hm4fix1",
+   "Parent": "Wave",
+   "Rating": 5,
+   "Comment": "Very good functionality. Now that zenith is gone its the best non private executor. Only thing bad about it is the price... Way too expensive. The UI is okay, i like that its something very different then other executors and the anime voicelines. I would wish for a revive of Freemium (which never gonna happen). And big shoutout to my king Bass without him i wouldve never get a taste of this product!",
+   "Platform": "Windows",
+   "Timestamp": 1764519539231,
+   "Categories": [
+    {
+     "Rating": 5,
+     "Comment": "Works with every script i tested",
+     "Category": "Script Support"
+    },
+    {
+     "Rating": 5,
+     "Comment": "Not recognizable (2000 bucks pc what else to expect)",
+     "Category": "Optimization"
+    },
+    {
+     "Rating": 5,
+     "Comment": "very safe, i always use it on my main.",
+     "Category": "Reliability"
+    },
+    {
+     "Rating": 5,
+     "Comment": "The ui is interesting different then others. Its cool though and the anime voicelines are great!",
+     "Category": "User Experience"
+    },
+    {
+     "Rating": 5,
+     "Comment": "Pretty quickly and always first.",
+     "Category": "Updates"
+    }
+   ],
+   "Identifier": "3GT19X"
+  },
+  {
+   "Author": "1yz66yis7a",
+   "Parent": "Wave",
+   "Rating": 4.5,
+   "Comment": "idk man this cheat kinda good cuh",
+   "Platform": "Windows",
+   "Timestamp": 1764899090580,
+   "Categories": [
+    {
+     "Rating": 5,
+     "Comment": "supports every script i use it's pretty good just that i think the ui could be better",
+     "Category": "Script Support"
+    },
+    {
+     "Rating": 4,
+     "Comment": "cpu usage isn't bad same for ram",
+     "Category": "Optimization"
+    },
+    {
+     "Rating": 5,
+     "Comment": "it's pretty dependable since it's supports most if not all scripts. it also gives warnings if a script tries to enable fflags which can get you banned.",
+     "Category": "Reliability"
+    },
+    {
+     "Rating": 3,
+     "Comment": "the setup process is not as simple as other executors yk and the ui is mid.",
+     "Category": "User Experience"
+    },
+    {
+     "Rating": 5,
+     "Comment": "it gets updates very frequently and they always add at least some new feature every once in a while",
+     "Category": "Updates"
+    }
+   ],
+   "Identifier": "3G1640"
+  },
+  {
+   "Author": "1kax8srn3a",
+   "Parent": "Wave",
+   "Rating": 5,
+   "Comment": "Best executor out there and definitely worth the price, for the trust, reliability and support they offer.",
+   "Platform": "Windows",
+   "Timestamp": 1765439292059,
+   "Categories": [
+    {
+     "Rating": 5,
+     "Comment": "Best executor out there even tho the UI may be hated, they update extremely fast and the executor supports any scripts and if anyone has an issue running a script the dev try to find the problem for that by contacting those specific devs and getting it fixed.",
+     "Category": "Script Support"
+    },
+    {
+     "Rating": 5,
+     "Comment": "It used to consume alot of CPU in the past but I haven't notice any recently, probably fixed.",
+     "Category": "Optimization"
+    },
+    {
+     "Rating": 5,
+     "Comment": "It's a very dependable and a safe executor, especially considering the fact that they've been on the market ever since hyperion released and haven't exit scammed their users even once and always compensate for downtime.",
+     "Category": "Reliability"
+    },
+    {
+     "Rating": 5,
+     "Comment": "It's simple and quiet easy to navigate through",
+     "Category": "User Experience"
+    },
+    {
+     "Rating": 5,
+     "Comment": "10/10",
+     "Category": "Updates"
+    }
+   ],
+   "Identifier": "3HDRYM"
+  },
+  {
+   "Author": "3mvts6dir",
+   "Parent": "Wave",
+   "Rating": 1.4,
+   "Comment": "this shitsploit ratted my computor",
+   "Platform": "Windows",
+   "Timestamp": 1765714426861,
+   "Categories": [
+    {
+     "Rating": 1,
+     "Comment": "Doesn't even execute Inf Yield, when it does (1 in a 10 chance) it just crashes after 2 minutes",
+     "Category": "Script Support"
+    },
+    {
+     "Rating": 1,
+     "Comment": "-50 fps on injection, mines my gpu when im asleep.",
+     "Category": "Optimization"
+    },
+    {
+     "Rating": 1,
+     "Comment": "Ratted users mid 2023-early 2024, was detected (free version), owners change every day and is a shitsploit.",
+     "Category": "Reliability"
+    },
+    {
+     "Rating": 1,
+     "Comment": "Crashes on inject, downgrading will cause you to be hit.",
+     "Category": "User Experience"
+    },
+    {
+     "Rating": 1,
+     "Comment": "Doesn't update, pastes patches, horrible in general",
+     "Category": "Updates"
+    }
+   ],
+   "Identifier": "3HJN88"
+  },
+  {
+   "Author": "1yqb25pgdb",
+   "Parent": "Wave",
+   "Rating": 1.6,
+   "Comment": "this shit sucks ass, dont buy it.",
+   "Platform": "Windows",
+   "Timestamp": 1765714681659,
+   "Categories": [
+    {
+     "Rating": 1,
+     "Comment": "dogshit internal, could be better if i pasted it.",
+     "Category": "Script Support"
+    },
+    {
+     "Rating": 1,
+     "Comment": "fps tanks a lot whenever wave is open, i regret buying 1 month.",
+     "Category": "Optimization"
+    },
+    {
+     "Rating": 1,
+     "Comment": "a lot of vulnerabilities, just like the one back in 2023",
+     "Category": "Reliability"
+    },
+    {
+     "Rating": 2,
+     "Comment": "the ui overall sucks, zenith had a better one by far. I had a femboy background on zenith. Wish i could do this on wave.\r\ni had a femboy touch my thighs using wave, kinda enjoyed it but still made me cum",
+     "Category": "User Experience"
+    },
+    {
+     "Rating": 1,
+     "Comment": "Barely updates nowadays.",
+     "Category": "Updates"
+    }
+   ],
+   "Identifier": "3HJOGB"
+  },
+  {
+   "Author": "ricu978tg",
+   "Parent": "Wave",
+   "Rating": 4.1,
+   "Comment": "good but kinda ass with lag",
+   "Platform": "Windows",
+   "Timestamp": 1765813023292,
+   "Categories": [
+    {
+     "Rating": 4,
+     "Comment": "supports almost every script",
+     "Category": "Script Support"
+    },
+    {
+     "Rating": 3,
+     "Comment": "very much idfk",
+     "Category": "Optimization"
+    },
+    {
+     "Rating": 5,
+     "Comment": "Has fastflag detector and shi",
+     "Category": "Reliability"
+    },
+    {
+     "Rating": 5,
+     "Comment": "Very nice ui",
+     "Category": "User Experience"
+    },
+    {
+     "Rating": 3,
+     "Comment": "Used to instantly update, Now it doesnt.",
+     "Category": "Updates"
+    }
+   ],
+   "Identifier": "3HLSB1"
+  },
+  {
+   "Author": "1ctcuzkk5o",
+   "Parent": "Wave",
+   "Rating": 5,
+   "Comment": "WE ( YES WE ) ARE CRACKING THE WAVE MASCOT!😍",
+   "Platform": "Windows",
+   "Timestamp": 1766738355796,
+   "Categories": [
+    {
+     "Rating": 5,
+     "Comment": "WE ( YES WE ) ARE CRACKING THE WAVE MASCOT!😍",
+     "Category": "Script Support"
+    },
+    {
+     "Rating": 5,
+     "Comment": "WE ( YES WE ) ARE CRACKING THE WAVE MASCOT!😍",
+     "Category": "Optimization"
+    },
+    {
+     "Rating": 5,
+     "Comment": "WE ( YES WE ) ARE CRACKING THE WAVE MASCOT!😍",
+     "Category": "Reliability"
+    },
+    {
+     "Rating": 5,
+     "Comment": "WE ( YES WE ) ARE CRACKING THE WAVE MASCOT!😍",
+     "Category": "User Experience"
+    },
+    {
+     "Rating": 5,
+     "Comment": "WE ( YES WE ) ARE CRACKING THE WAVE MASCOT!😍",
+     "Category": "Updates"
+    }
+   ],
+   "Identifier": "3H5MBP"
+  },
+  {
+   "Author": "vyerhdr9o",
+   "Parent": "Wave",
+   "Rating": 2.1,
+   "Comment": "it hurts alot",
+   "Platform": "Windows",
+   "Timestamp": 1766954233662,
+   "Categories": [
+    {
+     "Rating": 1,
+     "Comment": "broke my dick ",
+     "Category": "Script Support"
+    },
+    {
+     "Rating": 1,
+     "Comment": "broke my dick",
+     "Category": "Optimization"
+    },
+    {
+     "Rating": 5,
+     "Comment": "if you want your dick broken",
+     "Category": "Reliability"
+    },
+    {
+     "Rating": 1,
+     "Comment": "it hurt",
+     "Category": "User Experience"
+    },
+    {
+     "Rating": 1,
+     "Comment": "your dick wont grow back",
+     "Category": "Updates"
+    }
+   ],
+   "Identifier": "3H98WB"
+  },
+  {
+   "Author": "2lwn48z34t",
+   "Parent": "Wave",
+   "Rating": 3.2,
+   "Comment": "Old = decent prob a 4.5\r\nNew = 1.5 maybe 2",
+   "Platform": "Windows",
+   "Timestamp": 1766998383289,
+   "Categories": [
+    {
+     "Rating": 5,
+     "Comment": "Good unc and supports 99% of scripts",
+     "Category": "Script Support"
+    },
+    {
+     "Rating": 5,
+     "Comment": "Good performance no real lag",
+     "Category": "Optimization"
+    },
+    {
+     "Rating": 1,
+     "Comment": "99% chance that the new verison of wave is ratted",
+     "Category": "Reliability"
+    },
+    {
+     "Rating": 2,
+     "Comment": "Old UI was good until new HOT ass ui came with a rat",
+     "Category": "User Experience"
+    },
+    {
+     "Media": "4f96-a1b6-b438-5559.png",
+     "Rating": 2,
+     "Comment": "old wave good / new wave with rat and dtc = bad",
+     "Category": "Updates"
+    }
+   ],
+   "Identifier": "3IA6YP"
+  },
+  {
+   "Author": "v4xcl8xtl",
+   "Parent": "Wave",
+   "Rating": 4.4,
+   "Comment": "Amazing exec, would recommend to others, bit buggy with some stuff but overall works perfect.",
+   "Platform": "Windows",
+   "Timestamp": 1767135209743,
+   "Categories": [
+    {
+     "Rating": 4,
+     "Comment": "Having some issues w some scripts, but overall works perfectly fine",
+     "Category": "Script Support"
+    },
+    {
+     "Rating": 5,
+     "Comment": "No lag, no freezing, no crashing, works great",
+     "Category": "Optimization"
+    },
+    {
+     "Rating": 4,
+     "Comment": "Some issues with the devs made me question it a bit, but generally I feel it's reliable and safe to use",
+     "Category": "Reliability"
+    },
+    {
+     "Rating": 5,
+     "Comment": "Amazing, easy to open and use from the getgo, simple and easy to navigate UI, really great.",
+     "Category": "User Experience"
+    },
+    {
+     "Rating": 4,
+     "Comment": "They try to push updates out as fast as they can which I respect, usually delays aren't their fault... usually.",
+     "Category": "Updates"
+    }
+   ],
+   "Identifier": "3ID4JF"
+  },
+  {
+   "Author": "1qeff3djdn",
+   "Parent": "Wave",
+   "Rating": 2,
+   "Comment": "Not a good Executor it was before but they switched team and now its ass ",
+   "Summary": "Bad",
+   "Platform": "Windows",
+   "Timestamp": 1769512059021,
+   "Categories": [
+    {
+     "Rating": 4,
+     "Comment": "Should ran almost every script",
+     "Summary": "Decent",
+     "Category": "Script Support"
+    },
+    {
+     "Rating": 2,
+     "Comment": "Garbage ",
+     "Summary": "Bad",
+     "Category": "Optimization"
+    },
+    {
+     "Rating": 2,
+     "Comment": "Its meh",
+     "Summary": "Bad",
+     "Category": "Reliability"
+    },
+    {
+     "Rating": 1,
+     "Comment": "Looks like my crippled small toe after the team switched",
+     "Summary": "Bad",
+     "Category": "User Experience"
+    },
+    {
+     "Rating": 1,
+     "Comment": "Updates not extremly fast u need to downgrade a lot ",
+     "Summary": "Bad",
+     "Category": "Updates"
+    }
+   ],
+   "Identifier": "3JS2I1",
+   "LastModified": 1772710675268
+  },
+  {
+   "Author": "27g7jyuqrt",
+   "Parent": "Wave",
+   "Rating": 4.2,
+   "Comment": "Tbh I don't trust the new older I like old one more and the new GUI is literally the downgrade atp",
+   "Summary": "Decent",
+   "Platform": "Windows",
+   "Timestamp": 1774164881857,
+   "Categories": [
+    {
+     "Rating": 5,
+     "Comment": "Great tbh",
+     "Summary": "Good",
+     "Category": "Script Support"
+    },
+    {
+     "Rating": 5,
+     "Comment": "Doesn't use that many ram and run pretty good",
+     "Summary": "Good",
+     "Category": "Optimization"
+    },
+    {
+     "Rating": 4,
+     "Comment": "Crashing quite a lot on inject but overall fine",
+     "Summary": "Decent",
+     "Category": "Reliability"
+    },
+    {
+     "Rating": 2,
+     "Comment": "Skidded from Fusion Exec old GUI better bring back the old owner ",
+     "Summary": "Decent",
+     "Category": "User Experience"
+    },
+    {
+     "Rating": 5,
+     "Comment": "Insanely quick",
+     "Summary": "Good",
+     "Category": "Updates"
+    }
+   ],
+   "Identifier": "3MKSN3"
+  },
+  {
+   "Author": "1drk7xzakc",
+   "Parent": "Wave",
+   "Rating": 3.2,
+   "Comment": "Terrible Executor overall only somewhat good execution. Do not buy.",
+   "Summary": "Bad",
+   "Platform": "Windows",
+   "Timestamp": 1776366178353,
+   "Categories": [
+    {
+     "Rating": 4,
+     "Comment": "Supports many scripts and had good overall scores.",
+     "Summary": "Good",
+     "Category": "Script Support"
+    },
+    {
+     "Rating": 4,
+     "Comment": "Doesnt use much.",
+     "Summary": "Good",
+     "Category": "Optimization"
+    },
+    {
+     "Rating": 3,
+     "Comment": "Crashes sometimes, injection aint the greatest.",
+     "Summary": "Decent",
+     "Category": "Reliability"
+    },
+    {
+     "Rating": 3,
+     "Comment": "Mediocre everything.",
+     "Summary": "Decent",
+     "Category": "User Experience"
+    },
+    {
+     "Rating": 2,
+     "Comment": "Slow and most of the time makes roblox unstable. Ratted.",
+     "Summary": "Bad",
+     "Category": "Updates"
+    }
+   ],
+   "Identifier": "3NVY68"
+  },
+  {
+   "Author": "1s80hodb6y",
+   "Parent": "Wave",
+   "Rating": 4,
+   "Comment": "Good, got detected a lot",
+   "Summary": "Decent",
+   "Platform": "Windows",
+   "Timestamp": 1777393839040,
+   "Categories": [
+    {
+     "Rating": 4,
+     "Comment": "Good, got detected a lot",
+     "Summary": "Decent",
+     "Category": "Overall"
+    }
+   ],
+   "Identifier": "3OHZ5D"
+  },
+  {
+   "Author": "5g2hz94zn",
+   "Parent": "Wave",
+   "Rating": 2,
+   "Comment": "is a full shit executor ",
+   "Summary": "Bad",
+   "Platform": "Windows",
+   "Timestamp": 1780995731735,
+   "Categories": [
+    {
+     "Rating": 1,
+     "Comment": "This executor can no good executes script ",
+     "Summary": "Bad",
+     "Category": "Script Support"
+    },
+    {
+     "Rating": 1,
+     "Comment": "My performance always gets really slow because of the Wave executor.",
+     "Summary": "Bad",
+     "Category": "Optimization"
+    },
+    {
+     "Rating": 2,
+     "Comment": "It's going ok",
+     "Summary": "Decent",
+     "Category": "Reliability"
+    },
+    {
+     "Rating": 5,
+     "Comment": "Is Just really GOD",
+     "Summary": "Good",
+     "Category": "User Experience"
+    },
+    {
+     "Rating": 1,
+     "Comment": "is like bad updates",
+     "Summary": "Bad",
+     "Category": "Updates"
+    }
+   ],
+   "Identifier": "3QM7DX"
+  }
+ ]
+}

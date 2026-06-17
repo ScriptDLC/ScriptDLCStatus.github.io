@@ -1,0 +1,553 @@
+{
+ "Name": "Solara",
+ "Identifier": "rMSfll8OlU",
+ "Update": {
+  "Metadata": [
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-d34359a5577645e2",
+     "Software": "3.196"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-10-11T06:17:48.642Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-7a4a5d7d1fb3449f",
+     "Software": "3.197"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-10-16T23:09:51.158Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-4aeb17bd13994560",
+     "Software": "3.198"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-10-22T23:08:54.319Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-889d2588b25a43d1",
+     "Software": "3.199"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-10-30T05:49:37.256Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-f6dd34ecac7b4642",
+     "Software": "3.200"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-11-06T01:37:39.965Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-b7e223555d904550",
+     "Software": "3.201"
+    },
+    "Changelog": "[+] 😮 Added Multi Instance/Client Manager (WILL HAVE BUGS, REPORT THEM)\n[+] updated version-b7e223555d904550\n[+] JOIN THE COMMUNITY!: getsolara.dev/revolt",
+    "Timestamp": "2025-11-12T23:47:58.388Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-8e6e698468a04d3f",
+     "Software": "3.202"
+    },
+    "Changelog": "[+] vuln patches\n[+] some performance fixes with multi instance\n[+] updated version-8e6e698468a04d3f\n[+] JOIN THE COMMUNITY!: getsolara.dev/revolt",
+    "Timestamp": "2025-11-15T07:45:29.876Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-fdda949d95e447e3",
+     "Software": "3.203"
+    },
+    "Changelog": "[+] updated version-fdda949d95e447e3\n[+] JOIN THE COMMUNITY!: getsolara.dev/revolt",
+    "Timestamp": "2025-11-19T21:20:42.392Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-e380c8edc8f6477c",
+     "Software": "3.204"
+    },
+    "Changelog": "[+] updated version-e380c8edc8f6477c\n[+] JOIN THE COMMUNITY!: getsolara.dev/revolt",
+    "Timestamp": "2025-11-22T08:49:45.000Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-1849ecbff0824113",
+     "Software": "3.205"
+    },
+    "Changelog": "[+] patched a blocked file extension bypass\n[+] setfpscap is now in luau because why not\n[+] updated isnetworkowner\n[+] updated version-1849ecbff0824113\n[+] JOIN THE DISCORD!: getsolara.dev/discord",
+    "Timestamp": "2025-12-03T22:05:18.083Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-5aed1822f52c4b03",
+     "Software": "3.206"
+    },
+    "Changelog": "[+] updated version-5aed1822f52c4b03\n[+] JOIN THE DISCORD!: getsolara.dev/discord",
+    "Timestamp": "2025-12-08T21:06:51.764Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-eaebe135b3ec446b",
+     "Software": "3.207"
+    },
+    "Changelog": "[+] updated version-eaebe135b3ec446b\n[+] JOIN THE DISCORD!: getsolara.dev/discord",
+    "Timestamp": "2025-12-12T02:50:11.793Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-5b077c09380f4fe6",
+     "Software": "3.210"
+    },
+    "Changelog": "[+] fixed script search\n[+] fixed dtc used by ink game\n[+] updated version-5b077c09380f4fe6\n[+] JOIN THE DISCORD!: getsolara.dev/discord",
+    "Timestamp": "2025-12-18T19:11:11.898Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-5b077c09380f4fe6",
+     "Software": "3.212"
+    },
+    "Changelog": "[+] changed in-game attach logic & more checks for less attaching problems in general\n[+] JOIN THE DISCORD!: getsolara.dev/discord",
+    "Timestamp": "2025-12-22T22:17:53.947Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-f8f53a67efca4c34",
+     "Software": "3.213"
+    },
+    "Changelog": "[+] updated version-f8f53a67efca4c34\n[+] JOIN THE DISCORD!: getsolara.dev/discord",
+    "Timestamp": "2025-12-31T19:35:14.682Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-f8f53a67efca4c34",
+     "Software": "3.214"
+    },
+    "Changelog": "[+] fixed an execution breaking bug\n[+] updated version-f8f53a67efca4c34\n[+] JOIN THE DISCORD!: getsolara.dev/discord",
+    "Timestamp": "2025-12-31T20:10:46.558Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-f8f53a67efca4c34",
+     "Software": "3.215"
+    },
+    "Changelog": "[+] solara no longer requires admin to run (never should've been a thing)\n[+] tabs have migrated to LOCALAPPDATA\\SolaraTab\n[+] websocket connections are now unique for each client as expected\n[+] reverted webview2 controls to fix no script box issue\n[+] vuln patches and other bug fixes\n[+] JOIN THE DISCORD!: getsolara.dev/discord",
+    "Timestamp": "2026-01-05T23:34:21.606Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-f8f53a67efca4c34",
+     "Software": "3.216"
+    },
+    "Changelog": "[+] pathing & script open/save fixes\n[+] JOIN THE DISCORD!: getsolara.dev/discord",
+    "Timestamp": "2026-01-06T03:01:58.084Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-89d89cb2d6b649be",
+     "Software": "3.217"
+    },
+    "Changelog": "[+] updated version-89d89cb2d6b649be\n[+] JOIN THE DISCORD!: getsolara.dev/discord",
+    "Timestamp": "2026-01-08T00:22:43.712Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-89d89cb2d6b649be",
+     "Software": "3.218"
+    },
+    "Changelog": "[+] new checks that should fix some version mismatch issues on the correct roblox version\n[+] tabs migration now should only run once\n[+] topmost setting now actually saves\n[+] ui debug log now clears on launch\n[+] pastebin endpoint decomissioned\n[+] JOIN THE DISCORD!: getsolara.dev/discord",
+    "Timestamp": "2026-01-11T08:15:43.901Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-1588a9c58c674e38",
+     "Software": "3.219"
+    },
+    "Changelog": "[+] updated version-1588a9c58c674e38\n[+] JOIN THE DISCORD!: getsolara.dev/discord",
+    "Timestamp": "2026-01-14T21:24:58.391Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-0f5223fb6e7e4955",
+     "Software": "3.220"
+    },
+    "Changelog": "[+] updated version-0f5223fb6e7e4955\n[+] JOIN THE DISCORD!: getsolara.dev/discord",
+    "Timestamp": "2026-01-22T01:10:22.108Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-0f5223fb6e7e4955",
+     "Software": "3.221"
+    },
+    "Changelog": "[+] crash on leave / tp fix\n[+] JOIN THE DISCORD!: getsolara.dev/discord",
+    "Timestamp": "2026-01-22T02:24:21.917Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-8b8c34790f814a73",
+     "Software": "3.222"
+    },
+    "Changelog": "[+] numerous bug and error fixes\n[+] updated version-8b8c34790f814a73\n[+] JOIN THE DISCORD!: getsolara.dev/discord",
+    "Timestamp": "2026-01-24T06:19:15.424Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-f8734e043e1e40a2",
+     "Software": "3.222"
+    },
+    "Changelog": "[+] numerous bug and error fixes\n[+] updated version-f8734e043e1e40a2\n[+] JOIN THE DISCORD!: getsolara.dev/discord",
+    "Timestamp": "2026-01-27T02:13:05.347Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-4464ba36ceea461e",
+     "Software": "3.223"
+    },
+    "Changelog": "[+] writefile/getcustomasset now pass sUNC\n[+] new request/http functions (proper behavior, no roblox url limitations, default user-agent = 'Solara/3.0', game.HttpGet/Post user-agent = 'Roblox/WinInet')\n[+] more stability improvements & crash fixes\n[+] updated version-4464ba36ceea461e\n[+] discord -> getsolara.dev/discord",
+    "Timestamp": "2026-01-29T19:35:58.902Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-4464ba36ceea461e",
+     "Software": "3.224"
+    },
+    "Changelog": "[+] requests redirect fix\n[+] discord -> getsolara.dev/discord",
+    "Timestamp": "2026-01-29T20:52:27.946Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-db4634f0e27d4d36",
+     "Software": "3.225"
+    },
+    "Changelog": "[+] removed logic resulting in an exception for some users\n[+] fixed getting images/binary data thru requests\n[+] updated version-db4634f0e27d4d36\n[+] discord -> getsolara.dev/discord",
+    "Timestamp": "2026-01-31T05:00:54.793Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-db4634f0e27d4d36",
+     "Software": "3.226"
+    },
+    "Changelog": "[+] bug fixes related to solara updates\n[+] updated version-db4634f0e27d4d36\n[+] discord -> getsolara.dev/discord",
+    "Timestamp": "2026-02-01T18:03:08.677Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-3e7a57d7e53b4881",
+     "Software": "3.227"
+    },
+    "Changelog": "[+] updated version-3e7a57d7e53b4881\n[+] discord -> getsolara.dev/discord",
+    "Timestamp": "2026-02-04T22:12:58.694Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-80c7b8e578f241ff",
+     "Software": "3.228"
+    },
+    "Changelog": "[+] updated version-80c7b8e578f241ff\n[+] discord -> getsolara.dev/discord",
+    "Timestamp": "2026-02-05T17:43:30.185Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-bd08027bb04e4045",
+     "Software": "3.229"
+    },
+    "Changelog": "[+] updated version-bd08027bb04e4045\n[+] discord -> getsolara.dev/discord",
+    "Timestamp": "2026-02-11T21:45:24.149Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-df7528517c6849f7",
+     "Software": "3.230"
+    },
+    "Changelog": "[+] updated version-df7528517c6849f7\n[+] discord -> getsolara.dev/discord",
+    "Timestamp": "2026-02-18T20:19:14.377Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-df7528517c6849f7",
+     "Software": "3.231"
+    },
+    "Changelog": "[+] more request related func fixes\n[+] multi-client is now not on by default and is moved to settings as a button\n[+] discord -> getsolara.dev/discord",
+    "Timestamp": "2026-02-23T07:15:24.358Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-760d064d05424689",
+     "Software": "3.232"
+    },
+    "Changelog": "[+] updated version-760d064d05424689\n[+] discord -> getsolara.dev/discord",
+    "Timestamp": "2026-02-26T20:59:40.361Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-760d064d05424689",
+     "Software": "3.233"
+    },
+    "Changelog": "[+] fixed atrocious cpu usage problem caused by outdated offsets (should fix some crashes)\n[+] fixed an improperly handled exception resulting in a crash\n[+] discord -> getsolara.dev/discord",
+    "Timestamp": "2026-02-28T05:07:17.636Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-d599f7fc52a8404c",
+     "Software": "3.234"
+    },
+    "Changelog": "[+] Updated version-d599f7fc52a8404c\n[+] discord -> getsolara.dev/discord",
+    "Timestamp": "2026-03-04T20:13:20.287Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-b130242ed064436f",
+     "Software": "3.235"
+    },
+    "Changelog": "[+] updated version-b130242ed064436f\n[+] fixed a tiny issue with the 'tp handler'\n[+] discord -> getsolara.dev/discord",
+    "Timestamp": "2026-03-12T20:01:02.344Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-b130242ed064436f",
+     "Software": "3.236"
+    },
+    "Changelog": "[+] fixed problems with gethiddenproperty\n[+] gethiddenproperty/setscriptable now supports binarystring/sharedstring\n and higher capability properties\n[+] added a couple myriad test aliases\n[+] added clearteleportqueue\n[+] discord -> getsolara.dev/discord",
+    "Timestamp": "2026-03-16T19:52:04.265Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-ae421f0582e54718",
+     "Software": "3.237"
+    },
+    "Changelog": "[+] updated version-ae421f0582e54718\n[+] discord -> getsolara.dev/discord",
+    "Timestamp": "2026-03-18T18:32:23.072Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-6776addb8fbc4d17",
+     "Software": "3.238"
+    },
+    "Changelog": "[+] updated version-6776addb8fbc4d17\n[+] discord -> getsolara.dev/discord",
+    "Timestamp": "2026-03-26T19:17:41.436Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-689e359b09ad43b0",
+     "Software": "3.239"
+    },
+    "Changelog": "[+] updated version-689e359b09ad43b0\n[+] discord -> getsolara.dev/discord",
+    "Timestamp": "2026-04-02T21:59:42.214Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-695a88dd8425491f",
+     "Software": "3.240"
+    },
+    "Changelog": "[+] updated version-695a88dd8425491f\n[+] vuln patches (creds pio & Dante)\n[+] stoat server -> getsolara.dev/revolt",
+    "Timestamp": "2026-04-08T20:37:44.959Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-26c90be22e0d4758",
+     "Software": "3.241"
+    },
+    "Changelog": "[+] updated version-26c90be22e0d4758\n[+] sethiddenproperty now works on higher cap properties\n[+] stoat server -> getsolara.dev/revolt",
+    "Timestamp": "2026-04-10T00:39:04.798Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-9d412f44a6fe4081",
+     "Software": "3.242"
+    },
+    "Changelog": "[+] updated version-9d412f44a6fe4081\n[+] stoat server -> getsolara.dev/revolt",
+    "Timestamp": "2026-04-15T21:07:32.965Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-2e6461290a3541f5",
+     "Software": "3.243"
+    },
+    "Changelog": "[+]",
+    "Timestamp": "2026-04-23T00:47:44.849Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-390ba09e7e944154",
+     "Software": "3.244"
+    },
+    "Changelog": "[+] version-390ba09e7e944154",
+    "Timestamp": "2026-04-27T00:43:16.476Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-acc4b74f79e743b9",
+     "Software": "3.245"
+    },
+    "Changelog": "[+] version-acc4b74f79e743b9",
+    "Timestamp": "2026-04-30T00:41:55.345Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-acc4b74f79e743b9",
+     "Software": "3.246"
+    },
+    "Changelog": "[+] hot-fix for something incredible!",
+    "Timestamp": "2026-05-06T03:29:17.629Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-bf6344c9c23446bf",
+     "Software": "3.247"
+    },
+    "Changelog": "[+] updated version-bf6344c9c23446bf",
+    "Timestamp": "2026-05-07T01:02:35.677Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-ec412128eba3476e",
+     "Software": "3.248"
+    },
+    "Changelog": "!! this version of solara is SEVERELY unstable, but i just wanted to get yall atleast SOMETHING !!\n\n[+] updated version-ec412128eba3476e\n[+] setthreadidentity & getthreadidentity\n[+] getreg\n[+] getnilinstances\n[+] setreadonly\n[+] checkcaller\n[+] getrawmetatable\n[+] getnamecallmethod\n\n!!if theres a lot of bugs im sorry!!",
+    "Timestamp": "2026-05-15T05:37:07.978Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-9377ee10133e4be3",
+     "Software": "3.249"
+    },
+    "Changelog": "[+] some crashes should be fixed\n[+] made changes to tphandler\n[+] updated version-9377ee10133e4be3",
+    "Timestamp": "2026-05-19T20:04:10.780Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-4b6315bf1f0a4dbb",
+     "Software": "3.250"
+    },
+    "Changelog": "[+] updated version-4b6315bf1f0a4dbb",
+    "Timestamp": "2026-05-21T20:05:54.357Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-2b1721d47abf49aa",
+     "Software": "3.249"
+    },
+    "Changelog": "[+] version-2b1721d47abf49aa [revert]",
+    "Timestamp": "2026-05-23T20:15:51.503Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-460909c4fe904aae",
+     "Software": "3.251"
+    },
+    "Changelog": "[+] version-460909c4fe904aae\nHello, it's me, Crewmate. I am the good guy on the spaceship. I complete all the tasks. My wish is to complete all the tasks before the impostor tries to destroy us",
+    "Timestamp": "2026-05-27T20:01:46.260Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-460909c4fe904aae",
+     "Software": "3.252"
+    },
+    "Changelog": "[+] chang\n[+] instant crash on attach fix\n[+] fix bug after accessing property after using setscriptable because of stupiod fflag because why wouldnt thjaqttehya\n\nstop, dont talk to me, loser, lame-o, wanna-be, like oh,",
+    "Timestamp": "2026-06-02T07:33:51.135Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-a182ba0d4c6f483b",
+     "Software": "3.253"
+    },
+    "Changelog": "[+] version-a182ba0d4c6f483b",
+    "Timestamp": "2026-06-02T22:39:54.205Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-ad5d3e2906444472",
+     "Software": "3.254"
+    },
+    "Changelog": "[+] version-ad5d3e2906444472\n\nDown for one night, like I got three strikes\nDown for one night, like I got three strikes\nDown for one night, like I got three strikes\nDown for one night, like I got three strikes",
+    "Timestamp": "2026-06-03T22:48:49.087Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-76173e47a79145c7",
+     "Software": "3.255"
+    },
+    "Changelog": "sorry for late upd, i was literally in the middle of playing Sell Lemons 🍋 when this dropped why are we updating on tuesdays now,, fuck you\n[+] version-76173e47a79145c7",
+    "Timestamp": "2026-06-10T02:32:57.817Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-76173e47a79145c7",
+     "Software": "3.256"
+    },
+    "Changelog": "[+] fixed an issue causing closure capabilities to continually corrupt",
+    "Timestamp": "2026-06-16T00:55:50.002Z"
+   }
+  ],
+  "Platforms": {
+   "Windows": {
+    "Timestamp": "2026-06-16T00:55:50.002Z"
+   }
+  }
+ }
+}

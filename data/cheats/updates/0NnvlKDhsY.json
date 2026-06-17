@@ -1,0 +1,138 @@
+{
+ "Name": "MacSploit",
+ "Identifier": "0NnvlKDhsY",
+ "Update": {
+  "Metadata": [
+   {
+    "Platform": "Macintosh",
+    "Versions": {
+     "Roblox": "version-138c1a7864754c2a",
+     "Software": "1.9.6x"
+    },
+    "Changelog": "100% sunc + undetected execution + native injection"
+   },
+   {
+    "Platform": "Macintosh",
+    "Versions": {
+     "Roblox": "version-cfe7460f53b444a5",
+     "Software": "1.9.7"
+    },
+    "Changelog": "100% sunc + undetected execution + native injection + actors",
+    "Timestamp": "2026-01-05T19:11:30.752Z"
+   },
+   {
+    "Platform": "Macintosh",
+    "Versions": {
+     "Roblox": "version-d695be9cd4a14e2c",
+     "Software": "1.9.8"
+    },
+    "Changelog": "new working actors lib + working setfflag",
+    "Timestamp": "2026-01-16T08:36:10.261Z"
+   },
+   {
+    "Platform": "Macintosh",
+    "Versions": {
+     "Roblox": "version-d695be9cd4a14e2c",
+     "Software": "1.9.8b"
+    },
+    "Changelog": "introduced experimental queue_on_join and queue_on_leave",
+    "Timestamp": "2026-01-21T03:20:19.744Z"
+   },
+   {
+    "Platform": "Macintosh",
+    "Versions": {
+     "Roblox": "version-c843808e9ead4657",
+     "Software": "1.9.8b"
+    },
+    "Changelog": "introduced experimental queue_on_join and queue_on_leave",
+    "Timestamp": "2026-01-24T07:50:43.042Z"
+   },
+   {
+    "Platform": "Macintosh",
+    "Versions": {
+     "Roblox": "version-82324853106949ff",
+     "Software": "1.9.8c"
+    },
+    "Changelog": "updated sUNC rating to 100% again",
+    "Timestamp": "2026-02-11T23:48:16.841Z"
+   },
+   {
+    "Platform": "Macintosh",
+    "Versions": {
+     "Roblox": "version-82324853106949ff",
+     "Software": "1.9.8d"
+    },
+    "Changelog": "updated sUNC rating to 100% again",
+    "Timestamp": "2026-02-17T12:53:52.244Z"
+   },
+   {
+    "Platform": "Macintosh",
+    "Versions": {
+     "Roblox": "version-f18963d432b94bd7",
+     "Software": "1.9.9"
+    },
+    "Changelog": "updated sUNC rating to 100% again",
+    "Timestamp": "2026-03-07T01:49:43.413Z"
+   },
+   {
+    "Platform": "Macintosh",
+    "Versions": {
+     "Roblox": "version-cf482a12325c4ed4",
+     "Software": "716.142"
+    },
+    "Changelog": "updated to latest roblox version -> major stability and websocket improvements",
+    "Timestamp": "2026-04-13T06:28:28.086Z"
+   },
+   {
+    "Platform": "Macintosh",
+    "Versions": {
+     "Roblox": "version-1d604bb8b63849b4",
+     "Software": "719.142"
+    },
+    "Changelog": "updated to the latest roblox version because .oliver1233 forced me to",
+    "Timestamp": "2026-05-03T07:24:24.662Z"
+   },
+   {
+    "Platform": "Macintosh",
+    "Versions": {
+     "Roblox": "version-b6bc8a3f6c184e6f",
+     "Software": "724.142"
+    },
+    "Changelog": "complete update + bug fixes for macsploit to latest roblox version",
+    "Timestamp": "2026-06-03T11:53:30.914Z"
+   },
+   {
+    "Platform": "Macintosh",
+    "Versions": {
+     "Roblox": "version-b6bc8a3f6c184e6f",
+     "Software": "724.143"
+    },
+    "Changelog": "Let's Beat Opiumware: - Project auto and many other scripts now work on MacSploit because of fixes\n- MacSploit is now **FREE** for 4 days file functions have been fixed, leading to a fixed **100% UNC** result\n- Switching to MacSploit from Opiumware is now effortless - no need for hwid resets ANYMORE!\n- MacSploit branding now incorporates the colors of the pride flag for recognition :D\n- New UI Auto Updater works without a VPN now!!",
+    "Timestamp": "2026-06-04T07:23:26.746Z"
+   },
+   {
+    "Platform": "Macintosh",
+    "Versions": {
+     "Roblox": "version-b6bc8a3f6c184e6f",
+     "Software": "724.144"
+    },
+    "Changelog": "Let's Beat Opiumware:\n- vulnerabilitiy patch now live for new microprofilingservice exploit that leaks name info\n- added support for windows keycodes for easy scripting with keypress etc :sunglasses: \n- added new decompiler for looking at scripts in dex\n- added saveinstance for saving maps and other features",
+    "Timestamp": "2026-06-04T16:07:28.284Z"
+   },
+   {
+    "Platform": "Macintosh",
+    "Versions": {
+     "Roblox": "version-b6bc8a3f6c184e6f",
+     "Software": "724.145"
+    },
+    "Changelog": "Let's Beat Opiumware:\n- Brand new HWID Spoofer that bypasses roblox's hwid checks, and addresses recent ban api changes that aim to use device ids.",
+    "Timestamp": "2026-06-05T05:26:43.632Z"
+   }
+  ],
+  "Platforms": {
+   "Macintosh": {
+    "Timestamp": "2026-06-05T05:26:43.632Z"
+   }
+  }
+ }
+}

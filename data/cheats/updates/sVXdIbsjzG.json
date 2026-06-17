@@ -1,0 +1,2369 @@
+{
+ "Name": "Volt",
+ "Identifier": "sVXdIbsjzG",
+ "Update": {
+  "Metadata": [
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-f6dd34ecac7b4642",
+     "Software": "1.0.0.69"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-11-11T11:30:32.046Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-f6dd34ecac7b4642",
+     "Software": "1.0.0.70"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-11-12T01:14:37.696Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-b7e223555d904550",
+     "Software": "1.0.0.70"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-11-12T21:09:31.365Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-b7e223555d904550",
+     "Software": "1.0.0.71"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-11-12T21:41:36.403Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-b7e223555d904550",
+     "Software": "Unknown"
+    },
+    "Changelog": ""
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-b7e223555d904550",
+     "Software": "1.0.0.71"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-11-12T22:11:22.070Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-b7e223555d904550",
+     "Software": "1.0.0.72"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-11-13T07:48:08.202Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-b7e223555d904550",
+     "Software": "1.0.0.71"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-11-14T00:03:46.219Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-b7e223555d904550",
+     "Software": "1.0.0.70"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-11-14T00:05:54.017Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-b7e223555d904550",
+     "Software": "1.0.0.73"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-11-14T07:34:09.756Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-8e6e698468a04d3f",
+     "Software": "1.0.0.73"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-11-14T21:13:10.887Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-8e6e698468a04d3f",
+     "Software": "1.0.0.74"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-11-15T04:26:37.807Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-8e6e698468a04d3f",
+     "Software": "1.0.0.73"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-11-15T04:27:49.961Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-8e6e698468a04d3f",
+     "Software": "1.0.0.74"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-11-15T04:56:31.169Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-8e6e698468a04d3f",
+     "Software": "1.0.0.75"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-11-16T23:30:30.960Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-fdda949d95e447e3",
+     "Software": "1.0.0.75"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-11-19T21:06:35.623Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-e380c8edc8f6477c",
+     "Software": "1.0.0.75"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-11-22T07:17:08.282Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-e380c8edc8f6477c",
+     "Software": "1.0.0.76"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-11-26T22:23:55.535Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-e380c8edc8f6477c",
+     "Software": "1.0.0.77"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-11-26T22:57:45.703Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "Untracked",
+     "Software": "1.0.0.77"
+    },
+    "Changelog": ""
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-e380c8edc8f6477c",
+     "Software": "1.0.0.78"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-11-27T07:33:58.152Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-e380c8edc8f6477c",
+     "Software": "1.0.0.79"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-11-29T09:20:34.176Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-e380c8edc8f6477c",
+     "Software": "1.0.0.80"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-11-30T00:02:09.695Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-e380c8edc8f6477c",
+     "Software": "1.0.0.81"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-11-30T08:16:23.674Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-1849ecbff0824113",
+     "Software": "1.0.0.82"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-12-03T21:04:54.459Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-1849ecbff0824113",
+     "Software": "1.0.0.83"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-12-03T23:32:53.858Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-1849ecbff0824113",
+     "Software": "1.0.0.84"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-12-04T07:36:00.856Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "Untracked",
+     "Software": "1.1.0.0"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-12-04T20:07:05.230Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "Untracked",
+     "Software": "1.1.0.1"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-12-05T18:37:51.490Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "Untracked",
+     "Software": "Unknown"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-12-10T01:20:34.312Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "Untracked",
+     "Software": "1.1.0.2"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-12-11T06:47:07.658Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "Untracked",
+     "Software": "1.1.0.3"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-12-13T05:34:57.541Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-eaebe135b3ec446b",
+     "Software": "1.1.0.4"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-12-14T00:33:04.515Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-5b077c09380f4fe6",
+     "Software": "1.1.0.5"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-12-18T20:16:34.134Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-5b077c09380f4fe6",
+     "Software": "1.1.0.6"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-12-19T00:03:32.994Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-5b077c09380f4fe6",
+     "Software": "1.1.0.7"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-12-23T20:44:20.641Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-5b077c09380f4fe6",
+     "Software": "1.1.0.8"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-12-23T22:02:07.505Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-5b077c09380f4fe6",
+     "Software": "1.1.0.6"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-12-23T22:45:42.384Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-5b077c09380f4fe6",
+     "Software": "1.1.1.0"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-12-29T20:57:42.767Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-5b077c09380f4fe6",
+     "Software": "1.1.1.1"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-12-29T21:59:32.785Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-5b077c09380f4fe6",
+     "Software": "1.1.1.2"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-12-29T23:34:53.991Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-5b077c09380f4fe6",
+     "Software": "1.1.0.6"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-12-29T23:46:15.027Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-5b077c09380f4fe6",
+     "Software": "1.1.1.2"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-12-31T08:30:34.208Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-f8f53a67efca4c34",
+     "Software": "1.1.2.0"
+    },
+    "Changelog": "",
+    "Timestamp": "2025-12-31T21:49:29.420Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-f8f53a67efca4c34",
+     "Software": "1.1.2.1"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-01-02T08:34:51.926Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-89d89cb2d6b649be",
+     "Software": "1.1.4.0"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-01-08T05:30:35.406Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-89d89cb2d6b649be",
+     "Software": "1.1.4.3"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-01-11T08:15:44.908Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-89d89cb2d6b649be",
+     "Software": "1.1.4.6"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-01-13T22:46:12.795Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-89d89cb2d6b649be",
+     "Software": "1.1.4.7"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-01-14T04:48:39.119Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-1588a9c58c674e38",
+     "Software": "1.1.5.0"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-01-15T00:30:30.037Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-1588a9c58c674e38",
+     "Software": "1.1.5.3"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-01-16T21:38:23.207Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-1588a9c58c674e38",
+     "Software": "1.1.5.5"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-01-21T04:44:34.306Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.1.20",
+     "dll": "1.1.5.5",
+     "emulator": "1.1.5.6"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-1588a9c58c674e38",
+     "Software": "1.1.5.5"
+    },
+    "Changelog": "emulator: 1.1.5.5 -> 1.1.5.6",
+    "Timestamp": "2026-01-21T15:58:40.680Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.1.20",
+     "dll": "1.1.5.6",
+     "emulator": "1.1.5.6"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-1588a9c58c674e38",
+     "Software": "1.1.5.6"
+    },
+    "Changelog": "dll: 1.1.5.5 -> 1.1.5.6",
+    "Timestamp": "2026-01-21T15:59:28.289Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.1.20",
+     "dll": "1.1.5.5",
+     "emulator": "1.1.5.6"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-1588a9c58c674e38",
+     "Software": "1.1.5.5"
+    },
+    "Changelog": "dll: 1.1.5.6 -> 1.1.5.5",
+    "Timestamp": "2026-01-21T16:02:19.960Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.1.20",
+     "dll": "1.1.5.5",
+     "emulator": "1.1.5.5"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-1588a9c58c674e38",
+     "Software": "1.1.5.5"
+    },
+    "Changelog": "emulator: 1.1.5.6 -> 1.1.5.5",
+    "Timestamp": "2026-01-21T16:02:25.576Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.1.20",
+     "dll": "1.1.5.5",
+     "emulator": "1.1.5.6"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-1588a9c58c674e38",
+     "Software": "1.1.5.5"
+    },
+    "Changelog": "emulator: 1.1.5.5 -> 1.1.5.6",
+    "Timestamp": "2026-01-21T16:06:16.607Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.1.20",
+     "dll": "1.1.5.6",
+     "emulator": "1.1.5.6"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-1588a9c58c674e38",
+     "Software": "1.1.5.6"
+    },
+    "Changelog": "dll: 1.1.5.5 -> 1.1.5.6",
+    "Timestamp": "2026-01-21T16:06:48.730Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.1.20",
+     "dll": "1.1.5.6",
+     "emulator": "1.1.6.1"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-0f5223fb6e7e4955",
+     "Software": "1.1.5.6"
+    },
+    "Changelog": "emulator: 1.1.5.6 -> 1.1.6.1",
+    "Timestamp": "2026-01-22T02:05:51.141Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.1.20",
+     "dll": "1.1.6.1",
+     "emulator": "1.1.6.1"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-0f5223fb6e7e4955",
+     "Software": "1.1.6.1"
+    },
+    "Changelog": "dll: 1.1.5.6 -> 1.1.6.1",
+    "Timestamp": "2026-01-22T02:06:15.016Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.1.20",
+     "dll": "1.1.6.1",
+     "emulator": "1.1.6.2"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-0f5223fb6e7e4955",
+     "Software": "1.1.6.1"
+    },
+    "Changelog": "emulator: 1.1.6.1 -> 1.1.6.2",
+    "Timestamp": "2026-01-22T05:09:00.134Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.1.20",
+     "dll": "1.1.6.2",
+     "emulator": "1.1.6.2"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-0f5223fb6e7e4955",
+     "Software": "1.1.6.2"
+    },
+    "Changelog": "dll: 1.1.6.1 -> 1.1.6.2",
+    "Timestamp": "2026-01-22T05:09:26.853Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.1.20",
+     "dll": "1.1.6.2",
+     "emulator": "1.1.7.1"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-8b8c34790f814a73",
+     "Software": "1.1.6.2"
+    },
+    "Changelog": "emulator: 1.1.6.2 -> 1.1.7.1",
+    "Timestamp": "2026-01-24T01:06:50.855Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.1.20",
+     "dll": "1.1.7.1",
+     "emulator": "1.1.7.1"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-8b8c34790f814a73",
+     "Software": "1.1.7.1"
+    },
+    "Changelog": "dll: 1.1.6.2 -> 1.1.7.1",
+    "Timestamp": "2026-01-24T01:07:08.687Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.1.20",
+     "dll": "1.1.7.1",
+     "emulator": "1.1.7.3"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-f8734e043e1e40a2",
+     "Software": "1.1.7.1"
+    },
+    "Changelog": "emulator: 1.1.7.1 -> 1.1.7.3",
+    "Timestamp": "2026-01-27T01:12:15.828Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.1.20",
+     "dll": "1.1.7.3",
+     "emulator": "1.1.7.3"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-f8734e043e1e40a2",
+     "Software": "1.1.7.3"
+    },
+    "Changelog": "dll: 1.1.7.1 -> 1.1.7.3",
+    "Timestamp": "2026-01-27T01:12:32.616Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.1.20",
+     "dll": "1.1.7.3",
+     "emulator": "1.1.8.0"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-4464ba36ceea461e",
+     "Software": "1.1.7.3"
+    },
+    "Changelog": "emulator: 1.1.7.3 -> 1.1.8.0",
+    "Timestamp": "2026-01-29T19:45:52.535Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.1.20",
+     "dll": "1.1.8.0",
+     "emulator": "1.1.8.0"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-4464ba36ceea461e",
+     "Software": "1.1.8.0"
+    },
+    "Changelog": "dll: 1.1.7.3 -> 1.1.8.0",
+    "Timestamp": "2026-01-29T19:46:14.754Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.1.20",
+     "dll": "1.1.8.0",
+     "emulator": "1.1.9.0"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-db4634f0e27d4d36",
+     "Software": "1.1.8.0"
+    },
+    "Changelog": "emulator: 1.1.8.0 -> 1.1.9.0",
+    "Timestamp": "2026-01-31T10:09:31.992Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.1.20",
+     "dll": "1.1.9.0",
+     "emulator": "1.1.9.0"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-db4634f0e27d4d36",
+     "Software": "1.1.9.0"
+    },
+    "Changelog": "dll: 1.1.8.0 -> 1.1.9.0",
+    "Timestamp": "2026-01-31T10:09:52.411Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.1.20",
+     "dll": "1.1.9.2",
+     "emulator": "1.1.9.2"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-db4634f0e27d4d36",
+     "Software": "1.1.9.2"
+    },
+    "Changelog": "dll: 1.1.9.0 -> 1.1.9.2\nemulator: 1.1.9.0 -> 1.1.9.2",
+    "Timestamp": "2026-02-02T05:28:48.981Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-3e7a57d7e53b4881",
+     "Software": "1.1.10.0"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-02-04T21:26:15.429Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-4464ba36ceea461e",
+     "Software": "1.1.11.0"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-02-05T05:48:28.506Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-80c7b8e578f241ff",
+     "Software": "1.1.12.0"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-02-05T18:19:34.926Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-80c7b8e578f241ff",
+     "Software": "1.1.12.1"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-02-05T21:33:01.764Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.1.20",
+     "dll": "1.1.12.1",
+     "emulator": "1.1.12.1"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-80c7b8e578f241ff",
+     "Software": "1.1.12.1"
+    },
+    "Changelog": "dll: 1.1.11.0 -> 1.1.12.1\nemulator: 1.1.11.0 -> 1.1.12.1",
+    "Timestamp": "2026-02-07T00:58:38.902Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.1.20",
+     "dll": "1.1.12.1",
+     "emulator": "1.1.12.2"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-80c7b8e578f241ff",
+     "Software": "1.1.12.1"
+    },
+    "Changelog": "emulator: 1.1.12.1 -> 1.1.12.2",
+    "Timestamp": "2026-02-08T21:08:57.795Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.1.20",
+     "dll": "1.1.12.2",
+     "emulator": "1.1.12.2"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-80c7b8e578f241ff",
+     "Software": "1.1.12.2"
+    },
+    "Changelog": "dll: 1.1.12.1 -> 1.1.12.2",
+    "Timestamp": "2026-02-08T21:09:14.029Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.1.20",
+     "dll": "1.1.12.2",
+     "emulator": "1.1.12.4"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-80c7b8e578f241ff",
+     "Software": "1.1.12.2"
+    },
+    "Changelog": "emulator: 1.1.12.2 -> 1.1.12.4",
+    "Timestamp": "2026-02-10T20:03:39.960Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.1.20",
+     "dll": "1.1.12.4",
+     "emulator": "1.1.12.4"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-80c7b8e578f241ff",
+     "Software": "1.1.12.4"
+    },
+    "Changelog": "dll: 1.1.12.2 -> 1.1.12.4",
+    "Timestamp": "2026-02-10T20:03:57.103Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.1.20",
+     "dll": "1.1.12.4",
+     "emulator": "1.1.13.0"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-bd08027bb04e4045",
+     "Software": "1.1.12.4"
+    },
+    "Changelog": "emulator: 1.1.12.4 -> 1.1.13.0",
+    "Timestamp": "2026-02-11T23:07:51.319Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.1.20",
+     "dll": "1.1.13.0",
+     "emulator": "1.1.13.0"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-bd08027bb04e4045",
+     "Software": "1.1.13.0"
+    },
+    "Changelog": "dll: 1.1.12.4 -> 1.1.13.0",
+    "Timestamp": "2026-02-11T23:08:11.411Z"
+   },
+   {
+    "Fields": {
+     "ui": "v0.2.1",
+     "dll": "1.1.13.0",
+     "emulator": "1.1.13.0"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-df7528517c6849f7",
+     "Software": "1.1.13.0"
+    },
+    "Changelog": "ui: 0.1.20 -> v0.2.1",
+    "Timestamp": "2026-02-19T02:17:36.183Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.1.20",
+     "dll": "1.1.13.0",
+     "emulator": "1.1.13.0"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-df7528517c6849f7",
+     "Software": "1.1.13.0"
+    },
+    "Changelog": "ui: v0.2.1 -> 0.1.20",
+    "Timestamp": "2026-02-19T02:17:45.726Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.1",
+     "dll": "1.1.13.0",
+     "emulator": "1.1.13.0"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-df7528517c6849f7",
+     "Software": "1.1.13.0"
+    },
+    "Changelog": "ui: 0.1.20 -> 0.2.1",
+    "Timestamp": "2026-02-19T02:18:08.631Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.1",
+     "dll": "1.1.13.0",
+     "emulator": "1.2.1.0"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-df7528517c6849f7",
+     "Software": "1.1.13.0"
+    },
+    "Changelog": "emulator: 1.1.13.0 -> 1.2.1.0",
+    "Timestamp": "2026-02-19T02:22:27.630Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.1",
+     "dll": "1.2.1.0",
+     "emulator": "1.2.1.0"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-df7528517c6849f7",
+     "Software": "1.2.1.0"
+    },
+    "Changelog": "dll: 1.1.13.0 -> 1.2.1.0",
+    "Timestamp": "2026-02-19T02:22:53.330Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.1",
+     "dll": "1.2.1.0",
+     "emulator": "1.2.1.1"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-df7528517c6849f7",
+     "Software": "1.2.1.0"
+    },
+    "Changelog": "emulator: 1.2.1.0 -> 1.2.1.1",
+    "Timestamp": "2026-02-19T22:45:38.107Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.1",
+     "dll": "1.2.1.1",
+     "emulator": "1.2.1.1"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-df7528517c6849f7",
+     "Software": "1.2.1.1"
+    },
+    "Changelog": "dll: 1.2.1.0 -> 1.2.1.1",
+    "Timestamp": "2026-02-19T22:46:17.013Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.1",
+     "dll": "1.2.1.1",
+     "emulator": "1.2.3.0"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-760d064d05424689",
+     "Software": "1.2.1.1"
+    },
+    "Changelog": "emulator: 1.2.1.1 -> 1.2.3.0",
+    "Timestamp": "2026-02-26T22:56:33.052Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.1",
+     "dll": "1.2.3.0",
+     "emulator": "1.2.3.0"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-760d064d05424689",
+     "Software": "1.2.3.0"
+    },
+    "Changelog": "dll: 1.2.1.1 -> 1.2.3.0",
+    "Timestamp": "2026-02-26T22:57:08.524Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.6",
+     "dll": "1.2.3.0",
+     "emulator": "1.2.3.0"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-760d064d05424689",
+     "Software": "1.2.3.0"
+    },
+    "Changelog": "ui: 0.2.1 -> 0.2.6",
+    "Timestamp": "2026-02-26T23:07:24.876Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.8",
+     "dll": "1.2.3.1",
+     "emulator": "1.2.3.1"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-760d064d05424689",
+     "Software": "1.2.3.1"
+    },
+    "Changelog": "dll: 1.2.3.0 -> 1.2.3.1\nui: 0.2.6 -> 0.2.8\nemulator: 1.2.3.0 -> 1.2.3.1",
+    "Timestamp": "2026-02-28T00:36:12.843Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.8",
+     "dll": "1.2.3.1",
+     "emulator": "1.2.3.2"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-760d064d05424689",
+     "Software": "1.2.3.1"
+    },
+    "Changelog": "emulator: 1.2.3.1 -> 1.2.3.2",
+    "Timestamp": "2026-02-28T07:07:39.236Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.8",
+     "dll": "1.2.3.2",
+     "emulator": "1.2.3.2"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-760d064d05424689",
+     "Software": "1.2.3.2"
+    },
+    "Changelog": "dll: 1.2.3.1 -> 1.2.3.2",
+    "Timestamp": "2026-02-28T07:07:55.161Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.8",
+     "dll": "1.2.3.2",
+     "emulator": "1.2.4.0"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-d599f7fc52a8404c",
+     "Software": "1.2.3.2"
+    },
+    "Changelog": "emulator: 1.2.3.2 -> 1.2.4.0",
+    "Timestamp": "2026-03-04T19:49:40.251Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.8",
+     "dll": "1.2.4.0",
+     "emulator": "1.2.4.0"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-d599f7fc52a8404c",
+     "Software": "1.2.4.0"
+    },
+    "Changelog": "dll: 1.2.3.2 -> 1.2.4.0",
+    "Timestamp": "2026-03-04T19:50:03.766Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.8",
+     "dll": "1.2.3.2",
+     "emulator": "1.2.3.2"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-d599f7fc52a8404c",
+     "Software": "1.2.3.2"
+    },
+    "Changelog": "dll: 1.2.4.0 -> 1.2.3.2\nemulator: 1.2.4.0 -> 1.2.3.2",
+    "Timestamp": "2026-03-04T20:13:20.441Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.8",
+     "dll": "1.2.3.2",
+     "emulator": "1.2.4.0"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-d599f7fc52a8404c",
+     "Software": "1.2.3.2"
+    },
+    "Changelog": "emulator: 1.2.3.2 -> 1.2.4.0",
+    "Timestamp": "2026-03-04T20:48:16.690Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.8",
+     "dll": "1.2.3.2",
+     "emulator": "1.2.4.1"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-d599f7fc52a8404c",
+     "Software": "1.2.3.2"
+    },
+    "Changelog": "emulator: 1.2.4.0 -> 1.2.4.1",
+    "Timestamp": "2026-03-04T20:49:06.398Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.8",
+     "dll": "1.2.4.1",
+     "emulator": "1.2.4.1"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-d599f7fc52a8404c",
+     "Software": "1.2.4.1"
+    },
+    "Changelog": "dll: 1.2.3.2 -> 1.2.4.1",
+    "Timestamp": "2026-03-04T20:49:40.501Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.8",
+     "dll": "1.1.11.0",
+     "emulator": "1.1.11.0"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-d599f7fc52a8404c",
+     "Software": "1.1.11.0"
+    },
+    "Changelog": "dll: 1.2.4.1 -> 1.1.11.0\nemulator: 1.2.4.1 -> 1.1.11.0",
+    "Timestamp": "2026-03-07T18:57:40.495Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.8",
+     "dll": "1.1.11.0",
+     "emulator": "1.2.5.2"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-d599f7fc52a8404c",
+     "Software": "1.1.11.0"
+    },
+    "Changelog": "emulator: 1.1.11.0 -> 1.2.5.2",
+    "Timestamp": "2026-03-09T07:24:47.374Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.8",
+     "dll": "1.2.5.2",
+     "emulator": "1.2.5.2"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-d599f7fc52a8404c",
+     "Software": "1.2.5.2"
+    },
+    "Changelog": "dll: 1.1.11.0 -> 1.2.5.2",
+    "Timestamp": "2026-03-09T07:25:05.030Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.11",
+     "dll": "1.2.5.2",
+     "emulator": "1.2.5.2"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-d599f7fc52a8404c",
+     "Software": "1.2.5.2"
+    },
+    "Changelog": "ui: 0.2.8 -> 0.2.11",
+    "Timestamp": "2026-03-09T07:27:33.131Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.12",
+     "dll": "1.2.5.2",
+     "emulator": "1.2.5.2"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-d599f7fc52a8404c",
+     "Software": "1.2.5.2"
+    },
+    "Changelog": "ui: 0.2.11 -> 0.2.12",
+    "Timestamp": "2026-03-09T21:56:47.482Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.12",
+     "dll": "1.1.11.0",
+     "emulator": "1.2.5.2"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-d599f7fc52a8404c",
+     "Software": "1.1.11.0"
+    },
+    "Changelog": "dll: 1.2.5.2 -> 1.1.11.0",
+    "Timestamp": "2026-03-10T02:48:05.074Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.12",
+     "dll": "1.1.11.0",
+     "emulator": "1.1.11.0"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-d599f7fc52a8404c",
+     "Software": "1.1.11.0"
+    },
+    "Changelog": "emulator: 1.2.5.2 -> 1.1.11.0",
+    "Timestamp": "2026-03-10T02:48:12.582Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.12",
+     "dll": "1.2.4.1",
+     "emulator": "1.2.5.2"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-d599f7fc52a8404c",
+     "Software": "1.2.4.1"
+    },
+    "Changelog": "dll: 1.1.11.0 -> 1.2.4.1\nemulator: 1.1.11.0 -> 1.2.5.2",
+    "Timestamp": "2026-03-10T03:03:06.570Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.12",
+     "dll": "1.2.5.2",
+     "emulator": "1.2.5.2"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-d599f7fc52a8404c",
+     "Software": "1.2.5.2"
+    },
+    "Changelog": "dll: 1.2.4.1 -> 1.2.5.2",
+    "Timestamp": "2026-03-10T03:03:15.760Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.12",
+     "dll": "1.2.5.2",
+     "emulator": "1.2.5.5"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-d599f7fc52a8404c",
+     "Software": "1.2.5.2"
+    },
+    "Changelog": "emulator: 1.2.5.2 -> 1.2.5.5",
+    "Timestamp": "2026-03-11T00:51:35.105Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.12",
+     "dll": "1.2.5.5",
+     "emulator": "1.2.5.5"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-d599f7fc52a8404c",
+     "Software": "1.2.5.5"
+    },
+    "Changelog": "dll: 1.2.5.2 -> 1.2.5.5",
+    "Timestamp": "2026-03-11T00:51:55.939Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.12",
+     "dll": "1.2.5.5",
+     "emulator": "1.2.5.6"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-d599f7fc52a8404c",
+     "Software": "1.2.5.5"
+    },
+    "Changelog": "emulator: 1.2.5.5 -> 1.2.5.6",
+    "Timestamp": "2026-03-12T05:21:39.824Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.12",
+     "dll": "1.2.5.6",
+     "emulator": "1.2.5.6"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-d599f7fc52a8404c",
+     "Software": "1.2.5.6"
+    },
+    "Changelog": "dll: 1.2.5.5 -> 1.2.5.6",
+    "Timestamp": "2026-03-12T05:22:02.723Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.12",
+     "dll": "1.2.5.6",
+     "emulator": "1.2.6.0"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-b130242ed064436f",
+     "Software": "1.2.5.6"
+    },
+    "Changelog": "emulator: 1.2.5.6 -> 1.2.6.0",
+    "Timestamp": "2026-03-13T07:09:55.248Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.12",
+     "dll": "1.2.6.0",
+     "emulator": "1.2.6.0"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-b130242ed064436f",
+     "Software": "1.2.6.0"
+    },
+    "Changelog": "dll: 1.2.5.6 -> 1.2.6.0",
+    "Timestamp": "2026-03-13T07:10:29.214Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.12",
+     "dll": "1.2.6.0",
+     "emulator": "1.2.7.0"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-ae421f0582e54718",
+     "Software": "1.2.6.0"
+    },
+    "Changelog": "emulator: 1.2.6.0 -> 1.2.7.0",
+    "Timestamp": "2026-03-19T01:01:21.054Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.12",
+     "dll": "1.2.7.0",
+     "emulator": "1.2.7.0"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-ae421f0582e54718",
+     "Software": "1.2.7.0"
+    },
+    "Changelog": "dll: 1.2.6.0 -> 1.2.7.0",
+    "Timestamp": "2026-03-19T01:01:39.972Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.12",
+     "dll": "1.2.7.0",
+     "emulator": "1.2.8.0"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-ae421f0582e54718",
+     "Software": "1.2.7.0"
+    },
+    "Changelog": "emulator: 1.2.7.0 -> 1.2.8.0",
+    "Timestamp": "2026-03-19T22:58:30.043Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.12",
+     "dll": "1.2.8.0",
+     "emulator": "1.2.8.0"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-ae421f0582e54718",
+     "Software": "1.2.8.0"
+    },
+    "Changelog": "dll: 1.2.7.0 -> 1.2.8.0",
+    "Timestamp": "2026-03-19T22:58:55.263Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.12",
+     "dll": "1.2.9.5",
+     "emulator": "1.2.9.5"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-6776addb8fbc4d17",
+     "Software": "1.2.9.5"
+    },
+    "Changelog": "dll: 1.2.8.0 -> 1.2.9.5\nemulator: 1.2.8.0 -> 1.2.9.5",
+    "Timestamp": "2026-03-29T05:06:11.412Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.16",
+     "dll": "1.2.9.6",
+     "emulator": "1.2.9.6"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-6776addb8fbc4d17",
+     "Software": "1.2.9.6"
+    },
+    "Changelog": "dll: 1.2.9.5 -> 1.2.9.6\nui: 0.2.12 -> 0.2.16\nemulator: 1.2.9.5 -> 1.2.9.6",
+    "Timestamp": "2026-03-30T04:11:00.457Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.16",
+     "dll": "1.2.9.5",
+     "emulator": "1.2.9.5"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-6776addb8fbc4d17",
+     "Software": "1.2.9.5"
+    },
+    "Changelog": "dll: 1.2.9.6 -> 1.2.9.5\nemulator: 1.2.9.6 -> 1.2.9.5",
+    "Timestamp": "2026-03-30T04:12:18.218Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.16",
+     "dll": "1.2.9.6",
+     "emulator": "1.2.9.6"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-6776addb8fbc4d17",
+     "Software": "1.2.9.6"
+    },
+    "Changelog": "dll: 1.2.9.5 -> 1.2.9.6\nemulator: 1.2.9.5 -> 1.2.9.6",
+    "Timestamp": "2026-03-30T04:21:22.992Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.17",
+     "dll": "1.2.9.7",
+     "emulator": "1.2.9.7"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-6776addb8fbc4d17",
+     "Software": "1.2.9.7"
+    },
+    "Changelog": "dll: 1.2.9.6 -> 1.2.9.7\nemulator: 1.2.9.6 -> 1.2.9.7",
+    "Timestamp": "2026-03-30T23:27:59.952Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.19",
+     "dll": "1.2.9.8",
+     "emulator": "1.2.9.8"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-6776addb8fbc4d17",
+     "Software": "1.2.9.8"
+    },
+    "Changelog": "dll: 1.2.9.7 -> 1.2.9.8\nui: 0.2.17 -> 0.2.19\nemulator: 1.2.9.7 -> 1.2.9.8",
+    "Timestamp": "2026-03-31T03:47:07.301Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.19",
+     "dll": "1.2.9.9",
+     "emulator": "1.2.9.9"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-6776addb8fbc4d17",
+     "Software": "1.2.9.9"
+    },
+    "Changelog": "dll: 1.2.9.8 -> 1.2.9.9\nemulator: 1.2.9.8 -> 1.2.9.9",
+    "Timestamp": "2026-04-01T03:53:25.975Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.21",
+     "dll": "1.2.9.10",
+     "emulator": "1.2.9.10"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-6776addb8fbc4d17",
+     "Software": "1.2.9.10"
+    },
+    "Changelog": "dll: 1.2.9.9 -> 1.2.9.10\nui: 0.2.19 -> 0.2.21\nemulator: 1.2.9.9 -> 1.2.9.10",
+    "Timestamp": "2026-04-02T07:14:43.131Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.21",
+     "dll": "1.2.10.0",
+     "emulator": "1.2.10.0"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-689e359b09ad43b0",
+     "Software": "1.2.10.0"
+    },
+    "Changelog": "dll: 1.2.9.10 -> 1.2.10.0\nemulator: 1.2.9.10 -> 1.2.10.0",
+    "Timestamp": "2026-04-03T05:34:22.552Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.24",
+     "dll": "1.2.10.3",
+     "emulator": "1.2.10.3"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-689e359b09ad43b0",
+     "Software": "1.2.10.3"
+    },
+    "Changelog": "dll: 1.2.10.0 -> 1.2.10.3\nui: 0.2.21 -> 0.2.24\nemulator: 1.2.10.0 -> 1.2.10.3",
+    "Timestamp": "2026-04-03T19:41:15.811Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.25",
+     "dll": "1.2.10.4",
+     "emulator": "1.2.10.4"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-689e359b09ad43b0",
+     "Software": "1.2.10.4"
+    },
+    "Changelog": "dll: 1.2.10.3 -> 1.2.10.4\nui: 0.2.24 -> 0.2.25\nemulator: 1.2.10.3 -> 1.2.10.4",
+    "Timestamp": "2026-04-06T21:45:00.165Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-689e359b09ad43b0",
+     "Software": "Unknown"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-04-06T23:16:26.357Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-689e359b09ad43b0",
+     "Software": "1.2.10.5"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-04-07T01:44:44.560Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.25",
+     "dll": "1.2.10.6",
+     "emulator": "1.2.10.6"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-689e359b09ad43b0",
+     "Software": "1.2.10.6"
+    },
+    "Changelog": "dll: 1.2.10.5 -> 1.2.10.6\nemulator: 1.2.10.5 -> 1.2.10.6",
+    "Timestamp": "2026-04-07T03:29:30.566Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.25",
+     "dll": "1.2.10.5",
+     "emulator": "1.2.10.5"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-689e359b09ad43b0",
+     "Software": "1.2.10.5"
+    },
+    "Changelog": "dll: 1.2.10.6 -> 1.2.10.5\nemulator: 1.2.10.6 -> 1.2.10.5",
+    "Timestamp": "2026-04-07T03:30:49.006Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.25",
+     "dll": "1.2.10.7",
+     "emulator": "1.2.10.7"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-689e359b09ad43b0",
+     "Software": "1.2.10.7"
+    },
+    "Changelog": "dll: 1.2.10.5 -> 1.2.10.7\nemulator: 1.2.10.5 -> 1.2.10.7",
+    "Timestamp": "2026-04-07T03:39:35.075Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.25",
+     "dll": "1.2.11.0",
+     "emulator": "1.2.11.0"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-26c90be22e0d4758",
+     "Software": "1.2.11.0"
+    },
+    "Changelog": "dll: 1.2.10.7 -> 1.2.11.0\nemulator: 1.2.10.7 -> 1.2.11.0",
+    "Timestamp": "2026-04-10T07:00:02.770Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.27",
+     "dll": "1.2.11.0",
+     "emulator": "1.2.11.0"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-26c90be22e0d4758",
+     "Software": "1.2.11.0"
+    },
+    "Changelog": "ui: 0.2.25 -> 0.2.27",
+    "Timestamp": "2026-04-11T03:16:06.620Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.27",
+     "dll": "1.2.11.1",
+     "emulator": "1.2.11.1"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-26c90be22e0d4758",
+     "Software": "1.2.11.1"
+    },
+    "Changelog": "dll: 1.2.11.0 -> 1.2.11.1\nemulator: 1.2.11.0 -> 1.2.11.1",
+    "Timestamp": "2026-04-12T01:51:03.067Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.27",
+     "dll": "1.2.12.2",
+     "emulator": "1.2.12.2"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-9d412f44a6fe4081",
+     "Software": "1.2.12.2"
+    },
+    "Changelog": "dll: 1.2.11.1 -> 1.2.12.2\nemulator: 1.2.11.1 -> 1.2.12.2",
+    "Timestamp": "2026-04-16T05:36:39.514Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.27",
+     "dll": "1.2.12.3",
+     "emulator": "1.2.12.3"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-9d412f44a6fe4081",
+     "Software": "1.2.12.3"
+    },
+    "Changelog": "dll: 1.2.12.2 -> 1.2.12.3\nemulator: 1.2.12.2 -> 1.2.12.3",
+    "Timestamp": "2026-04-16T17:25:31.378Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.27",
+     "dll": "1.2.12.4",
+     "emulator": "1.2.12.4"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-9d412f44a6fe4081",
+     "Software": "1.2.12.4"
+    },
+    "Changelog": "dll: 1.2.12.3 -> 1.2.12.4\nemulator: 1.2.12.3 -> 1.2.12.4",
+    "Timestamp": "2026-04-17T22:40:44.445Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.27",
+     "dll": "1.2.12.5",
+     "emulator": "1.2.12.5"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-9d412f44a6fe4081",
+     "Software": "1.2.12.5"
+    },
+    "Changelog": "dll: 1.2.12.4 -> 1.2.12.5\nemulator: 1.2.12.4 -> 1.2.12.5",
+    "Timestamp": "2026-04-18T22:17:23.676Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.28",
+     "dll": "1.2.12.5",
+     "emulator": "1.2.12.5"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-9d412f44a6fe4081",
+     "Software": "1.2.12.5"
+    },
+    "Changelog": "ui: 0.2.27 -> 0.2.28",
+    "Timestamp": "2026-04-20T05:15:03.656Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.29",
+     "dll": "1.2.12.6",
+     "emulator": "1.2.12.6"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-9d412f44a6fe4081",
+     "Software": "1.2.12.6"
+    },
+    "Changelog": "dll: 1.2.12.5 -> 1.2.12.6\nui: 0.2.28 -> 0.2.29\nemulator: 1.2.12.5 -> 1.2.12.6",
+    "Timestamp": "2026-04-21T01:29:00.162Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-2e6461290a3541f5",
+     "Software": "1.2.12.6"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-04-22T20:21:37.790Z"
+   },
+   {
+    "Fields": {
+     "ui": null,
+     "dll": null,
+     "emulator": null
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-2e6461290a3541f5",
+     "Software": "Unknown"
+    },
+    "Changelog": "dll: 1.2.12.6 -> null\nui: 0.2.29 -> null\nemulator: 1.2.12.6 -> null",
+    "Timestamp": "2026-04-23T10:21:08.172Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.29",
+     "dll": "1.2.12.6",
+     "emulator": "1.2.12.6"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-2e6461290a3541f5",
+     "Software": "1.2.12.6"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-04-23T10:21:28.268Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.30",
+     "dll": "1.2.13.2",
+     "emulator": "1.2.13.2"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-2e6461290a3541f5",
+     "Software": "1.2.13.2"
+    },
+    "Changelog": "dll: 1.2.12.6 -> 1.2.13.2\nui: 0.2.29 -> 0.2.30\nemulator: 1.2.12.6 -> 1.2.13.2",
+    "Timestamp": "2026-04-23T16:44:25.585Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.30",
+     "dll": "1.2.14.0",
+     "emulator": "1.2.14.0"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-390ba09e7e944154",
+     "Software": "1.2.14.0"
+    },
+    "Changelog": "dll: 1.2.13.2 -> 1.2.14.0\nemulator: 1.2.13.2 -> 1.2.14.0",
+    "Timestamp": "2026-04-27T00:42:56.489Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.30",
+     "dll": "1.2.13.2",
+     "emulator": "1.2.14.0"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-390ba09e7e944154",
+     "Software": "1.2.13.2"
+    },
+    "Changelog": "dll: 1.2.14.0 -> 1.2.13.2",
+    "Timestamp": "2026-04-27T00:43:40.380Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.30",
+     "dll": "1.2.14.1",
+     "emulator": "1.2.14.1"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-390ba09e7e944154",
+     "Software": "1.2.14.1"
+    },
+    "Changelog": "dll: 1.2.13.2 -> 1.2.14.1\nemulator: 1.2.14.0 -> 1.2.14.1",
+    "Timestamp": "2026-04-27T00:49:32.315Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.30",
+     "dll": "1.2.14.12",
+     "emulator": "1.2.14.12"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-390ba09e7e944154",
+     "Software": "1.2.14.12"
+    },
+    "Changelog": "dll: 1.2.14.1 -> 1.2.14.12\nemulator: 1.2.14.1 -> 1.2.14.12",
+    "Timestamp": "2026-04-27T13:40:51.498Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.30",
+     "dll": "1.2.15.1",
+     "emulator": "1.2.15.1"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-acc4b74f79e743b9",
+     "Software": "1.2.15.1"
+    },
+    "Changelog": "dll: 1.2.14.12 -> 1.2.15.1\nemulator: 1.2.14.12 -> 1.2.15.1",
+    "Timestamp": "2026-04-29T22:29:24.953Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.31",
+     "dll": "1.2.15.3",
+     "emulator": "1.2.15.3"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-acc4b74f79e743b9",
+     "Software": "1.2.15.3"
+    },
+    "Changelog": "dll: 1.2.15.1 -> 1.2.15.3\nui: 0.2.30 -> 0.2.31\nemulator: 1.2.15.1 -> 1.2.15.3",
+    "Timestamp": "2026-05-02T04:29:23.335Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-acc4b74f79e743b9",
+     "Software": "Unknown"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-05-02T14:45:36.545Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.31",
+     "dll": "1.2.15.3",
+     "emulator": "1.2.16.0"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-bf6344c9c23446bf",
+     "Software": "1.2.15.3"
+    },
+    "Changelog": "emulator: 1.2.15.3 -> 1.2.16.0",
+    "Timestamp": "2026-05-08T00:46:17.425Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.31",
+     "dll": "1.2.16.0",
+     "emulator": "1.2.16.0"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-bf6344c9c23446bf",
+     "Software": "1.2.16.0"
+    },
+    "Changelog": "dll: 1.2.15.3 -> 1.2.16.0",
+    "Timestamp": "2026-05-08T00:46:30.021Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.31",
+     "dll": "1.2.16.1",
+     "emulator": "1.2.16.0"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-bf6344c9c23446bf",
+     "Software": "1.2.16.1"
+    },
+    "Changelog": "dll: 1.2.16.0 -> 1.2.16.1",
+    "Timestamp": "2026-05-08T01:50:27.645Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.31",
+     "dll": "1.2.16.2",
+     "emulator": "1.2.16.1"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-bf6344c9c23446bf",
+     "Software": "1.2.16.2"
+    },
+    "Changelog": "dll: 1.2.16.1 -> 1.2.16.2\nemulator: 1.2.16.0 -> 1.2.16.1",
+    "Timestamp": "2026-05-08T02:22:19.074Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.31",
+     "dll": "1.2.16.3",
+     "emulator": "1.2.16.2"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-bf6344c9c23446bf",
+     "Software": "1.2.16.3"
+    },
+    "Changelog": "dll: 1.2.16.2 -> 1.2.16.3\nemulator: 1.2.16.1 -> 1.2.16.2",
+    "Timestamp": "2026-05-08T03:00:20.804Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.31",
+     "dll": "1.2.16.8",
+     "emulator": "1.2.16.8"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-bf6344c9c23446bf",
+     "Software": "1.2.16.8"
+    },
+    "Changelog": "dll: 1.2.16.3 -> 1.2.16.8\nemulator: 1.2.16.2 -> 1.2.16.8",
+    "Timestamp": "2026-05-08T05:40:50.213Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.31",
+     "dll": "1.2.16.9",
+     "emulator": "1.2.16.9"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-bf6344c9c23446bf",
+     "Software": "1.2.16.9"
+    },
+    "Changelog": "dll: 1.2.16.8 -> 1.2.16.9\nemulator: 1.2.16.8 -> 1.2.16.9",
+    "Timestamp": "2026-05-09T02:18:11.580Z"
+   },
+   {
+    "Fields": {
+     "ui": null,
+     "dll": null,
+     "emulator": null
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-bf6344c9c23446bf",
+     "Software": "Unknown"
+    },
+    "Changelog": "dll: 1.2.16.9 -> null\nui: 0.2.31 -> null\nemulator: 1.2.16.9 -> null",
+    "Timestamp": "2026-05-09T12:15:04.415Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.31",
+     "dll": "1.2.16.12",
+     "emulator": "1.2.16.9"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-bf6344c9c23446bf",
+     "Software": "1.2.16.12"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-05-09T17:58:54.822Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.31",
+     "dll": "1.2.16.13",
+     "emulator": "1.2.16.12"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-bf6344c9c23446bf",
+     "Software": "1.2.16.13"
+    },
+    "Changelog": "dll: 1.2.16.12 -> 1.2.16.13\nemulator: 1.2.16.9 -> 1.2.16.12",
+    "Timestamp": "2026-05-10T09:16:05.593Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.31",
+     "dll": "1.2.16.13",
+     "emulator": "1.2.16.13"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-bf6344c9c23446bf",
+     "Software": "1.2.16.13"
+    },
+    "Changelog": "emulator: 1.2.16.12 -> 1.2.16.13",
+    "Timestamp": "2026-05-10T14:25:27.243Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.31",
+     "dll": "1.2.16.13",
+     "emulator": "1.2.17.4"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-ec412128eba3476e",
+     "Software": "1.2.16.13"
+    },
+    "Changelog": "emulator: 1.2.16.13 -> 1.2.17.4",
+    "Timestamp": "2026-05-14T23:20:51.478Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.31",
+     "dll": "1.2.17.4",
+     "emulator": "1.2.17.4"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-ec412128eba3476e",
+     "Software": "1.2.17.4"
+    },
+    "Changelog": "dll: 1.2.16.13 -> 1.2.17.4",
+    "Timestamp": "2026-05-14T23:21:34.433Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-ec412128eba3476e",
+     "Software": "Unknown"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-05-15T09:23:54.907Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.31",
+     "dll": "1.2.17.5",
+     "emulator": "1.2.17.5"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-ec412128eba3476e",
+     "Software": "1.2.17.5"
+    },
+    "Changelog": "dll: 1.2.17.4 -> 1.2.17.5\nemulator: 1.2.17.4 -> 1.2.17.5",
+    "Timestamp": "2026-05-15T13:11:59.024Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.31",
+     "dll": "1.2.17.6",
+     "emulator": "1.2.17.5"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-ec412128eba3476e",
+     "Software": "1.2.17.6"
+    },
+    "Changelog": "dll: 1.2.17.5 -> 1.2.17.6",
+    "Timestamp": "2026-05-16T21:40:25.118Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.31",
+     "dll": "1.2.17.6",
+     "emulator": "1.2.17.6"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-ec412128eba3476e",
+     "Software": "1.2.17.6"
+    },
+    "Changelog": "emulator: 1.2.17.5 -> 1.2.17.6",
+    "Timestamp": "2026-05-17T13:14:02.846Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.31",
+     "dll": "1.2.17.6",
+     "emulator": "1.2.18.0"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-9377ee10133e4be3",
+     "Software": "1.2.17.6"
+    },
+    "Changelog": "emulator: 1.2.17.6 -> 1.2.18.0",
+    "Timestamp": "2026-05-19T20:26:18.161Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.31",
+     "dll": "1.2.18.0",
+     "emulator": "1.2.18.0"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-9377ee10133e4be3",
+     "Software": "1.2.18.0"
+    },
+    "Changelog": "dll: 1.2.17.6 -> 1.2.18.0",
+    "Timestamp": "2026-05-19T20:26:44.913Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-9377ee10133e4be3",
+     "Software": "Unknown"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-05-19T22:46:32.281Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.32",
+     "dll": "1.2.18.0",
+     "emulator": "1.2.19.0"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-4b6315bf1f0a4dbb",
+     "Software": "1.2.18.0"
+    },
+    "Changelog": "ui: 0.2.31 -> 0.2.32\nemulator: 1.2.18.0 -> 1.2.19.0",
+    "Timestamp": "2026-05-22T01:07:34.021Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.32",
+     "dll": "1.2.19.0",
+     "emulator": "1.2.19.0"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-4b6315bf1f0a4dbb",
+     "Software": "1.2.19.0"
+    },
+    "Changelog": "dll: 1.2.18.0 -> 1.2.19.0",
+    "Timestamp": "2026-05-22T01:07:59.289Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-4b6315bf1f0a4dbb",
+     "Software": "Unknown"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-05-23T05:07:30.434Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.32",
+     "dll": "1.2.20.0",
+     "emulator": "1.2.19.0"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-4b6315bf1f0a4dbb",
+     "Software": "1.2.20.0"
+    },
+    "Changelog": "dll: 1.2.19.0 -> 1.2.20.0",
+    "Timestamp": "2026-05-23T22:35:45.413Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.32",
+     "dll": "1.2.20.0",
+     "emulator": "1.2.20.0"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-2b1721d47abf49aa",
+     "Software": "1.2.20.0"
+    },
+    "Changelog": "emulator: 1.2.19.0 -> 1.2.20.0",
+    "Timestamp": "2026-05-23T22:35:52.093Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.32",
+     "dll": "1.2.20.0",
+     "emulator": "1.2.21.0"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-460909c4fe904aae",
+     "Software": "1.2.20.0"
+    },
+    "Changelog": "Emulator: 1.2.20.0 -> 1.2.21.0",
+    "Timestamp": "2026-05-27T22:00:28.190Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.32",
+     "dll": "1.2.21.0",
+     "emulator": "1.2.21.0"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-460909c4fe904aae",
+     "Software": "1.2.21.0"
+    },
+    "Changelog": "Executor: 1.2.20.0 -> 1.2.21.0",
+    "Timestamp": "2026-05-27T22:00:37.368Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-460909c4fe904aae",
+     "Software": "Unknown"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-05-29T12:08:23.960Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.32",
+     "dll": "1.2.21.1",
+     "emulator": "1.2.21.1"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-460909c4fe904aae",
+     "Software": "1.2.21.1"
+    },
+    "Changelog": "Executor: 1.2.21.0 -> 1.2.21.1\nEmulator: 1.2.21.0 -> 1.2.21.1",
+    "Timestamp": "2026-05-30T06:32:05.241Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.32",
+     "dll": "1.2.21.2",
+     "emulator": "1.2.21.2"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-460909c4fe904aae",
+     "Software": "1.2.21.2"
+    },
+    "Changelog": "Executor: 1.2.21.1 -> 1.2.21.2\nEmulator: 1.2.21.1 -> 1.2.21.2",
+    "Timestamp": "2026-05-31T04:59:26.175Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.32",
+     "dll": "1.2.21.2",
+     "emulator": "1.2.22.0"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-ad5d3e2906444472",
+     "Software": "1.2.21.2"
+    },
+    "Changelog": "Emulator: 1.2.21.2 -> 1.2.22.0",
+    "Timestamp": "2026-06-04T04:12:15.786Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.32",
+     "dll": "1.2.22.0",
+     "emulator": "1.2.22.0"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-ad5d3e2906444472",
+     "Software": "1.2.22.0"
+    },
+    "Changelog": "Executor: 1.2.21.2 -> 1.2.22.0",
+    "Timestamp": "2026-06-04T04:12:27.104Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-ad5d3e2906444472",
+     "Software": "Unknown"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-06-04T06:43:03.599Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.32",
+     "dll": "1.2.23.0",
+     "emulator": "1.2.23.0"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-ad5d3e2906444472",
+     "Software": "1.2.23.0"
+    },
+    "Changelog": "Executor: 1.2.22.0 -> 1.2.23.0\nEmulator: 1.2.22.0 -> 1.2.23.0",
+    "Timestamp": "2026-06-10T15:52:17.839Z"
+   },
+   {
+    "Fields": {
+     "ui": "0.2.32",
+     "dll": "1.2.23.0",
+     "emulator": "1.2.23.0"
+    },
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-76173e47a79145c7",
+     "Software": "1.2.23.0"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-06-10T15:52:25.282Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-76173e47a79145c7",
+     "Software": "Unknown"
+    },
+    "Changelog": "",
+    "Timestamp": "2026-06-10T23:04:24.970Z"
+   }
+  ],
+  "Platforms": {
+   "Windows": {
+    "Timestamp": "2026-06-10T23:04:24.970Z"
+   }
+  }
+ }
+}

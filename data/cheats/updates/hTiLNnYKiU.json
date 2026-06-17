@@ -1,0 +1,408 @@
+{
+ "Name": "Bunni",
+ "Identifier": "hTiLNnYKiU",
+ "Update": {
+  "Metadata": [
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-d34359a5577645e2",
+     "Software": "2.3.6"
+    },
+    "Changelog": "[*] sUNC 98%\n[*] Rewrote way to much (not rewr)\n[*] UPDATED FOR version-d34359a5577645e2\n\n[+] This build could possibly be detected.\n[+] Installer will not work for a few hours, fixed soon."
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-7a4a5d7d1fb3449f",
+     "Software": "2.3.7"
+    },
+    "Changelog": "[*] sUNC 98%\n[*] Fixed getconnections returning false for LuaConnection\n[*] UPDATED FOR version-7a4a5d7d1fb3449f\n\n[+] This build could possibly be detected.\n",
+    "Timestamp": "2025-10-16T18:14:14.770Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-7a4a5d7d1fb3449f",
+     "Software": "2.3.7 HOTFIX"
+    },
+    "Changelog": "[*] sUNC 98%\n[*] Fixed \"Roblox has timed out. Try restarting\"\n[*] Fixed setscriptable failing UNC\n\n[+] This build could possibly be detected.\n",
+    "Timestamp": "2025-10-16T20:58:57.280Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-4aeb17bd13994560",
+     "Software": "2.3.8"
+    },
+    "Changelog": "[*] sUNC 96%\n[*] MUCH faster injection\n\n[+] This build is probably detected, please alt.",
+    "Timestamp": "2025-10-23T05:29:17.122Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-4aeb17bd13994560",
+     "Software": "2.3.8 HOTFIX 1"
+    },
+    "Changelog": "[*] sUNC 96%\n[*] Fixed \"Roblox encountered an unexpected error.\"\n\n[+] This build bypasses client modification but we still recommend using an alt.",
+    "Timestamp": "2025-10-23T11:31:19.624Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-4aeb17bd13994560",
+     "Software": "2.3.8"
+    },
+    "Changelog": "[*] sUNC 96%\n[*] MUCH faster injection\n\n[+] This build is probably detected, please alt.",
+    "Timestamp": "2025-10-23T11:31:23.575Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-4aeb17bd13994560",
+     "Software": "2.3.8 HOTFIX 1"
+    },
+    "Changelog": "[*] sUNC 96%\n[*] Fixed \"Roblox encountered an unexpected error.\"\n\n[+] This build bypasses client modification but we still recommend using an alt.",
+    "Timestamp": "2025-10-23T11:31:58.652Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-4aeb17bd13994560",
+     "Software": "2.3.8 HOTFIX 2"
+    },
+    "Changelog": "[*] sUNC 97%\n[*] Fixed getscriptclosure.\"\n\n[+] This build bypasses client modification but we still recommend using an alt.",
+    "Timestamp": "2025-10-23T16:31:00.394Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-4aeb17bd13994560",
+     "Software": "2.3.8 HOTFIX 1"
+    },
+    "Changelog": "[*] sUNC 96%\n[*] Fixed \"Roblox encountered an unexpected error.\"\n\n[+] This build bypasses client modification but we still recommend using an alt.",
+    "Timestamp": "2025-10-23T16:31:05.818Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-4aeb17bd13994560",
+     "Software": "2.3.8 HOTFIX 2"
+    },
+    "Changelog": "[*] sUNC 97%\n[*] Fixed getscriptclosure.\"\n\n[+] This build bypasses client modification but we still recommend using an alt.",
+    "Timestamp": "2025-10-23T16:32:44.480Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-889d2588b25a43d1",
+     "Software": "2.3.9"
+    },
+    "Changelog": "[*] sUNC 98%\n[*] Injection Stability 20x.\n[*] Fixed fuckass getproto bug breaking 15 funcs.\n[*] Fixed GC falsely triggering on some funcs.\n\n[+] This build's detection status is Unknown, will test.",
+    "Timestamp": "2025-11-04T05:31:17.951Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-4aeb17bd13994560",
+     "Software": "2.3.8 HOTFIX 2"
+    },
+    "Changelog": "[*] sUNC 97%\n[*] Fixed getscriptclosure.\"\n\n[+] This build bypasses client modification but we still recommend using an alt.",
+    "Timestamp": "2025-11-04T05:31:24.990Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-889d2588b25a43d1",
+     "Software": "2.3.9"
+    },
+    "Changelog": "[*] sUNC 98%\n[*] Injection Stability 20x.\n[*] Fixed fuckass getproto bug breaking 15 funcs.\n[*] Fixed GC falsely triggering on some funcs.\n\n[+] This build's detection status is Unknown, will test.",
+    "Timestamp": "2025-11-04T05:34:52.509Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-f6dd34ecac7b4642",
+     "Software": "2.4.0"
+    },
+    "Changelog": "[*] sUNC 98%\n[!] Roblox made updating a pain in the ass.\n\n[+] This build is most likely undetected, IDK",
+    "Timestamp": "2025-11-06T13:24:48.546Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-f6dd34ecac7b4642",
+     "Software": "2.4.0 HOTFIX"
+    },
+    "Changelog": "[*] sUNC 100%\n[+] Fixed getconnections",
+    "Timestamp": "2025-11-07T19:18:59.945Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-b7e223555d904550",
+     "Software": "2.4.1 R1"
+    },
+    "Changelog": "[+] Updated for version-b7e223555d904550\n\n[!] might be dtc I haven't tested",
+    "Timestamp": "2025-11-14T08:43:49.823Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-f6dd34ecac7b4642",
+     "Software": "2.4.0 HOTFIX"
+    },
+    "Changelog": "[*] sUNC 100%\n[+] Fixed getconnections",
+    "Timestamp": "2025-11-14T08:43:57.505Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-b7e223555d904550",
+     "Software": "2.4.1 R1"
+    },
+    "Changelog": "[+] Updated for version-b7e223555d904550\n\n[!] might be dtc I haven't tested",
+    "Timestamp": "2025-11-14T08:45:18.299Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-8e6e698468a04d3f",
+     "Software": "2.4.2 R1"
+    },
+    "Changelog": "[+] Updated for version-8e6e698468a04d3f\n\n[!] might be dtc I haven't tested",
+    "Timestamp": "2025-11-14T22:44:49.435Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-b7e223555d904550",
+     "Software": "2.4.1 R1"
+    },
+    "Changelog": "[+] Updated for version-b7e223555d904550\n\n[!] might be dtc I haven't tested",
+    "Timestamp": "2025-11-14T22:45:15.621Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-8e6e698468a04d3f",
+     "Software": "2.4.2 R1"
+    },
+    "Changelog": "[+] Updated for version-8e6e698468a04d3f\n\n[!] might be dtc I haven't tested",
+    "Timestamp": "2025-11-14T22:45:26.099Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-b7e223555d904550",
+     "Software": "2.4.1 R1"
+    },
+    "Changelog": "[+] Updated for version-b7e223555d904550\n\n[!] might be dtc I haven't tested",
+    "Timestamp": "2025-11-14T22:45:35.154Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-8e6e698468a04d3f",
+     "Software": "2.4.2 R1"
+    },
+    "Changelog": "[+] Updated for version-8e6e698468a04d3f\n\n[!] might be dtc I haven't tested",
+    "Timestamp": "2025-11-14T22:45:49.412Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-b7e223555d904550",
+     "Software": "2.4.1 R1"
+    },
+    "Changelog": "[+] Updated for version-b7e223555d904550\n\n[!] might be dtc I haven't tested",
+    "Timestamp": "2025-11-14T22:45:55.452Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-8e6e698468a04d3f",
+     "Software": "2.4.2 R1"
+    },
+    "Changelog": "[+] Updated for version-8e6e698468a04d3f\n\n[!] might be dtc I haven't tested",
+    "Timestamp": "2025-11-14T22:46:03.589Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-b7e223555d904550",
+     "Software": "2.4.1 R1"
+    },
+    "Changelog": "[+] Updated for version-b7e223555d904550\n\n[!] might be dtc I haven't tested",
+    "Timestamp": "2025-11-14T22:46:12.035Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-8e6e698468a04d3f",
+     "Software": "2.4.2 R1"
+    },
+    "Changelog": "[+] Updated for version-8e6e698468a04d3f\n\n[!] might be dtc I haven't tested",
+    "Timestamp": "2025-11-14T22:46:45.824Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-b7e223555d904550",
+     "Software": "2.4.1 R1"
+    },
+    "Changelog": "[+] Updated for version-b7e223555d904550\n\n[!] might be dtc I haven't tested",
+    "Timestamp": "2025-11-14T22:47:11.875Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-8e6e698468a04d3f",
+     "Software": "2.4.2 R1"
+    },
+    "Changelog": "[+] Updated for version-8e6e698468a04d3f\n\n[!] might be dtc I haven't tested",
+    "Timestamp": "2025-11-14T22:47:20.348Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-e380c8edc8f6477c",
+     "Software": "2.4.3 R1"
+    },
+    "Changelog": "[!] sUNC 98%, fireclickdetector bug\n[+] Updated for version-e380c8edc8f6477c\n\n[!] might be dtc I haven't tested",
+    "Timestamp": "2025-11-24T21:54:16.896Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-e380c8edc8f6477c",
+     "Software": "2.4.3 R2"
+    },
+    "Changelog": "[*] 100% sUNC\n[+] Fixed getconnections bug that caused fireclickdetector to fail sUNC\n[+] Fixed delay crash\n[+] Injector stability\n[+] UI now shows the error messages instead of just codes\n\n[!] Might be detected, I've not tested",
+    "Timestamp": "2025-11-29T09:58:12.017Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-5b077c09380f4fe6",
+     "Software": "2.4.4 R1"
+    },
+    "Changelog": "BUNNI UPDATE\n\nDrawinglib\n- [!] Rendering temporarily disabled\n\nInjector\n- [!] Complete injector overhaul\n- [+] Approximately 10x improvement in speed\n- [+] Fully usermode, unlike competitors\n\nDetection Status\n- [!] Current detection status is unknown",
+    "Timestamp": "2025-12-25T18:36:28.759Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-5b077c09380f4fe6",
+     "Software": "2.4.4 R2"
+    },
+    "Changelog": "BUNNI HOTFIX 2.4.4 R2\n\nDrawing lib\n- [+] Re-enabled rendering\n\nMisc Lib\n- [-] Fixed `setfflag` and `getfflag` not doing anything\n- [-] Fixed fast flag tamper detection issues\n\nScripts Lib\n- [-] Fixed `getsenv`, `getscripthash`, `getthreadfromscript`, `getscriptclosure`, and `decompile` falsely erroring with \"script with RunContext set to client expected\" in some cases\n- [-] Fixed `getscriptclosure` detection that could cause a client modification ban\n\nActor Lib\n- [-] Fixed `runonactor` not working at all & crashing\n\nReflection Lib\n- [-] Fixed `gethiddenproperty` not working for certain property types\n\nTeleport Handler\n- [-] Fixed autoexec sometimes not running\n- [-] Fixed client staying active in background after closing, causing UI to show \"Already Injected!\"\n\nDetection Status\n- [!] Current detection status is unknown",
+    "Timestamp": "2025-12-30T11:54:52.658Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-f8f53a67efca4c34",
+     "Software": "2.4.5 R1"
+    },
+    "Changelog": "BUNNI UPDATE\n\nBump\n- [+] Updated for version-f8f53a67efca4c34\n\nDetection Status\n- [!] Current detection status is unknown",
+    "Timestamp": "2025-12-31T19:53:09.240Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-f8f53a67efca4c34",
+     "Software": "2.4.5 R1 HOTFIX"
+    },
+    "Changelog": "BUNNI UPDATE\n\nInjector\n- [+] Fixed false version check error\n- [+] Fixed ghost process preventing injection\n- [+] Fixed incompatibility with unicode paths\n\nDetection Status\n- [+] Bunni bypasses client modification checks",
+    "Timestamp": "2026-01-03T13:54:48.363Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-f8f53a67efca4c34",
+     "Software": "2.4.5 R2"
+    },
+    "Changelog": "BUNNI UPDATE\n\nGeneral\n- [+] Fixed type-checking occasionally failing even when types are identical\n- [+] Added missing aliases\n\nActor Lib\n- [+] Fixed `run_on_actor` missing executor functions\n\nFilesystem\n- [+] Moved `Workspace` and `AutoExecute` to `%LocalAppData%\\\\Bunni`\n- [+] Fixed a vulnerability allowing \"../\" directory traversal\n\nDecompiler\n- [+] Fixed an issue where the decompiler wouldn't close\n\nDetection Status\n- [+] Bunni bypasses client modification checks",
+    "Timestamp": "2026-01-04T14:26:45.676Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-89d89cb2d6b649be",
+     "Software": "2.5.6 R2"
+    },
+    "Changelog": "BUNNI UPDATE\n\nGeneral\n- [+] Fixed a crash on inject in Deepwoken\n\nDetection Status\n- [+] Bunni bypasses client modification checks",
+    "Timestamp": "2026-01-09T05:50:03.010Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-1588a9c58c674e38",
+     "Software": "2.5.7 R1"
+    },
+    "Changelog": "BUNNI PRE-UPDATE\n\nGeneral\n- [!] There might be an issue with replicatesignal, I'll fix it later\n\nDetection Status\n- [+] Bunni bypasses client modification checks",
+    "Timestamp": "2026-01-14T21:24:51.774Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-1588a9c58c674e38",
+     "Software": "2.5.7 R2"
+    },
+    "Changelog": "General\n- [+] Fixed project auto\n- [+] Fixed unnamed enhancements\n- [+] Fixed Zenith Studios\n- [+] Fixed MaxHub\n- [+] Fixed fireproximityprompt\n- [+] Fixed firetouchinterest\n- [+] Fixed a restore & hookfunction issue\n- [+] Rewrote filtergc table filtering\n\nSecurity\n- [!] Patched request vulnerability\n\nDetection Status\n- [+] Bunni bypasses client modification checks",
+    "Timestamp": "2026-01-20T19:08:25.798Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-1588a9c58c674e38",
+     "Software": "2.5.7 R3"
+    },
+    "Changelog": "BUNNI HOTFIX\n\nGeneral\n- [+] Fixed error on launch",
+    "Timestamp": "2026-01-20T21:35:35.678Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-8b8c34790f814a73",
+     "Software": "2.5.8 R1"
+    },
+    "Changelog": "BUNNI UPDATE  Security - [!] Patched request vulnerability - [!] Fixed writefile vulnerability - [!] Fixed savedpc vulnerability in hookfunction  Closure Library - [+] Partial closure library rewrite  Drawing Library - [+] Fixed drawing objects not being GC'd after destruction  Signals Library - [+] Fixed getconnections not disconnecting signals after fire  Injector - **Introducing Sentry**     Bunni’s low-level introspection and instrumentation framework, now powering our usermode bypasses for future releases.  Detection Status - [+] Bunni bypasses client modification checks",
+    "Timestamp": "2026-01-26T21:20:26.381Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-f8734e043e1e40a2",
+     "Software": "2.6.7 R1"
+    },
+    "Changelog": "Updated it manually again!!",
+    "Timestamp": "2026-01-28T01:20:27.528Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-f8734e043e1e40a2",
+     "Software": "2.5.8 R1"
+    },
+    "Changelog": "BUNNI UPDATE\n\nNOTE:\n- [!] This is not a new update, but a changelog update for version tracking purposes.\n\nSecurity\n- [!] Patched request vulnerability\n- [!] Fixed writefile vulnerability\n- [!] Fixed savedpc vulnerability in hookfunction\n\nClosure Library\n- [+] Partial closure library rewrite\n\nDrawing Library\n- [+] Fixed drawing objects not being GC'd after destruction\n\nSignals Library\n- [+] Fixed getconnections not disconnecting signals after fire\n\nInjector\n- **Introducing Sentry**  \n  Bunni’s low-level introspection and instrumentation framework, now powering our usermode bypasses for future releases.\n\nDetection Status\n- [+] Bunni bypasses client modification checks",
+    "Timestamp": "2026-01-28T01:53:23.475Z"
+   },
+   {
+    "Platform": "Windows",
+    "Versions": {
+     "Roblox": "version-db4634f0e27d4d36",
+     "Software": "2.5.9 R1"
+    },
+    "Changelog": "BUNNI UPDATE\r\n\r\nInjector\r\n- Updated Sentry -> v1.2\r\n\r\nClosure Library\r\n- [+] Added `setstackhidden` / `isstackhidden`\r\n- [+] Fixed nested `newcclosure` crashing when hooking C closures\r\n- [+] Improved error message formatting in hooked functions\r\n- [+] Fixed various detections related to stack frames\r\n\r\nDebug Library\r\n- [+] Added `debug.setinfo`\r\n- [+] Added `debug.getcallstack\r\n- [+] Added `debug.validlevel` alias for `isvalidlevel`\r\n\r\nDetection Status\r\n- [+] Bunni bypasses client modification checks",
+    "Timestamp": "2026-02-01T05:31:54.625Z"
+   }
+  ],
+  "Platforms": {
+   "Windows": {
+    "Timestamp": "2026-03-06T22:30:09.150Z"
+   }
+  }
+ }
+}
